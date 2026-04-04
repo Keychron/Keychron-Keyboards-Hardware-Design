@@ -6,23 +6,23 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Available Models
 
-| Model | Layout | Size | Knob |
-|---|---|---|---|
-| Q0 Plus | Numpad | Numpad | — |
-| Q1 | 75% | 82-key | Yes |
-| Q2 | 65% | 68-key | Yes |
-| Q3 | TKL | 87-key | Yes |
-| Q4 | 60% | 61-key | — |
-| Q5 | 96% | 97-key | Yes |
-| Q6 | Full-size | 104-key | Yes |
-| Q7 | 70% | 72-key | Yes |
-| Q8 | Alice | 69-key | Yes |
-| Q9 | 40% | 52-key | — |
-| Q10 | 75% Alice | 82-key | Yes |
-| Q11 | 75% Split | 84-key | Yes |
-| Q12 | Southpaw 96% | 100-key | Yes |
-| Q60 | 60% | 64-key | — |
-| Q65 | 65% | 68-key | Yes |
+| Model | Layout | Size | Knob | README |
+|---|---|---|---|---|
+| Q0 Plus | Numpad | Numpad | Yes | [Open](./Q0-Plus/README.md) |
+| Q1 | 75% | 82-key | Yes | [Open](./Q1/README.md) |
+| Q2 | 65% | 68-key | Yes | [Open](./Q2/README.md) |
+| Q3 | TKL | 87-key | Yes | [Open](./Q3/README.md) |
+| Q4 | 60% | 61-key | No | [Open](./Q4/README.md) |
+| Q5 | 96% | 97-key | Yes | [Open](./Q5/README.md) |
+| Q6 | Full-size | 104-key | Yes | [Open](./Q6/README.md) |
+| Q7 | 70% | 72-key | Yes | [Open](./Q7/README.md) |
+| Q8 | Alice | 69-key | Yes | [Open](./Q8/README.md) |
+| Q9 | 40% | 52-key | Yes | [Open](./Q9/README.md) |
+| Q10 | 75% Alice | 82-key | Yes | [Open](./Q10/README.md) |
+| Q11 | 75% Split | 84-key | Yes | [Open](./Q11/README.md) |
+| Q12 | Southpaw 96% | 100-key | Yes | [Open](./Q12/README.md) |
+| Q60 | 60% | 64-key | No | [Open](./Q60/README.md) |
+| Q65 | 65% | 68-key | Yes | [Open](./Q65/README.md) |
 
 ## Download Files
 
@@ -30,7 +30,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 |---|---|---|
 | **Top Case and Bottom Case** | 3D CAD model of the keyboard enclosure | STEP |
 | **Plate** | Switch mounting plate with cutout dimensions (ANSI) | DXF / PDF |
-| **Encoder / Knob Specifications** | Rotary encoder housing and knob (knob models only) | STEP |
+| **Encoder / Knob Specifications** | Rotary encoder housing and knob (on applicable models) | STEP |
 | **US Full Model** | Complete assembled 3D model — case + plate + keycaps (ANSI) | STEP |
 | **Stabilizer** | Stabilizer housing and wire specifications | STEP |
 | **OSA Keycap** | OSA-profile keycap 3D models | STEP |
@@ -47,25 +47,21 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ```
 q-series/
-├── q0-plus/
-├── q1/
-├── q2/
-├── q3/
-├── q4/
-├── q5/
-├── q6/
-├── q7/
-├── q8/
-├── q9/
-├── q10/
-├── q11/
-├── q12/
-├── q60/
-├── q65/
-├── q1-he/
-├── l1/
-├── l3/
-├── osa-keycap/
+├── Q0-Plus/
+├── Q1/
+├── Q2/
+├── Q3/
+├── Q4/
+├── Q5/
+├── Q6/
+├── Q7/
+├── Q8/
+├── Q9/
+├── Q10/
+├── Q11/
+├── Q12/
+├── Q60/
+├── Q65/
 └── readme.md
 ```
 
@@ -73,7 +69,7 @@ q-series/
 
 This project is **source-available**. All design files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**
 
-See the [LICENSE](../LICENSE) file for full terms. 
+See the [LICENSE](../LICENSE) file for full terms.
 
 ## Links
 
