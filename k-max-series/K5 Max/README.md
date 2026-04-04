@@ -1,17 +1,17 @@
-# Keychron K1 Max — Hardware Design Files
+# Keychron K5 Max — Hardware Design Files
 
-> TKL low-profile 87-key ultra-slim wireless mechanical keyboard with tri-mode connectivity and 1000 Hz polling rate.
+> Full-size low-profile 108-key ultra-slim wireless mechanical keyboard with tri-mode connectivity and 1000 Hz polling rate.
 
-**Product page:** [Keychron K1 Max](https://www.keychron.com/products/keychron-k1-max-qmk-via-wireless-custom-mechanical-keyboard)
+**Product page:** [Keychron K5 Max](https://www.keychron.com/products/keychron-k5-max-qmk-via-wireless-custom-mechanical-keyboard)
 
 ## Specifications
 
 | Spec | Detail |
 |---|---|
-| Layout | TKL / 80% (87-key) |
+| Layout | Full-size (108-key) |
 | Case Material | ABS + Aluminum |
 | Profile | Low-profile |
-| Knob | — |
+| Knob | No |
 | Connectivity | Bluetooth 5.1 / 2.4 GHz / USB-C |
 | Polling Rate | 1000 Hz (2.4 GHz) |
 | Hot-swap | Yes (low-profile MX) |
@@ -38,4 +38,4 @@
 
 This project is **source-available**. These files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**
 
-See the [LICENSE](../../LICENSE) for full terms. 
+See the [LICENSE](../../LICENSE) for full terms.
