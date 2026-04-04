@@ -6,9 +6,9 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Available Models
 
-| Model | Layout | Size |
-|---|---|---|
-| P1 HE | 75% | 82-key |
+| Model | Layout | Size | Knob |
+|---|---|---|---|
+| [P1 HE](./P1%20HE/README.md) | 75% | 81-key | Yes |
 
 ## Download Files
 
@@ -17,6 +17,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | **Top Case and Bottom Case** | 3D CAD model of the keyboard enclosure | STEP |
 | **Plate** | Switch mounting plate with cutout dimensions (ANSI) | DXF / PDF |
 | **US Full Model** | Complete assembled 3D model — case + plate + keycaps (ANSI) | STEP |
+| **Encoder / Knob Specifications** | Rotary encoder housing and knob specifications | STEP |
 | **Stabilizer** | Stabilizer housing and wire specifications | STEP |
 
 ## Opening the Files
@@ -31,7 +32,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ```
 p-he-series/
-├── p1-he/
+├── P1 HE/
 └── readme.md
 ```
 
@@ -39,7 +40,7 @@ p-he-series/
 
 This project is **source-available**. All design files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**
 
-See the [LICENSE](../LICENSE) file for full terms. 
+See the [LICENSE](../LICENSE) file for full terms.
 
 ## Links
 
