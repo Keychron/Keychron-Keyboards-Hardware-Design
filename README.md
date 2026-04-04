@@ -8,7 +8,7 @@ This repository contains the complete industrial design files for Keychron's key
 
 | Series | Type | Models | Components |
 |---|---|---|---|
-| **Q Series** | Keyboard | Q1–Q12, Q60, Q65, L1, L3 + Q1 HE | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
+| **Q Series** | Keyboard | Q1–Q12, Q60, Q65| Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **Q Pro Series** | Keyboard | Q1 Pro–Q14 Pro | Case, Plate, Encoder, Full Model, Stabilizer, KSA Keycap |
 | **Q HE Series** | Hall Effect | Q1 HE, Q3 HE, Q5 HE, Q6 HE | Case, Plate, Full Model, Stabilizer |
 | **K Pro Series** | Keyboard | K1 Pro–K17 Pro (16 models) | Case, Plate, Full Model, Stabilizer |
