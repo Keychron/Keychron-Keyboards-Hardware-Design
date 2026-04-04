@@ -1,18 +1,14 @@
-# K HE Series — Hardware Design Files
+# P HE Series — Hardware Design Files
 
-> Hall Effect magnetic switch variants of the K-series. Adjustable actuation, rapid trigger, and wireless connectivity for gaming and enthusiast use.
+> Gaming-focused Hall Effect keyboard with rapid trigger and adjustable actuation. Built for competitive gaming.
 
 Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) repository.
 
 ## Available Models
 
-| Model | Layout | Size | Versions |
+| Model | Layout | Size | Knob |
 |---|---|---|---|
-| [K2 HE](./K2%20HE/README.md) | 75% | 84-key | Standard / Special Edition |
-| [K4 HE](./K4%20HE/README.md) | 96% | 100-key | Standard / Special Edition |
-| [K6 HE](./K6%20HE/README.md) | 65% | 68-key | Standard / Special Edition |
-| [K8 HE](./K8%20HE/README.md) | TKL | 87-key | Standard / Special Edition |
-| [K10 HE](./K10%20HE/README.md) | Full-size | 104-key | Standard / Special Edition |
+| [P1 HE](./P1%20HE/README.md) | 75% | 81-key | Yes |
 
 ## Download Files
 
@@ -21,8 +17,8 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | **Top Case and Bottom Case** | 3D CAD model of the keyboard enclosure | STEP |
 | **Plate** | Switch mounting plate with cutout dimensions (ANSI) | DXF / PDF |
 | **US Full Model** | Complete assembled 3D model — case + plate + keycaps (ANSI) | STEP |
+| **Encoder / Knob Specifications** | Rotary encoder housing and knob specifications | STEP |
 | **Stabilizer** | Stabilizer housing and wire specifications | STEP |
-| **Keycap** | Keycap 3D models specific to this series | STEP |
 
 ## Opening the Files
 
@@ -35,12 +31,8 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 ## Directory Structure
 
 ```
-k-he-series/
-├── K2 HE/
-├── K4 HE/
-├── K6 HE/
-├── K8 HE/
-├── K10 HE/
+P-HE-Series/
+├── P1 HE/
 └── readme.md
 ```
 
