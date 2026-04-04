@@ -1,6 +1,6 @@
 # Q Series — Hardware Design Files
 
-> Keychron's flagship aluminum custom mechanical keyboard line. Full industrial design files for case, plate, encoder, stabilizer, and complete assembly models.
+> Keychron's flagship aluminum custom mechanical keyboard line. Full industrial design files for case, plate, encoder, stabilizer, and complete assembly models. It's wired only. Check other series for wireless connectivity.
 
 Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) repository.
 
