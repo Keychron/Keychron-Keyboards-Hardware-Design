@@ -36,7 +36,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 ## Directory Structure
 
 ```
-mice/
+Mice/
 ├── M1/
 ├── M2/
 ├── M2 Mini/

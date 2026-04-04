@@ -29,7 +29,7 @@ git clone https://github.com/Keychron/hardware-design.git
 # Or grab just one model (sparse checkout)
 git clone --filter=blob:none --sparse https://github.com/Keychron/hardware-design.git
 cd hardware-design
-git sparse-checkout set keyboards/q-series/q1
+git sparse-checkout set Q-Series/Q1
 ```
 
 ## Opening the Files
@@ -44,11 +44,11 @@ git sparse-checkout set keyboards/q-series/q1
 
 ```
 keyboards/
-  q-series/q1/          — Case, plate, encoder, stabilizer, full model
-  q-pro-series/q1-pro/  — Same structure
+  Q-Series/Q1/          — Case, plate, encoder, stabilizer, full model
+  Q-Pro-Series/Q1 Pro/  — Same structure
   ...
-mice/
-  m1/                   — Shell, full model
+Mice/
+  M1/                   — Shell, full model
   ...
 keycaps/
   osa-profile/          — Row-by-row keycap 3D models

@@ -41,7 +41,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 ## Directory Structure
 
 ```
-k-max-series/
+K-Max-Series/
 ├── K1 Max/
 ├── K2 Max/
 ├── K3 Max/
