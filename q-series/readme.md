@@ -23,7 +23,6 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | Q12 | Southpaw 96% | 100-key | Yes |
 | Q60 | 60% | 64-key | — |
 | Q65 | 65% | 68-key | Yes |
-| Q1 HE | 75% Hall Effect | 82-key | Yes |
 
 ## Download Files
 
