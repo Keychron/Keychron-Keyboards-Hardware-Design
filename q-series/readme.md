@@ -1,6 +1,6 @@
 # Q Series — Hardware Design Files
 
-> Keychron's flagship aluminum custom mechanical keyboard line. Full industrial design files for case, plate, encoder, stabilizer, and complete assembly models. It's wired only. Check other series for wireless connectivity.
+> Keychron's flagship aluminum custom mechanical keyboard line. Full industrial design files for case, plate, encoder, stabilizer, and complete assembly models.
 
 Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) repository.
 
@@ -26,13 +26,11 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Download Files
 
-Each model includes the following design files:
-
 | File | Description | Format |
 |---|---|---|
-| **Top Case and Bottom Case** | 3D CAD model of the keyboard enclosure — top housing and bottom housing | STEP |
-| **Plate** | Switch mounting plate with cutout dimensions (ANSI layout) | DXF / PDF |
-| **Encoder / Knob Specifications** | Rotary encoder housing and knob dimensions (models with knob only) | STEP |
+| **Top Case and Bottom Case** | 3D CAD model of the keyboard enclosure | STEP |
+| **Plate** | Switch mounting plate with cutout dimensions (ANSI) | DXF / PDF |
+| **Encoder / Knob Specifications** | Rotary encoder housing and knob (knob models only) | STEP |
 | **US Full Model** | Complete assembled 3D model — case + plate + keycaps (ANSI) | STEP |
 | **Stabilizer** | Stabilizer housing and wire specifications | STEP |
 | **OSA Keycap** | OSA-profile keycap 3D models | STEP |
@@ -46,3 +44,39 @@ Each model includes the following design files:
 | `.pdf` | Any PDF viewer | — |
 
 ## Directory Structure
+
+```
+q-series/
+├── q0-plus/
+├── q1/
+├── q2/
+├── q3/
+├── q4/
+├── q5/
+├── q6/
+├── q7/
+├── q8/
+├── q9/
+├── q10/
+├── q11/
+├── q12/
+├── q60/
+├── q65/
+├── q1-he/
+├── l1/
+├── l3/
+├── osa-keycap/
+└── readme.md
+```
+
+## License
+
+This project is **source-available**. All design files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**
+
+See the [LICENSE](../LICENSE) file for full terms. 
+
+## Links
+
+- [Keychron Q Series](https://www.keychron.com/collections/keychron-q-series-keyboard)
+- [Open Source Design Center](https://www.keychron.com/collections/keychron-open-source)
+- [Main Repository](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
