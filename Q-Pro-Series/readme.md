@@ -41,7 +41,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 ## Directory Structure
 
 ```
-q-pro-series/
+Q-Pro-Series/
 ├── Q1 Pro/
 ├── Q2 Pro/
 ├── Q3 Pro/

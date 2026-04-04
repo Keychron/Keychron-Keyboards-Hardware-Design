@@ -1,17 +1,18 @@
-# Q HE Series — Hardware Design Files
+# K HE Series — Hardware Design Files
 
-> Hall Effect magnetic switch variants of the Q line, now centered on the Q HE 8K lineup with adjustable actuation, rapid trigger, and ultra-fast wired polling.
+> Hall Effect magnetic switch variants of the K-series. Adjustable actuation, rapid trigger, and wireless connectivity for gaming and enthusiast use.
 
 Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) repository.
 
 ## Available Models
 
-| Model | Layout | Size | Knob |
+| Model | Layout | Size | Versions |
 |---|---|---|---|
-| [Q1 HE](./Q1%20HE/README.md) | 75% | 82-key | Yes |
-| [Q3 HE](./Q3%20HE/README.md) | TKL | 87-key | Yes |
-| [Q5 HE](./Q5%20HE/README.md) | 96% | 97-key | Yes |
-| [Q6 HE](./Q6%20HE/README.md) | Full-size | 104-key | Yes |
+| [K2 HE](./K2%20HE/README.md) | 75% | 84-key | Standard / Special Edition |
+| [K4 HE](./K4%20HE/README.md) | 96% | 100-key | Standard / Special Edition |
+| [K6 HE](./K6%20HE/README.md) | 65% | 68-key | Standard / Special Edition |
+| [K8 HE](./K8%20HE/README.md) | TKL | 87-key | Standard / Special Edition |
+| [K10 HE](./K10%20HE/README.md) | Full-size | 104-key | Standard / Special Edition |
 
 ## Download Files
 
@@ -19,9 +20,9 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 |---|---|---|
 | **Top Case and Bottom Case** | 3D CAD model of the keyboard enclosure | STEP |
 | **Plate** | Switch mounting plate with cutout dimensions (ANSI) | DXF / PDF |
-| **Encoder / Knob Specifications** | Rotary encoder housing and knob specifications | STEP |
 | **US Full Model** | Complete assembled 3D model — case + plate + keycaps (ANSI) | STEP |
 | **Stabilizer** | Stabilizer housing and wire specifications | STEP |
+| **Keycap** | Keycap 3D models specific to this series | STEP |
 
 ## Opening the Files
 
@@ -34,11 +35,12 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 ## Directory Structure
 
 ```
-q-he-series/
-├── Q1 HE/
-├── Q3 HE/
-├── Q5 HE/
-├── Q6 HE/
+K-HE-Series/
+├── K2 HE/
+├── K4 HE/
+├── K6 HE/
+├── K8 HE/
+├── K10 HE/
 └── readme.md
 ```
 

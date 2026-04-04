@@ -47,7 +47,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 ## Directory Structure
 
 ```
-k-pro-series/
+K-Pro-Series/
 ├── K1 Pro/
 ├── K2 Pro/
 ├── K3 Pro/
