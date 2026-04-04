@@ -84,7 +84,6 @@ See the [LICENSE](LICENSE) file for full terms.
 - [Open Source Design Center](https://www.keychron.com/collections/keychron-open-source)
 - [Keychron Firmware (QMK)](https://github.com/Keychron/qmk_firmware)
 - [Keychron Firmware (ZMK)](https://github.com/Keychron/zmk)
-- [Reddit r/Keychron](https://www.reddit.com/r/Keychron/)
 
 ---
 
