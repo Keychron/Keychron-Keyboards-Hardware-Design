@@ -1,0 +1,79 @@
+# Contributing to Keychron Hardware Design
+
+Thank you for contributing to Keychron's source-available hardware project! Whether you're fixing a tolerance, adding an ISO plate variant, or improving documentation, every contribution helps.
+
+**Important:** This project is source-available with no commercial use permitted. By submitting a contribution, you agree that your contribution will be licensed under the same Keychron Source-Available License.
+
+## Types of Contributions
+
+### Bug Fixes / Corrections
+- Dimensional errors in STEP models
+- Incorrect screw hole positions or sizes
+- Plate cutout misalignment for specific switch types
+- Broken or corrupted files
+
+### New Content
+- ISO layout plate variants (currently missing)
+- Alternative plate materials (FR4, POM, polycarbonate)
+- Community case mods and accessories
+- 3D printing profiles and slicing presets
+- Additional keycap profile models
+
+### Documentation
+- Better file-format guides
+- Improved 3D printing instructions
+- Compatibility notes for specific CAD software
+
+## File Standards
+
+### Naming Convention
+```
+{component}-{variant}.{ext}
+```
+Examples:
+- `top-case.step`
+- `plate-ansi.dxf`
+- `plate-iso.dxf`
+- `encoder-knob.step`
+- `full-model-us.step`
+- `stabilizer-6.25u.step`
+
+### Formats
+- **3D models:** STEP (.step) preferred. IGES (.iges) accepted.
+- **2D drawings:** DXF (.dxf) preferred. Include a PDF export for reference.
+- **Units:** Millimeters (mm). Always.
+- **Origin:** Center of the PCB footprint, top surface.
+
+### Quality Checklist
+Before submitting:
+- [ ] File opens without errors in FreeCAD or Fusion 360
+- [ ] Dimensions are in millimeters
+- [ ] File is named following the convention above
+- [ ] Model is watertight (for 3D-printable components)
+- [ ] No proprietary software lock-in (no .f3d-only submissions)
+
+## How to Submit
+
+1. **Fork** this repository
+2. **Create a branch:** `git checkout -b fix/q1-plate-tolerance`
+3. **Add/modify files** following the standards above
+4. **Commit** with a clear message:
+   ```
+   fix(q1): correct plate cutout width for Cherry MX
+   add(q5): ISO plate variant
+   docs: add FreeCAD import guide
+   ```
+5. **Push** and open a **Pull Request**
+6. Include a screenshot or dimension comparison in the PR description
+
+## Large Files
+
+This repo uses **Git LFS** for binary CAD files. Make sure you have it installed:
+```bash
+git lfs install
+```
+LFS will automatically handle `.step`, `.iges`, `.dwg`, `.stl`, and `.3mf` files.
+
+## Code of Conduct
+
+All contributors must follow our [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful, constructive, and welcoming.
