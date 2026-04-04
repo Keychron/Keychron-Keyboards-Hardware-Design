@@ -7,19 +7,19 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Available Models
 
-| Model | Layout | Size |
-|---|---|---|
-| K1 Max | Full-size Low-profile | 104-key |
-| K2 Max | 75% | 84-key |
-| K3 Max | 75% Low-profile | 84-key |
-| K5 Max | Full-size Low-profile | 104-key |
-| K7 Max | 65% Low-profile | 68-key |
-| K8 Max | TKL | 87-key |
-| K10 Max | Full-size | 104-key |
-| K11 Max | 65% Low-profile | 68-key |
-| K13 Max | TKL Low-profile | 87-key |
-| K15 Max | Alice Low-profile | 87-key |
-| K17 Max | Numpad | 21-key |
+| Model | Layout | Size | Knob |
+|---|---|---|---|
+| [K1 Max](./K1%20Max/README.md) | TKL Low-profile | 87-key | — |
+| [K2 Max](./K2%20Max/README.md) | 75% | 84-key | — |
+| [K3 Max](./K3%20Max/README.md) | 75% Low-profile | 84-key | — |
+| [K5 Max](./K5%20Max/README.md) | Full-size Low-profile | 108-key | — |
+| [K7 Max](./K7%20Max/README.md) | 65% Low-profile | 68-key | — |
+| [K8 Max](./K8%20Max/README.md) | TKL | 87-key | — |
+| [K10 Max](./K10%20Max/README.md) | Full-size | 108-key | — |
+| [K11 Max](./K11%20Max/README.md) | Alice Low-profile | 68-key | Yes |
+| [K13 Max](./K13%20Max/README.md) | 80% Low-profile with numpad | 90-key | — |
+| [K15 Max](./K15%20Max/README.md) | Alice Low-profile | 90-key | — |
+| [K17 Max](./K17%20Max/README.md) | 96% Low-profile | 104-key | — |
 
 ## Download Files
 
@@ -42,17 +42,17 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ```
 k-max-series/
-├── k1-max/
-├── k2-max/
-├── k3-max/
-├── k5-max/
-├── k7-max/
-├── k8-max/
-├── k10-max/
-├── k11-max/
-├── k13-max/
-├── k15-max/
-├── k17-max/
+├── K1 Max/
+├── K2 Max/
+├── K3 Max/
+├── K5 Max/
+├── K7 Max/
+├── K8 Max/
+├── K10 Max/
+├── K11 Max/
+├── K13 Max/
+├── K15 Max/
+├── K17 Max/
 └── readme.md
 ```
 
@@ -60,7 +60,7 @@ k-max-series/
 
 This project is **source-available**. All design files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**
 
-See the [LICENSE](../LICENSE) file for full terms. 
+See the [LICENSE](../LICENSE) file for full terms.
 ## Links
 
 - [Open Source Design Center](https://www.keychron.com/collections/keychron-open-source)

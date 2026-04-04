@@ -1,17 +1,17 @@
-# Keychron K1 Max — Hardware Design Files
+# Keychron K15 Max — Hardware Design Files
 
-> TKL low-profile 87-key ultra-slim wireless mechanical keyboard with tri-mode connectivity and 1000 Hz polling rate.
+> Alice low-profile 90-key ultra-slim wireless mechanical keyboard with tri-mode connectivity and 1000 Hz polling rate.
 
-**Product page:** [Keychron K1 Max](https://www.keychron.com/products/keychron-k1-max-qmk-via-wireless-custom-mechanical-keyboard)
+**Product page:** [Keychron K15 Max](https://www.keychron.com/products/keychron-k15-max-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
 
 ## Specifications
 
 | Spec | Detail |
 |---|---|
-| Layout | TKL / 80% (87-key) |
+| Layout | Alice / 75% (90-key) |
 | Case Material | ABS + Aluminum |
 | Profile | Low-profile |
-| Knob | — |
+| Knob | No |
 | Connectivity | Bluetooth 5.1 / 2.4 GHz / USB-C |
 | Polling Rate | 1000 Hz (2.4 GHz) |
 | Hot-swap | Yes (low-profile MX) |
@@ -22,7 +22,7 @@
 | File | Description |
 |---|---|
 | `top-case-and-bottom-case` | 3D CAD model of the top and bottom enclosure |
-| `plate` | Switch plate with ANSI cutout dimensions |
+| `plate` | Switch plate with Alice layout cutout dimensions |
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
@@ -38,4 +38,4 @@
 
 This project is **source-available**. These files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**
 
-See the [LICENSE](../../LICENSE) for full terms. 
+See the [LICENSE](../../LICENSE) for full terms.
