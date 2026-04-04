@@ -60,7 +60,7 @@ q-pro-series/
 
 This project is **source-available**. All design files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**
 
-See the [LICENSE](../LICENSE) file for full terms. For commercial licensing inquiries, contact opensource@keychron.com.
+See the [LICENSE](../LICENSE) file for full terms. 
 
 ## Links
 
