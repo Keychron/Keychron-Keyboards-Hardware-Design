@@ -63,20 +63,23 @@ If you're new, begin with one of these paths:
 ## Directory Structure
 
 ```
-keyboards/
-  Q-Series/Q1/          — Case, plate, encoder, stabilizer, full model
-  Q-Pro-Series/Q1 Pro/  — Same structure
-  L-Series/L1/          — Case, plate, knob, stabilizer, full model
-  ...
+Q-Series/
+  Q1/                   — Case, plate, encoder, stabilizer, full model
+Q-Pro-Series/
+  Q1 Pro/               — Wireless Q-series hardware files
+K-Pro-Series/
+  K6 Pro/               — Keyboard case, plate, stabilizer, full model
+V-Max-Series/
+  V1 Max/               — Tri-mode keyboard hardware files
 Mice/
-  M1/                   — Shell, full model
-  ...
-keycaps/
-  osa-profile/          — Row-by-row keycap 3D models
-  ksa-profile/
+  M1/                   — Shell and full model
+Keycap Profiles/
+  OSA Profile/          — Profile-specific keycap geometry
+  KSA Profile/
 docs/
   file-format-guide.md  — How to open and edit these files
-  3d-printing-guide.md  — Tips for printing cases and keycaps
+  getting-started.md    — First-stop guide for browsing and remixing
+  3d-printing-guide.md  — Practical printing guidance for compatible parts
 ```
 
 ## Why This Matters
