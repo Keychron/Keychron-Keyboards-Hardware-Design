@@ -1,0 +1,78 @@
+name: Update Model Count Badge
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Q-Series/**'
+      - 'Q-Pro-Series/**'
+      - 'Q-HE-Series/**'
+      - 'K-Pro-Series/**'
+      - 'K-Max-Series/**'
+      - 'K-HE-Series/**'
+      - 'V-Max-Series/**'
+      - 'P-HE-Series/**'
+      - 'L-Series/**'
+      - 'Mice/**'
+      - 'Keycap Profiles/**'
+  workflow_dispatch:
+
+jobs:
+  count-models:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Count model directories
+        id: count
+        run: |
+          SERIES_DIRS=(
+            "Q-Series"
+            "Q-Pro-Series"
+            "Q-HE-Series"
+            "K-Pro-Series"
+            "K-Max-Series"
+            "K-HE-Series"
+            "V-Max-Series"
+            "P-HE-Series"
+            "L-Series"
+            "Mice"
+            "Keycap Profiles"
+          )
+
+          COUNT=0
+          for dir in "${SERIES_DIRS[@]}"; do
+            if [ -d "$dir" ]; then
+              n=$(find "$dir" -mindepth 1 -maxdepth 1 -type d | wc -l)
+              echo "  $dir: $n models"
+              COUNT=$((COUNT + n))
+            fi
+          done
+
+          echo "Total models: $COUNT"
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Write badge JSON
+        run: |
+          mkdir -p .github/badges
+          cat > .github/badges/model-count.json << EOF
+          {
+            "schemaVersion": 1,
+            "label": "models uploaded",
+            "message": "${{ steps.count.outputs.count }}",
+            "color": "brightgreen",
+            "namedLogo": "github"
+          }
+          EOF
+
+      - name: Commit badge update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/badges/model-count.json
+          git diff --staged --quiet || git commit -m "chore: update model count badge [skip ci]"
+          git push
