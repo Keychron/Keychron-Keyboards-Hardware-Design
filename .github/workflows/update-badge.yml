@@ -30,6 +30,7 @@ jobs:
       - name: Count model directories
         id: count
         run: |
+          # Only count actual device model directories (not Keycap Profiles)
           SERIES_DIRS=(
             "Q-Series"
             "Q-Pro-Series"
@@ -41,7 +42,6 @@ jobs:
             "P-HE-Series"
             "L-Series"
             "Mice"
-            "Keycap Profiles"
           )
 
           COUNT=0

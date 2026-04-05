@@ -19,6 +19,8 @@
 
 ## Included Files
 
+> **Note:** Design files for this model have not been uploaded yet. Check back for updates or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
+
 | File | Description |
 |---|---|
 | `top-case-and-bottom-case` | 3D CAD model of the top and bottom enclosure |

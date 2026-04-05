@@ -31,15 +31,15 @@ Thank you for contributing to Keychron's source-available hardware project! Whet
 {component}-{variant}.{ext}
 ```
 Examples:
-- `top-case.step`
+- `top-case.stp`
 - `plate-ansi.dxf`
 - `plate-iso.dxf`
-- `encoder-knob.step`
-- `full-model-us.step`
-- `stabilizer-6.25u.step`
+- `encoder-knob.stp`
+- `full-model-us.stp`
+- `stabilizer-6.25u.stp`
 
 ### Formats
-- **3D models:** STEP (.step) preferred. IGES (.iges) accepted.
+- **3D models:** STEP (.stp) preferred. IGES (.iges) accepted.
 - **2D drawings:** DXF (.dxf) preferred. Include a PDF export for reference.
 - **Units:** Millimeters (mm). Always.
 - **Origin:** Center of the PCB footprint, top surface.

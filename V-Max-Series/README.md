@@ -8,14 +8,14 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 | Model | Layout | Size | Knob |
 |---|---|---|---|
-| V1 Max | 75% | 82-key | Yes |
-| V2 Max | 65% | 68-key | — |
-| V3 Max | TKL | 87-key | Yes |
-| V4 Max | 60% | 61-key | — |
-| V5 Max | 96% | 97-key | Yes |
-| V6 Max | Full-size | 104-key | Yes |
-| V8 Max | Alice | 69-key | Yes |
-| V10 Max | 75% Alice | 82-key | Yes |
+| [V1 Max](./V1%20Max/README.md) | 75% | 82-key | Yes |
+| [V2 Max](./V2%20Max/README.md) | 65% | 68-key | — |
+| [V3 Max](./V3%20Max/README.md) | TKL | 87-key | Yes |
+| [V4 Max](./V4%20Max/README.md) | 60% | 61-key | — |
+| [V5 Max](./V5%20Max/README.md) | 96% | 97-key | Yes |
+| [V6 Max](./V6%20Max/README.md) | Full-size | 104-key | Yes |
+| [V8 Max](./V8%20Max/README.md) | Alice | 69-key | Yes |
+| [V10 Max](./V10%20Max/README.md) | 75% Alice | 82-key | Yes |
 
 ## Download Files
 
@@ -55,7 +55,7 @@ V-Max-Series/
 
 This project is **source-available**. All design files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**
 
-See the [LICENSE](../LICENSE) file for full terms. 
+See the [LICENSE](../LICENSE) file for full terms.
 
 ## Links
 

@@ -18,7 +18,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [K10 Max](./K10%20Max/README.md) | Full-size | 108-key | — |
 | [K11 Max](./K11%20Max/README.md) | Alice Low-profile | 68-key | Yes |
 | [K13 Max](./K13%20Max/README.md) | 80% Low-profile with numpad | 90-key | — |
-| [K15 Max](./K15%20Max/README.md) | Alice Low-profile | 90-key | — |
+| [K15 Max](./K15%20Max/README.md) | Alice Low-profile | 90-key | Yes |
 | [K17 Max](./K17%20Max/README.md) | 96% Low-profile | 104-key | — |
 
 ## Download Files
@@ -61,6 +61,7 @@ K-Max-Series/
 This project is **source-available**. All design files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**
 
 See the [LICENSE](../LICENSE) file for full terms.
+
 ## Links
 
 - [Open Source Design Center](https://www.keychron.com/collections/keychron-open-source)
