@@ -20,25 +20,6 @@ This repository contains the complete industrial design files for Keychron's key
 
 **100+ models. 500+ design files. Source-available. No commercial use.**
 
-## Quick Start
-
-```bash
-# Clone (uses Git LFS for binary CAD files)
-git clone https://github.com/Keychron/hardware-design.git
-
-# Or grab just one model (sparse checkout)
-git clone --filter=blob:none --sparse https://github.com/Keychron/hardware-design.git
-cd hardware-design
-git sparse-checkout set Q-Series/Q1
-```
-
-## Opening the Files
-
-| Format | Software |
-|---|---|
-| `.step` / `.stp` | FreeCAD (free), Fusion 360 (free for personal), SolidWorks, Onshape |
-| `.dxf` / `.dwg` | LibreCAD (free), AutoCAD, DraftSight |
-| `.pdf` | Any PDF viewer — used for 2D reference drawings |
 
 ## Directory Structure
 
@@ -71,8 +52,6 @@ Making production hardware files available is a meaningful contribution to the b
 The non-commercial restriction protects Keychron's business while still giving makers, learners, and enthusiasts a strong foundation for experimentation. In practice, that balance turns passive users into active contributors and helps the community learn and innovate faster.
 
 ## Contributing
-
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 **Ways to contribute:**
 - Fix dimensional errors or tolerances in existing models
