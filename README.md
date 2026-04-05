@@ -58,6 +58,18 @@ docs/
   3d-printing-guide.md  — Tips for printing cases and keycaps
 ```
 
+## Why This Matters
+
+Making production hardware files available is a meaningful contribution to the broader hardware and keyboard community.
+
+- It lowers the barrier to entry by giving hobbyists, students, and engineers real STEP and DXF files they can study, remix, and build from instead of starting from zero.
+- It expands what customization can mean. With access to case, plate, and component designs, the community can explore deeper hardware changes, new materials, structural tweaks, and original variations.
+- It offers real educational value. These are production-level designs, so people can learn from actual decisions around mounting systems, tolerances, and component integration.
+- It helps the ecosystem grow by enabling compatible accessories, modifications, and personal projects that build around existing designs.
+- It also reflects trust and transparency. Sharing internal design files signals confidence in the products and supports users as creators, not just customers.
+
+The non-commercial restriction protects Keychron's business while still giving makers, learners, and enthusiasts a strong foundation for experimentation. In practice, that balance turns passive users into active contributors and helps the community learn and innovate faster.
+
 ## Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
