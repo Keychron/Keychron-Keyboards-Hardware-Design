@@ -5,9 +5,9 @@ This guide is for anyone opening the repository for the first time and wanting a
 ## 1. Pick a Product Family
 
 Start by choosing the kind of hardware you want to explore:
-- `keyboards/` for keyboard models and related parts
+- `Q-Series/`, `Q-Pro-Series/`, `Q-HE-Series/`, `K-Pro-Series/`, `K-Max-Series/`, `K-HE-Series/`, `V-Max-Series/`, `P-HE-Series/`, and `L-Series/` for keyboard models and related parts
 - `Mice/` for mouse shell and full-model files
-- `keycaps/` for profile-specific keycap geometry
+- `Keycap Profiles/` for profile-specific keycap geometry
 
 If you are just browsing, start with a single model instead of the whole repository.
 
