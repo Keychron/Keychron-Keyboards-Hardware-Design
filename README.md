@@ -12,6 +12,36 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ![Keychron hardware design hero](docs/assets/hero-keychron-hardware-design.jpg)
 
+## Start Here
+
+If you're new, begin with one of these paths:
+
+- **Browse keyboard files**  
+  Explore Q, Q Pro, Q HE, K Pro, K Max, K HE, V Max, and P HE models.
+
+- **Browse mouse files**  
+  Explore shell and full-model files for M and G series mice.
+
+- **Open the files in CAD software**  
+  Read the [File Format Guide](docs/file-format-guide.md) for STEP, DWG, DXF, and PDF compatibility.
+
+- **Learn how to remix or modify a design**  
+  Start with the [Getting Started Guide](docs/getting-started.md).
+
+- **Contribute fixes or improvements**  
+  Read [Contributing](CONTRIBUTING) for workflow, file standards, and submission rules.
+
+- **Understand the license before building**  
+  Read the [License FAQ](docs/license-faq.md).
+
+## What You Can Do With This Repository
+
+- Study real industrial design and hardware packaging files
+- Create non-commercial case, plate, and accessory remixes
+- Inspect dimensions, structure, and component integration
+- Build community mods and compatible add-ons
+- Contribute documentation, corrections, and new non-commercial variants
+
 ## What's Inside
 
 | Series | Type | Models | Components |
