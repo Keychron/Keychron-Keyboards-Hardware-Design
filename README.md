@@ -1,7 +1,7 @@
 # Keychron Hardware Design — Source Available
 
-[![Tag](https://img.shields.io/github/v/tag/Keychron/Keychron-Keyboards-Hardware-Design?label=tag)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/tags)
-[![Models Uploaded](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Keychron/Keychron-Keyboards-Hardware-Design/main/.github/badges/model-count.json)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+[![Repo](https://img.shields.io/badge/repo-source--available-4c1)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+[![Models Uploaded](https://img.shields.io/badge/models%20uploaded-89-brightgreen)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 [![Docs](https://img.shields.io/badge/docs-ready-brightgreen)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/tree/main/docs)
 [![Contributors](https://img.shields.io/github/contributors/Keychron/Keychron-Keyboards-Hardware-Design)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/Keychron/Keychron-Keyboards-Hardware-Design?label=Fork)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/network/members)
