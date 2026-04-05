@@ -1,1 +1,29 @@
+# CAD backup / temp files
+*.bak
+*.tmp
+*.autosave
+*~
+~$*
+*.lck
+
+# Fusion 360 local cache
+*.f3d.bak
+*.f3d~
+
+# SolidWorks temp
+swxmlserializer/
+~*.sldprt
+~*.sldasm
+
+# FreeCAD temp
+*.FCStd1
+
+# OS
 .DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# IDE
+.vscode/
+.idea/
