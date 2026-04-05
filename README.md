@@ -1,5 +1,9 @@
 # Keychron Hardware Design
 
+[![Models Uploaded](https://img.shields.io/badge/models%20uploaded-89-brightgreen)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+[![Repo](https://img.shields.io/badge/repo-source--available-4c1)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+[![Docs](https://img.shields.io/badge/docs-ready-brightgreen)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/tree/main/docs)
+
 Production-grade hardware design files for Keychron keyboards and mice.
 
 Study real CAD. Remix plates and cases. Design compatible accessories. Learn from how real products are built.
