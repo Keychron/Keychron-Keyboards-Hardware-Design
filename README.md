@@ -1,5 +1,9 @@
 # Keychron Hardware Design — Source Available
 
+[![Models Uploaded](https://img.shields.io/badge/models%20uploaded-89-brightgreen)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+[![Repo](https://img.shields.io/badge/repo-source--available-4c1)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+[![Docs](https://img.shields.io/badge/docs-ready-brightgreen)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/tree/main/docs)
+
 **Open keyboards. Open mice. Source-available design files.**
 
 This repository contains the complete industrial design files for Keychron's keyboard and mouse product lines — case models, plate drawings, stabilizer specs, encoder assemblies, and keycap profiles. Free to view, learn from, and modify for personal use. Commercial use is strictly prohibited.
