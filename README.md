@@ -58,7 +58,7 @@ If you're new, begin with one of these paths:
 | **Mouse Series** | Mouse | M1–M7, G1, G2 (10 models) | Shell, Full Model |
 
 **100+ models. 500+ design files. Source-available. No commercial use.**
-
+![Keychron keyboards structure design](docs/assets/keychron keyboards structures.webp)
 
 ## Directory Structure
 
