@@ -19,7 +19,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | File | Description | Format |
 |---|---|---|
 | **Top Case and Bottom Case** | 3D CAD model of the keyboard enclosure | STEP |
-| **Plate** | Switch mounting plate with cutout dimensions (ANSI) | DXF / PDF |
+| **Plate** | Switch mounting plate with cutout dimensions (ANSI) | DWG / PDF |
 | **US Full Model** | Complete assembled 3D model — case + plate + keycaps (ANSI) | STEP |
 | **Stabilizer** | Stabilizer housing and wire specifications | STEP |
 | **Keycap** | Keycap 3D models specific to this series | STEP |
@@ -29,7 +29,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | Format | Free Software | Commercial Software |
 |---|---|---|
 | `.step` | FreeCAD, Onshape (browser) | Fusion 360, SolidWorks |
-| `.dxf` | LibreCAD, QCAD | AutoCAD, DraftSight |
+| `.dwg` | LibreCAD (limited), QCAD | AutoCAD, DraftSight |
 | `.pdf` | Any PDF viewer | — |
 
 ## Directory Structure
@@ -41,7 +41,7 @@ K-HE-Series/
 ├── K6 HE/
 ├── K8 HE/
 ├── K10 HE/
-└── readme.md
+└── README.md
 ```
 
 ## License

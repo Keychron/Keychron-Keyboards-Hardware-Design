@@ -53,7 +53,7 @@ K-Max-Series/
 ├── K13 Max/
 ├── K15 Max/
 ├── K17 Max/
-└── readme.md
+└── README.md
 ```
 
 ## License

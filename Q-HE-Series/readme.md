@@ -39,7 +39,7 @@ Q-HE-Series/
 ├── Q3 HE/
 ├── Q5 HE/
 ├── Q6 HE/
-└── readme.md
+└── README.md
 ```
 
 ## License

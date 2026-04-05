@@ -33,7 +33,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 ```
 P-HE-Series/
 ├── P1 HE/
-└── readme.md
+└── README.md
 ```
 
 ## License

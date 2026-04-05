@@ -64,7 +64,7 @@ K-Pro-Series/
 ├── K14 Pro/
 ├── K15 Pro/
 ├── K17 Pro/
-└── readme.md
+└── README.md
 ```
 
 ## License

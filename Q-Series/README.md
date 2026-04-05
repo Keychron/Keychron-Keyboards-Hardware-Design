@@ -65,6 +65,16 @@ Q-Series/
 └── README.md
 ```
 
+## Board Revisions
+
+Some Q-Series models include files for multiple board revisions, indicated by letter suffixes:
+
+- **Q3:** Revision A (original) and B (updated)
+- **Q5:** Revision A (original) and B (updated, knob version)
+- **Q6:** Revision B and C
+
+Revision differences typically involve PCB layout changes, updated stabilizer positions, or additional features (e.g., knob support). Both revisions are provided so community members can work with whichever version matches their board.
+
 ## License
 
 This project is **source-available**. All design files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**

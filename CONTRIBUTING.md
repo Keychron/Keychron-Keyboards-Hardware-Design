@@ -27,16 +27,21 @@ Thank you for contributing to Keychron's source-available hardware project! Whet
 ## File Standards
 
 ### Naming Convention
+
+Official files follow the pattern:
 ```
-{component}-{variant}.{ext}
+{Model}-{Variant}-{Component}-{Date}.{ext}
 ```
-Examples:
-- `top-case.stp`
-- `plate-ansi.dxf`
-- `plate-iso.dxf`
-- `encoder-knob.stp`
-- `full-model-us.stp`
-- `stabilizer-6.25u.stp`
+Examples from the repo:
+- `Q1-Top-Case.stp`
+- `K8-Max-US-Aluminum-Plate-20240924.dwg`
+- `V2-Max-US-Full-Model-20240812.stp`
+- `Stabilizer-6.25u.stp`
+
+For community contributions, use Title-Case with hyphens, matching the model prefix:
+- `Q1-ISO-Plate.dxf`
+- `K8-Max-POM-Plate.stp`
+- `Q5-FR4-Plate.dxf`
 
 ### Formats
 - **3D models:** STEP (.stp) preferred. IGES (.iges) accepted.

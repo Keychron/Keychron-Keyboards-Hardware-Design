@@ -52,7 +52,7 @@ Q-Pro-Series/
 ├── Q10 Pro/
 ├── Q13 Pro/
 ├── Q14 Pro/
-└── readme.md
+└── README.md
 ```
 
 ## License

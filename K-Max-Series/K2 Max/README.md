@@ -21,7 +21,7 @@
 
 | File | Description |
 |---|---|
-| `top-case-and-bottom-case` | 3D CAD model of the top and bottom enclosure |
+| `bottom-case` | 3D CAD model of the bottom enclosure (top case not yet available) |
 | `plate` | Switch plate with ANSI cutout dimensions |
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |

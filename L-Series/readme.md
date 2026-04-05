@@ -35,7 +35,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 L-Series/
 ├── L1/
 ├── L3/
-└── readme.md
+└── README.md
 ```
 
 ## License
