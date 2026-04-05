@@ -39,17 +39,16 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 ## Directory Structure
 
 ```
-v-max-series/
-├── v1-max/
-├── v2-max/
-├── v3-max/
-├── v4-max/
-├── v5-max/
-├── v6-max/
-├── v8-max/
-├── v10-max/
-├── osa-keycap/
-└── readme.md
+V-Max-Series/
+├── V1 Max/
+├── V2 Max/
+├── V3 Max/
+├── V4 Max/
+├── V5 Max/
+├── V6 Max/
+├── V8 Max/
+├── V10 Max/
+└── README.md
 ```
 
 ## License

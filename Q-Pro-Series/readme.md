@@ -52,7 +52,6 @@ Q-Pro-Series/
 ├── Q10 Pro/
 ├── Q13 Pro/
 ├── Q14 Pro/
-├── ksa-keycap/
 └── readme.md
 ```
 
