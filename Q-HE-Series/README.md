@@ -1,6 +1,6 @@
 # Q HE Series — Hardware Design Files
 
-> Hall Effect magnetic switch variants of the Q line, now centered on the Q HE 8K lineup with adjustable actuation, rapid trigger, and ultra-fast wired polling.
+> Hall Effect magnetic switch variants of the Q line with adjustable actuation, rapid trigger, tri-mode connectivity, and QMK customization.
 
 Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) repository.
 

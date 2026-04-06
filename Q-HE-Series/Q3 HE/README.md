@@ -1,8 +1,8 @@
 # Keychron Q3 HE — Hardware Design Files
 
-> TKL magnetic switch custom keyboard with a programmable knob, adjustable actuation, rapid trigger, and 8K wired polling.
+> TKL magnetic switch custom keyboard with a programmable knob, adjustable actuation, rapid trigger, and tri-mode connectivity.
 
-**Product page:** [Keychron Q3 HE 8K](https://www.keychron.com/products/keychron-q3-he-8k-magnetic-switch-keyboard)
+**Product page:** [Keychron Q3 HE](https://www.keychron.com/products/keychron-q3-he-qmk-wireless-custom-keyboard)
 
 ![Q3 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q3-HE-page1.jpg)
 
@@ -14,9 +14,9 @@
 | Mount | Double-gasket |
 | Case Material | Full aluminum |
 | Knob | Yes |
-| Switch Type | Keychron Ultra-Fast Lime Magnetic Switch |
-| Connectivity | USB-C wired |
-| Polling Rate | 8000 Hz (wired) |
+| Switch Type | Gateron Double-Rail Magnetic Nebula Switch |
+| Connectivity | 2.4 GHz / Bluetooth 5.2 / USB-C |
+| Polling Rate | 1000 Hz (wired and 2.4 GHz) / 90 Hz (Bluetooth) |
 | Rapid Trigger | Yes |
 | Adjustable Actuation | Yes |
 | Firmware | Keychron Launcher / QMK |
