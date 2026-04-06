@@ -35,6 +35,11 @@
 |---|---|---|
 | `.stp` | FreeCAD, Onshape | Fusion 360, SolidWorks |
 
+## Links
+
+- [Firmware Source (Q11)](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q11)
+- [Series Overview](../README.md)
+
 ## License
 
 This project is **source-available**. These files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**

@@ -35,6 +35,11 @@
 | `.dxf` | LibreCAD, QCAD | AutoCAD, DraftSight |
 | `.pdf` | Any PDF viewer | — |
 
+## Links
+
+- [Firmware Source (K11 Max)](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k11_max)
+- [Series Overview](../README.md)
+
 ## License
 
 This project is **source-available**. These files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**

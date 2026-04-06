@@ -35,6 +35,11 @@
 | `.dwg` | LibreCAD (limited), QCAD | AutoCAD, DraftSight |
 | `.pdf` | Any PDF viewer | — |
 
+## Links
+
+- [Firmware Source (K2 HE)](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k2_he)
+- [Series Overview](../README.md)
+
 ## License
 
 This project is **source-available**. These files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**

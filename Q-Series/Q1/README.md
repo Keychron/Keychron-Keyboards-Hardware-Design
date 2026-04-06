@@ -34,6 +34,11 @@
 | `.dxf` | LibreCAD, QCAD | AutoCAD, DraftSight |
 | `.pdf` | Any PDF viewer | — |
 
+## Links
+
+- [Firmware Source (Q1)](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q1)
+- [Series Overview](../README.md)
+
 ## License
 
 This project is **source-available**. These files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**

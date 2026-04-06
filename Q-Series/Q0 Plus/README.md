@@ -43,6 +43,11 @@ The Q0 Plus is a 27-key gasket-mounted aluminum numpad designed for productivity
 
 These hardware design files are provided for **personal, educational, and non-commercial use only**. Commercial use, reproduction, or distribution of these files or derivative works is prohibited without explicit written permission from Keychron.
 
+## Links
+
+- [Firmware Source (Q0 Plus)](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q0_plus)
+- [Series Overview](../README.md)
+
 ## License
 
 © Keychron. All rights reserved.

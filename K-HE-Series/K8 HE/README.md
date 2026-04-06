@@ -21,3 +21,7 @@
 
 > **Note:** Design files for this model have not been uploaded yet. Check back for updates or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
 
+## Links
+
+- [Firmware Source (K8 HE)](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k8_he)
+- [Series Overview](../README.md)
