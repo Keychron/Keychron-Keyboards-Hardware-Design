@@ -16,6 +16,7 @@
 | Polling Rate | 1000 Hz |
 | Adjustable Actuation | Yes |
 | Firmware | QMK / Keychron Launcher |
+| Firmware Source | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k2_he) |
 
 ## Included Files
 
