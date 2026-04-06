@@ -8,16 +8,16 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 | Model | Layout | Size | Knob | Firmware |
 |---|---|---|---|---|
-| [Q1 Pro](./Q1%20Pro/README.md) | 75% | 82-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q1_pro) |
-| [Q2 Pro](./Q2%20Pro/README.md) | 65% | 68-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q2_pro) |
-| [Q3 Pro](./Q3%20Pro/README.md) | TKL | 87-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q3_pro) |
-| [Q4 Pro](./Q4%20Pro/README.md) | 60% | 61-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q4_pro) |
-| [Q5 Pro](./Q5%20Pro/README.md) | 96% | 97-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q5_pro) |
-| [Q6 Pro](./Q6%20Pro/README.md) | Full-size | 108-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q6_pro) |
-| [Q8 Pro](./Q8%20Pro/README.md) | Alice | 69-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q8_pro) |
-| [Q10 Pro](./Q10%20Pro/README.md) | 75% Alice | 82-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q10_pro) |
-| [Q13 Pro](./Q13%20Pro/README.md) | Alice 96% | 96-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q13_pro) |
-| [Q14 Pro](./Q14%20Pro/README.md) | Alice 96% | 97-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q14_pro) |
+| [Q1 Pro](./Q1%20Pro/README.md) | 75% | 82-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q1_pro) |
+| [Q2 Pro](./Q2%20Pro/README.md) | 65% | 68-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q2_pro) |
+| [Q3 Pro](./Q3%20Pro/README.md) | TKL | 87-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q3_pro) |
+| [Q4 Pro](./Q4%20Pro/README.md) | 60% | 61-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q4_pro) |
+| [Q5 Pro](./Q5%20Pro/README.md) | 96% | 97-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q5_pro) |
+| [Q6 Pro](./Q6%20Pro/README.md) | Full-size | 108-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q6_pro) |
+| [Q8 Pro](./Q8%20Pro/README.md) | Alice | 69-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q8_pro) |
+| [Q10 Pro](./Q10%20Pro/README.md) | 75% Alice | 82-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q10_pro) |
+| [Q13 Pro](./Q13%20Pro/README.md) | Alice 96% | 96-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q13_pro) |
+| [Q14 Pro](./Q14%20Pro/README.md) | Alice 96% | 97-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q14_pro) |
 
 ## Download Files
 
