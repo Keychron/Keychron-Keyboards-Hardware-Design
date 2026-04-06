@@ -2,7 +2,7 @@
 
 > 75% 84-key wireless magnetic switch keyboard with adjustable actuation, rapid trigger support, and tri-mode connectivity.
 
-**Product page:** [Keychron K2 HE](https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-custom-keyboard)
+**Product page:** [Keychron K2 HE](https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard)
 
 ## Specifications
 
