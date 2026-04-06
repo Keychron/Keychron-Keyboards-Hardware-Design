@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron V2 Max](https://www.keychron.com/products/keychron-v2-max-qmk-via-wireless-custom-mechanical-keyboard)
 
+![V2 Max](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-V2-Max-wireless-mechanical-keyboard-1.jpg?v=1705993855)
+
 ## Specifications
 
 | Spec | Detail |

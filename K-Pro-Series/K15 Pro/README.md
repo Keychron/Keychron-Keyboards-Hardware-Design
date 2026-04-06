@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K15 Pro](https://www.keychron.com/products/keychron-k15-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
 
+![K15 Pro](https://i.imgur.com/lto9s98.jpg)
+
 ## Specifications
 
 | Spec | Detail |

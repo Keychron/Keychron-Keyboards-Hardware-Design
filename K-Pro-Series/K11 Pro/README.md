@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K11 Pro](https://www.keychron.com/products/keychron-k11-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
 
+![K11 Pro](https://i.imgur.com/9U5ajXf.jpg)
+
 ## Specifications
 
 | Spec | Detail |

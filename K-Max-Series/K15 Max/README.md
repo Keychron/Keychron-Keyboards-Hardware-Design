@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K15 Max](https://www.keychron.com/products/keychron-k15-max-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
 
+![K15 Max](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K15-Max-page7.jpg?v=1717487401)
+
 ## Specifications
 
 | Spec | Detail |

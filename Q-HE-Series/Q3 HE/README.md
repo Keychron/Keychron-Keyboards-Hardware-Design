@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q3 HE 8K](https://www.keychron.com/products/keychron-q3-he-8k-magnetic-switch-keyboard)
 
+![Q3 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q3-HE-page1.jpg)
+
 ## Specifications
 
 | Spec | Detail |

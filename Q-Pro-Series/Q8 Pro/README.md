@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q8 Pro](https://www.keychron.com/products/keychron-q8-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
 
+![Q8 Pro](https://i.imgur.com/dZBGbrs.jpg)
+
 ## Specifications
 
 | Spec | Detail |

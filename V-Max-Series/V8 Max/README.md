@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron V8 Max](https://www.keychron.com/products/keychron-v8-max-alice-layout-qmk-custom-mechanical-keyboard)
 
+![V8 Max](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/V8-Max-5.jpg?v=1717726322)
+
 ## Specifications
 
 | Spec | Detail |

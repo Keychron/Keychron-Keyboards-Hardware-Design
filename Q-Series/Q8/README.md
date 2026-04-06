@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q8](https://www.keychron.com/products/keychron-q8-alice-layout-qmk-custom-mechanical-keyboard)
 
+![Q8](https://i.imgur.com/FQnOwRrh.jpg)
+
 ## Specifications
 
 | Spec | Detail |

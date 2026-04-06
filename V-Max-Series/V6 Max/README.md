@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron V6 Max](https://www.keychron.com/collections/keychron-v-max-series-keyboard/products/keychron-v6-max-qmk-via-wireless-custom-mechanical-keyboard)
 
+![V6 Max](https://www.keychron.com/cdn/shop/files/V6-Max-11_2048x.jpg?v=1709002985)
+
 ## Specifications
 
 | Spec | Detail |

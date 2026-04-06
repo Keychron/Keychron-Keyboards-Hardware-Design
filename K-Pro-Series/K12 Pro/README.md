@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K12 Pro](https://www.keychron.com/products/keychron-k12-pro-qmk-via-wireless-mechanical-keyboard)
 
+![K12 Pro](https://i.imgur.com/1nFRfJs.jpg)
+
 ## Specifications
 
 | Spec | Detail |

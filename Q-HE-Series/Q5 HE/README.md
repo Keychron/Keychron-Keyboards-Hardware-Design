@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q5 HE 8K](https://www.keychron.com/products/keychron-q5-he-8k-magnetic-switch-keyboard)
 
+![Q5 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q5-HE-Wireless-QMK-Custom-Magnetic-Switchj-Keyboard-Black.jpg)
+
 ## Specifications
 
 | Spec | Detail |

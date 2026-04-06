@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K13 Pro](https://www.keychron.com/products/keychron-k13-pro-qmk-via-wireless-custom-mechanical-keyboard)
 
+![K13 Pro](https://github.com/Keychron/ProductImage/blob/main/K_Pro/k13_pro.jpg?raw=true)
+
 ## Specifications
 
 | Spec | Detail |

@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K3 Pro](https://www.keychron.com/products/keychron-k3-pro-qmk-via-wireless-custom-mechanical-keyboard)
 
+![K3 Pro](https://github.com/Keychron/ProductImage/blob/main/K_Pro/k3_pro.jpg?raw=true)
+
 ## Specifications
 
 | Spec | Detail |

@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q14 Pro](https://www.keychron.com/products/keychron-q14-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
 
+![Q14 Pro](https://i.imgur.com/RmWaunr.jpg)
+
 ## Specifications
 
 | Spec | Detail |

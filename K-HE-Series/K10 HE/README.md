@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K10 HE](https://www.keychron.com/products/keychron-k10-he-wireless-magnetic-switch-keyboard)
 
+![K10 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K10HE_Wireless_Magnetic_Switch_Keyboard.jpg)
+
 ## Specifications
 
 | Spec | Detail |

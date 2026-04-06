@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q4](https://www.keychron.com/products/keychron-q4-qmk-via-custom-mechanical-keyboard)
 
+![Q4](https://i.imgur.com/daIVjVGh.jpg)
+
 ## Specifications
 
 | Spec | Detail |

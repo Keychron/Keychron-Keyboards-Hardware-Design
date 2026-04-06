@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q2](https://www.keychron.com/products/keychron-q2-qmk-custom-mechanical-keyboard)
 
+![Q2](https://i.imgur.com/9bJ6Moh.jpg)
+
 ## Specifications
 
 | Spec | Detail |

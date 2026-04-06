@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K9 Pro](https://www.keychron.com/products/keychron-k9-pro-qmk-via-wireless-custom-mechanical-keyboard)
 
+![K9 Pro](https://github.com/Keychron/ProductImage/blob/main/K_Pro/k9_pro.jpg?raw=true)
+
 ## Specifications
 
 | Spec | Detail |

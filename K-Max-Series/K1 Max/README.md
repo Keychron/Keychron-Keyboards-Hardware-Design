@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K1 Max](https://www.keychron.com/products/keychron-k1-max-qmk-via-wireless-custom-mechanical-keyboard)
 
+![K1 Max](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-K1-Max-Wireless-Mechanical-Keyboard-3.jpg?v=1704333966)
+
 ## Specifications
 
 | Spec | Detail |

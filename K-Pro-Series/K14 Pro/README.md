@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K14 Pro](https://www.keychron.com/products/keychron-k14-pro-qmk-via-wireless-mechanical-keyboard)
 
+![K14 Pro](https://i.imgur.com/oDkNCbI.jpg)
+
 ## Specifications
 
 | Spec | Detail |

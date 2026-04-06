@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron V10 Max](https://www.keychron.com/products/keychron-v10-max-qmk-via-wireless-custom-mechanical-keyboard)
 
+![V10 Max](https://www.keychron.com/cdn/shop/files/Keychron-V10-Max-wireless-mechanical-keyboard55_2048x.jpg?v=1708920832)
+
 ## Specifications
 
 | Spec | Detail |

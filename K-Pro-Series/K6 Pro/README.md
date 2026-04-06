@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K6 Pro](https://www.keychron.com/pages/keychron-k6-pro-qmk-via-wireless-mechanical-keyboard)
 
+![K6 Pro](https://github.com/Keychron/ProductImage/blob/main/K_Pro/k6_pro.jpg?raw=true)
+
 ## Specifications
 
 | Spec | Detail |

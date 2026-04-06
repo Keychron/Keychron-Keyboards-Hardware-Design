@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q5 Pro](https://www.keychron.com/products/keychron-q5-pro-qmk-via-wireless-custom-mechanical-keyboard)
 
+![Q5 Pro](https://i.imgur.com/3z9mMMI.jpg)
+
 ## Specifications
 
 | Spec | Detail |

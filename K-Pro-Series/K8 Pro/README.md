@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K8 Pro](https://www.keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard)
 
+![K8 Pro](https://github.com/Keychron/ProductImage/blob/main/K_Pro/k8_pro.jpg?raw=true)
+
 ## Specifications
 
 | Spec | Detail |

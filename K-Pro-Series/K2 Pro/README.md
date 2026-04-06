@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K2 Pro](https://www.keychron.com/products/keychron-k2-pro-qmk-via-wireless-mechanical-keyboard)
 
+![K2 Pro](https://github.com/Keychron/ProductImage/blob/main/K_Pro/k2_pro.jpg?raw=true)
+
 ## Specifications
 
 | Spec | Detail |

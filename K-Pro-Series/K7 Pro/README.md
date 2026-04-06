@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K7 Pro](https://www.keychron.com/products/keychron-k7-pro-qmk-via-wireless-custom-mechanical-keyboard)
 
+![K7 Pro](https://github.com/Keychron/ProductImage/blob/main/K_Pro/k7_pro.jpg?raw=true)
+
 ## Specifications
 
 | Spec | Detail |

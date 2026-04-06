@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K10 Pro](https://www.keychron.com/products/keychron-k10-pro-qmk-via-wireless-mechanical-keyboard/)
 
+![K10 Pro](https://github.com/Keychron/ProductImage/blob/main/K_Pro/k10_pro.jpg?raw=true)
+
 ## Specifications
 
 | Spec | Detail |

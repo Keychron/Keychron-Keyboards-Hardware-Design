@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K5 Max](https://www.keychron.com/products/keychron-k5-max-qmk-via-wireless-custom-mechanical-keyboard)
 
+![K5 Max](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K5-Max-page13.jpg?v=1705308494)
+
 ## Specifications
 
 | Spec | Detail |

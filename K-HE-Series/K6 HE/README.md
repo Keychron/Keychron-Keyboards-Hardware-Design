@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K6 HE](https://www.keychron.com/products/keychron-k6-he-wireless-magnetic-switch-custom-keyboard)
 
+![K6 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-K6-HE-Wireless-Magnetic-Switch-Keyboard-1.jpg)
+
 ## Specifications
 
 | Spec | Detail |

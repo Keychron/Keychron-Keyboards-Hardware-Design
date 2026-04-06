@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q1 Pro](https://www.keychron.com/products/keychron-q1-pro-qmk-via-wireless-custom-mechanical-keyboard)
 
+![Q1 Pro](https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychronq1proqmkviacustommechanicalkeyboard--edited-1669962623486.jpg)
+
 ## Specifications
 
 | Spec | Detail |

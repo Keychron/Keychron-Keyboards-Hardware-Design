@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K7 Max](https://www.keychron.com/products/keychron-k7-max-qmk-via-wireless-custom-mechanical-keyboard)
 
+![K7 Max](https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/pf-d1ce6496--KeychronK765percentultraslimcompactwirelessmechanicalkeyboardforMacWindowsHotswappablelowprofileGateronMechanicalandOpticalswitchesforMacWindowswithRGBbacklit.jpg?v=1627545535)
+
 ## Specifications
 
 | Spec | Detail |
