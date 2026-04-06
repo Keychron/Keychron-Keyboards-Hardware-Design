@@ -6,13 +6,13 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Available Models
 
-| Model | Layout | Size | Versions |
-|---|---|---|---|
-| [K2 HE](./K2%20HE/README.md) | 75% | 84-key | Standard / Special Edition |
-| [K4 HE](./K4%20HE/README.md) | 96% | 100-key | Standard / Special Edition |
-| [K6 HE](./K6%20HE/README.md) | 65% | 68-key | Standard / Special Edition |
-| [K8 HE](./K8%20HE/README.md) | TKL | 87-key | Standard / Special Edition |
-| [K10 HE](./K10%20HE/README.md) | Full-size | 104-key | Standard / Special Edition |
+| Model | Layout | Size | Versions | Firmware |
+|---|---|---|---|---|
+| [K2 HE](./K2%20HE/README.md) | 75% | 84-key | Standard / Special Edition | [QMK](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k2_he) |
+| [K4 HE](./K4%20HE/README.md) | 96% | 100-key | Standard / Special Edition | [QMK](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k4_he) |
+| [K6 HE](./K6%20HE/README.md) | 65% | 68-key | Standard / Special Edition | [QMK](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k6_he) |
+| [K8 HE](./K8%20HE/README.md) | TKL | 87-key | Standard / Special Edition | [QMK](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k8_he) |
+| [K10 HE](./K10%20HE/README.md) | Full-size | 104-key | Standard / Special Edition | [QMK](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k10_he) |
 
 ## Download Files
 

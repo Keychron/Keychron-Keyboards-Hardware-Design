@@ -6,23 +6,23 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Available Models
 
-| Model | Layout | Size |
-|---|---|---|
-| [Q0 Plus](./Q0%20Plus/README.md) | Numpad | — |
-| [Q1](./Q1/README.md) | 75% | 82-key |
-| [Q2](./Q2/README.md) | 65% | 68-key |
-| [Q3](./Q3/README.md) | TKL | 87-key |
-| [Q4](./Q4/README.md) | 60% | 61-key |
-| [Q5](./Q5/README.md) | 96% | 97-key |
-| [Q6](./Q6/README.md) | Full-size | 108-key |
-| [Q7](./Q7/README.md) | 70% | 72-key |
-| [Q8](./Q8/README.md) | Alice | 69-key |
-| [Q9](./Q9/README.md) | 40% | 52-key |
-| [Q10](./Q10/README.md) | 75% Alice | 82-key |
-| [Q11](./Q11/README.md) | 75% Split | 84-key |
-| [Q12](./Q12/README.md) | 96% | 100-key |
-| [Q60](./Q60/README.md) | 60% | 64-key |
-| [Q65](./Q65/README.md) | 65% | 68-key |
+| Model | Layout | Size | Firmware |
+|---|---|---|---|
+| [Q0 Plus](./Q0%20Plus/README.md) | Numpad | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q0_plus) |
+| [Q1](./Q1/README.md) | 75% | 82-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q1) |
+| [Q2](./Q2/README.md) | 65% | 68-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q2) |
+| [Q3](./Q3/README.md) | TKL | 87-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q3) |
+| [Q4](./Q4/README.md) | 60% | 61-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q4) |
+| [Q5](./Q5/README.md) | 96% | 97-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q5) |
+| [Q6](./Q6/README.md) | Full-size | 108-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q6) |
+| [Q7](./Q7/README.md) | 70% | 72-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q7) |
+| [Q8](./Q8/README.md) | Alice | 69-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q8) |
+| [Q9](./Q9/README.md) | 40% | 52-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q9) |
+| [Q10](./Q10/README.md) | 75% Alice | 82-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q10) |
+| [Q11](./Q11/README.md) | 75% Split | 84-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q11) |
+| [Q12](./Q12/README.md) | 96% | 100-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q12) |
+| [Q60](./Q60/README.md) | 60% | 64-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q60) |
+| [Q65](./Q65/README.md) | 65% | 68-key | [QMK](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q65) |
 
 ## Download Files
 

@@ -6,12 +6,12 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Available Models
 
-| Model | Layout | Size | Knob |
-|---|---|---|---|
-| [Q1 HE](./Q1%20HE/README.md) | 75% | 82-key | Yes |
-| [Q3 HE](./Q3%20HE/README.md) | TKL | 87-key | Yes |
-| [Q5 HE](./Q5%20HE/README.md) | 96% | 97-key | Yes |
-| [Q6 HE](./Q6%20HE/README.md) | Full-size | 104-key | Yes |
+| Model | Layout | Size | Knob | Firmware |
+|---|---|---|---|---|
+| [Q1 HE](./Q1%20HE/README.md) | 75% | 82-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q1_he) |
+| [Q3 HE](./Q3%20HE/README.md) | TKL | 87-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q3_he) |
+| [Q5 HE](./Q5%20HE/README.md) | 96% | 97-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q5_he) |
+| [Q6 HE](./Q6%20HE/README.md) | Full-size | 104-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q6_he) |
 
 ## Download Files
 

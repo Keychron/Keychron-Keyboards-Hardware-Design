@@ -6,16 +6,16 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Available Models
 
-| Model | Layout | Size | Knob |
-|---|---|---|---|
-| [V1 Max](./V1%20Max/README.md) | 75% | 82-key | Yes |
-| [V2 Max](./V2%20Max/README.md) | 65% | 68-key | — |
-| [V3 Max](./V3%20Max/README.md) | TKL | 87-key | Yes |
-| [V4 Max](./V4%20Max/README.md) | 60% | 61-key | — |
-| [V5 Max](./V5%20Max/README.md) | 96% | 97-key | Yes |
-| [V6 Max](./V6%20Max/README.md) | Full-size | 104-key | Yes |
-| [V8 Max](./V8%20Max/README.md) | Alice | 69-key | Yes |
-| [V10 Max](./V10%20Max/README.md) | 75% Alice | 82-key | Yes |
+| Model | Layout | Size | Knob | Firmware |
+|---|---|---|---|---|
+| [V1 Max](./V1%20Max/README.md) | 75% | 82-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/v1_max) |
+| [V2 Max](./V2%20Max/README.md) | 65% | 68-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/v2_max) |
+| [V3 Max](./V3%20Max/README.md) | TKL | 87-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/v3_max) |
+| [V4 Max](./V4%20Max/README.md) | 60% | 61-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/v4_max) |
+| [V5 Max](./V5%20Max/README.md) | 96% | 97-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/v5_max) |
+| [V6 Max](./V6%20Max/README.md) | Full-size | 104-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/v6_max) |
+| [V8 Max](./V8%20Max/README.md) | Alice | 69-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/v8_max) |
+| [V10 Max](./V10%20Max/README.md) | 75% Alice | 82-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/v10_max) |
 
 ## Download Files
 

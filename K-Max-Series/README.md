@@ -7,19 +7,19 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Available Models
 
-| Model | Layout | Size | Knob |
-|---|---|---|---|
-| [K1 Max](./K1%20Max/README.md) | TKL Low-profile | 87-key | — |
-| [K2 Max](./K2%20Max/README.md) | 75% | 84-key | — |
-| [K3 Max](./K3%20Max/README.md) | 75% Low-profile | 84-key | — |
-| [K5 Max](./K5%20Max/README.md) | Full-size Low-profile | 108-key | — |
-| [K7 Max](./K7%20Max/README.md) | 65% Low-profile | 68-key | — |
-| [K8 Max](./K8%20Max/README.md) | TKL | 87-key | — |
-| [K10 Max](./K10%20Max/README.md) | Full-size | 108-key | — |
-| [K11 Max](./K11%20Max/README.md) | Alice Low-profile | 68-key | Yes |
-| [K13 Max](./K13%20Max/README.md) | 80% Low-profile with numpad | 90-key | — |
-| [K15 Max](./K15%20Max/README.md) | Alice Low-profile | 90-key | Yes |
-| [K17 Max](./K17%20Max/README.md) | 96% Low-profile | 104-key | — |
+| Model | Layout | Size | Knob | Firmware |
+|---|---|---|---|---|
+| [K1 Max](./K1%20Max/README.md) | TKL Low-profile | 87-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k1_max) |
+| [K2 Max](./K2%20Max/README.md) | 75% | 84-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k2_max) |
+| [K3 Max](./K3%20Max/README.md) | 75% Low-profile | 84-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k3_max) |
+| [K5 Max](./K5%20Max/README.md) | Full-size Low-profile | 108-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k5_max) |
+| [K7 Max](./K7%20Max/README.md) | 65% Low-profile | 68-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k7_max) |
+| [K8 Max](./K8%20Max/README.md) | TKL | 87-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k8_max) |
+| [K10 Max](./K10%20Max/README.md) | Full-size | 108-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k10_max) |
+| [K11 Max](./K11%20Max/README.md) | Alice Low-profile | 68-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k11_max) |
+| [K13 Max](./K13%20Max/README.md) | 80% Low-profile with numpad | 90-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k13_max) |
+| [K15 Max](./K15%20Max/README.md) | Alice Low-profile | 90-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k15_max) |
+| [K17 Max](./K17%20Max/README.md) | 96% Low-profile | 104-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k17_max) |
 
 ## Download Files
 

@@ -6,9 +6,9 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Available Models
 
-| Model | Layout | Size | Knob |
-|---|---|---|---|
-| [P1 HE](./P1%20HE/README.md) | 75% | 81-key | Yes |
+| Model | Layout | Size | Knob | Firmware |
+|---|---|---|---|---|
+| [P1 HE](./P1%20HE/README.md) | 75% | 81-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/p1_he) |
 
 ## Download Files
 

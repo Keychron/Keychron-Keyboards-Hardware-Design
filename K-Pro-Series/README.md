@@ -8,24 +8,24 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Available Models
 
-| Model | Layout | Size | Knob |
-|---|---|---|---|
-| [K1 Pro](./K1%20Pro/README.md) | TKL Low-profile | 87-key | — |
-| [K2 Pro](./K2%20Pro/README.md) | 75% | 84-key | — |
-| [K3 Pro](./K3%20Pro/README.md) | 75% Low-profile | 84-key | — |
-| [K4 Pro](./K4%20Pro/README.md) | 96% | 100-key | — |
-| [K5 Pro](./K5%20Pro/README.md) | Full-size Low-profile | 108-key | — |
-| [K6 Pro](./K6%20Pro/README.md) | 65% | 68-key | — |
-| [K7 Pro](./K7%20Pro/README.md) | 65% Low-profile | 68-key | — |
-| [K8 Pro](./K8%20Pro/README.md) | TKL | 87-key | — |
-| [K9 Pro](./K9%20Pro/README.md) | 60% Low-profile | 61-key | — |
-| [K10 Pro](./K10%20Pro/README.md) | Full-size | 108-key | — |
-| [K11 Pro](./K11%20Pro/README.md) | Alice Low-profile | 68-key | Yes |
-| [K12 Pro](./K12%20Pro/README.md) | 60% | 61-key | — |
-| [K13 Pro](./K13%20Pro/README.md) | 80% Low-profile with numpad | 90-key | — |
-| [K14 Pro](./K14%20Pro/README.md) | 70% | 72-key | — |
-| [K15 Pro](./K15%20Pro/README.md) | Alice Low-profile | 89-key | Yes |
-| [K17 Pro](./K17%20Pro/README.md) | 96% Low-profile | 104-key | — |
+| Model | Layout | Size | Knob | Firmware |
+|---|---|---|---|---|
+| [K1 Pro](./K1%20Pro/README.md) | TKL Low-profile | 87-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k1_pro) |
+| [K2 Pro](./K2%20Pro/README.md) | 75% | 84-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k2_pro) |
+| [K3 Pro](./K3%20Pro/README.md) | 75% Low-profile | 84-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k3_pro) |
+| [K4 Pro](./K4%20Pro/README.md) | 96% | 100-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k4_pro) |
+| [K5 Pro](./K5%20Pro/README.md) | Full-size Low-profile | 108-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k5_pro) |
+| [K6 Pro](./K6%20Pro/README.md) | 65% | 68-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k6_pro) |
+| [K7 Pro](./K7%20Pro/README.md) | 65% Low-profile | 68-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k7_pro) |
+| [K8 Pro](./K8%20Pro/README.md) | TKL | 87-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k8_pro) |
+| [K9 Pro](./K9%20Pro/README.md) | 60% Low-profile | 61-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k9_pro) |
+| [K10 Pro](./K10%20Pro/README.md) | Full-size | 108-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k10_pro) |
+| [K11 Pro](./K11%20Pro/README.md) | Alice Low-profile | 68-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k11_pro) |
+| [K12 Pro](./K12%20Pro/README.md) | 60% | 61-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k12_pro) |
+| [K13 Pro](./K13%20Pro/README.md) | 80% Low-profile with numpad | 90-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k13_pro) |
+| [K14 Pro](./K14%20Pro/README.md) | 70% | 72-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k14_pro) |
+| [K15 Pro](./K15%20Pro/README.md) | Alice Low-profile | 89-key | Yes | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k15_pro) |
+| [K17 Pro](./K17%20Pro/README.md) | 96% Low-profile | 104-key | — | [QMK](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k17_pro) |
 
 ## Download Files
 
