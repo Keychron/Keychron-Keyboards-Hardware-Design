@@ -85,4 +85,5 @@ See the [LICENSE](../LICENSE) file for full terms.
 
 - [Keychron Q Series](https://www.keychron.com/collections/keychron-q-series-keyboard)
 - [Open Source Design Center](https://www.keychron.com/collections/keychron-open-source)
+- [Q Series Firmware (QMK)](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron)
 - [Main Repository](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)

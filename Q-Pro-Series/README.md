@@ -64,4 +64,5 @@ See the [LICENSE](../LICENSE) file for full terms.
 
 - [Keychron Q Pro Series](https://www.keychron.com/collections/q-pro-q-v-series-keyboards)
 - [Open Source Design Center](https://www.keychron.com/collections/keychron-open-source)
+- [Q Pro Series Firmware (QMK Bluetooth branch)](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron)
 - [Main Repository](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)

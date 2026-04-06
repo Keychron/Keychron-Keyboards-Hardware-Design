@@ -61,4 +61,5 @@ See the [LICENSE](../LICENSE) file for full terms.
 
 - [Keychron V Series](https://www.keychron.com/collections/keychron-v-series-keyboard)
 - [Open Source Design Center](https://www.keychron.com/collections/keychron-open-source)
+- [V Max Series Firmware (QMK wireless branch)](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron)
 - [Main Repository](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)

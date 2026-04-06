@@ -124,7 +124,10 @@ See the [LICENSE](LICENSE) file for full terms.
 
 - [Keychron Website](https://www.keychron.com)
 - [Open Source Design Center](https://www.keychron.com/collections/keychron-open-source)
-- [Keychron Firmware (QMK)](https://github.com/Keychron/qmk_firmware)
+- [Keychron Firmware (QMK, main branch)](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron)
+- [Keychron Firmware (Bluetooth boards)](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron)
+- [Keychron Firmware (2.4 GHz wireless boards)](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron)
+- [Keychron Firmware (Hall Effect boards)](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron)
 - [Keychron Firmware (ZMK)](https://github.com/Keychron/zmk)
 
 ---
