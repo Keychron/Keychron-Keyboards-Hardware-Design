@@ -15,9 +15,15 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [OEM](./OEM%20Profile/README.md) | Standard tall cylindrical profile common on prebuilt boards |
 | [OSA](./OSA%20Profile/README.md) | OEM Spherical Angled — tall spherical sculpted profile |
 
-## Note
+## 3D File Reference
 
-These directories currently contain profile descriptions only. Keycap CAD geometry files (STEP) are included within individual keyboard model directories where applicable (e.g., `Q-Series/Q11/Q11-OSA-Keycap-20221212.stp`).
+This folder may also include keycap 3D reference files and layout reference materials for specific keycap sets.
+
+The image below shows the kind of keycap 3D file layout reference that can be stored here. Users can use it as a visual guide to compare row shapes, key sizes, and overall arrangement when checking compatibility with their own keyboard layout.
+
+![Keycap set 3D file layout reference](../docs/assets/keycap%20set%203d%20file%20layout.png)
+
+STEP or other keycap CAD geometry files may also appear here or within individual keyboard model directories where applicable (for example, `Q-Series/Q11/Q11-OSA-Keycap-20221212.stp`).
 
 ## License
 
