@@ -31,6 +31,8 @@ As of April 8, 2026, the Keychron Q Pro collection includes the following Q Pro 
 - [Q6 Pro](https://www.keychron.com/products/keychron-q6-pro-qmk-via-wireless-custom-mechanical-keyboard)
 - [Q8 Pro](https://www.keychron.com/products/keychron-q8-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
 - [Q10 Pro](https://www.keychron.com/products/keychron-q10-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
+- [Q13 Pro](https://www.keychron.com/products/keychron-q13-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
+- [Q14 Pro](https://www.keychron.com/products/keychron-q14-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
 
 If there is a Q Pro series model or variant you would like to see added to this repository, please contact Keychron or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
 
