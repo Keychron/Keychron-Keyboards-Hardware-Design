@@ -19,6 +19,21 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [Q13 Pro](./Q13%20Pro/README.md) | Alice 96% | 96-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q13_pro) |
 | [Q14 Pro](./Q14%20Pro/README.md) | Alice 96% | 97-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q14_pro) |
 
+## Current Product Lineup
+
+As of April 8, 2026, the Keychron Q Pro collection includes the following Q Pro products:
+
+- [Q1 Pro](https://www.keychron.com/products/keychron-q1-pro-qmk-via-wireless-custom-mechanical-keyboard)
+- [Q2 Pro](https://www.keychron.com/products/keychron-q2-pro-qmk-via-wireless-custom-mechanical-keyboard)
+- [Q3 Pro](https://www.keychron.com/products/keychron-q3-pro-qmk-via-wireless-custom-mechanical-keyboard)
+- [Q4 Pro](https://www.keychron.com/products/keychron-q4-pro-qmk-via-wireless-custom-mechanical-keyboard)
+- [Q5 Pro](https://www.keychron.com/products/keychron-q5-pro-qmk-via-wireless-custom-mechanical-keyboard)
+- [Q6 Pro](https://www.keychron.com/products/keychron-q6-pro-qmk-via-wireless-custom-mechanical-keyboard)
+- [Q8 Pro](https://www.keychron.com/products/keychron-q8-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
+- [Q10 Pro](https://www.keychron.com/products/keychron-q10-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
+
+If there is a Q Pro series model or variant you would like to see added to this repository, please contact Keychron or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
+
 ## Download Files
 
 | File | Description | Format |
