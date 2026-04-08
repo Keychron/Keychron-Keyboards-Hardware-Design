@@ -8,11 +8,25 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 | Model | Layout | Size | Versions | Firmware |
 |---|---|---|---|---|
-| [K2 HE](./K2%20HE/README.md) | 75% | 84-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k2_he) |
+| [K2 HE](./K2%20HE/README.md) | 75% | 84-key | Standard / Special Edition / ISO / Resin Edition / All-Wood Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k2_he) |
 | [K4 HE](./K4%20HE/README.md) | 96% | 100-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k4_he) |
 | [K6 HE](./K6%20HE/README.md) | 65% | 68-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k6_he) |
 | [K8 HE](./K8%20HE/README.md) | TKL | 87-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k8_he) |
 | [K10 HE](./K10%20HE/README.md) | Full-size | 104-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k10_he) |
+
+## Current Product Lineup
+
+The current K HE collection on Keychron includes the following K-series Hall Effect models and variants:
+
+- [K2 HE](https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard)
+- [K2 HE Resin Edition](https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-custom-keyboard-resin-edition)
+- [K2 HE All-Wood Special Edition](https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-custom-keyboard-all-wood-special-edition)
+- [K4 HE](https://www.keychron.com/products/keychron-k4-he-wireless-magnetic-switch-custom-keyboard)
+- [K6 HE](https://www.keychron.com/products/keychron-k6-he-wireless-magnetic-switch-custom-keyboard)
+- [K8 HE](https://www.keychron.com/products/keychron-k8-he-wireless-magnetic-switch-custom-keyboard)
+- [K10 HE](https://www.keychron.com/products/keychron-k10-he-wireless-magnetic-switch-keyboard)
+
+For repository organization, K2 HE variant-specific design files are grouped under the [K2 HE](./K2%20HE/README.md) directory rather than split into separate folders.
 
 ## Download Files
 

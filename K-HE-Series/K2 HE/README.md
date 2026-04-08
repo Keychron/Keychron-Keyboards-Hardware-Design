@@ -11,7 +11,7 @@
 | Spec | Detail |
 |---|---|
 | Layout | 75% (84-key) |
-| Versions | Standard Version / Special Edition |
+| Versions | Standard Version / Special Edition / Special Edition ISO / Resin Edition / All-Wood Special Edition |
 | Case Material | ABS + Aluminum (Standard) / ABS + Aluminum + Wood (Special Edition) |
 | Switch Type | Gateron Double-Rail Magnetic Switch |
 | Connectivity | Bluetooth 5.2 / 2.4 GHz / USB-C |
@@ -19,6 +19,16 @@
 | Adjustable Actuation | Yes |
 | Firmware | QMK / Keychron Launcher |
 | Firmware Source | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k2_he) |
+
+## Current Product Variants
+
+The K2 HE family currently includes several retail variants under the same hardware series:
+
+- [K2 HE](https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard)
+- [K2 HE Resin Edition](https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-custom-keyboard-resin-edition)
+- [K2 HE All-Wood Special Edition](https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-custom-keyboard-all-wood-special-edition)
+
+These variants are grouped in this directory when related design files are shared across the K2 HE platform.
 
 ## Included Files
 
