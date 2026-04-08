@@ -24,6 +24,29 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [Q60](./Q60/README.md) | 60% | 64-key | [Link](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q60) |
 | [Q65](./Q65/README.md) | 65% | 68-key | [Link](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q65) |
 
+## Current Product Lineup
+
+As of April 8, 2026, the Keychron Q collection includes the following Q series products:
+
+- [Q0](https://www.keychron.com/products/keychron-q0-qmk-custom-number-pad)
+- [Q0 Plus](https://www.keychron.com/products/keychron-q0-plus-qmk-custom-number-pad)
+- [Q1](https://www.keychron.com/products/keychron-q1)
+- [Q2](https://www.keychron.com/products/keychron-q2-qmk-custom-mechanical-keyboard)
+- [Q3](https://www.keychron.com/products/keychron-q3-qmk-custom-mechanical-keyboard)
+- [Q4](https://www.keychron.com/products/keychron-q4-qmk-via-custom-mechanical-keyboard)
+- [Q5](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard)
+- [Q6](https://www.keychron.com/products/keychron-q6-qmk-custom-mechanical-keyboard)
+- [Q7](https://www.keychron.com/products/keychron-q7-qmk-custom-mechanical-keyboard)
+- [Q8](https://www.keychron.com/products/keychron-q8-alice-layout-qmk-custom-mechanical-keyboard)
+- [Q9](https://www.keychron.com/products/keychron-q9-qmk-custom-mechanical-keyboard)
+- [Q10](https://www.keychron.com/products/keychron-q10-alice-layout-qmk-custom-mechanical-keyboard)
+- [Q11](https://www.keychron.com/products/keychron-q11-qmk-custom-mechanical-keyboard)
+- [Q12](https://www.keychron.com/products/keychron-q12-qmk-custom-mechanical-keyboard)
+- [Q60](https://www.keychron.com/products/keychron-q60-qmk-custom-mechanical-keyboard)
+- [Q65](https://www.keychron.com/products/keychron-q65-qmk-custom-mechanical-keyboard)
+
+If there is a Q series model or variant you would like to see added to this repository, please contact Keychron or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
+
 ## Download Files
 
 | File | Description | Format |
