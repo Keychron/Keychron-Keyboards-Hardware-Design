@@ -23,34 +23,34 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Current Product Lineup
 
-As of April 8, 2026, the Keychron K Max collection pages list the following K Max products across pages 1 and 2:
+As of April 8, 2026, the Keychron K Max collection lists the following K Max products:
 
-- K0 Max
-- K1 Max
-- K1 Max ISO Layout Collection
-- K2 Max
-- K2 Max ISO Layout Collection
-- K3 Max
-- K3 Max All-Wood Special Edition
-- K3 Max ISO Layout Collection
-- K4 Max
-- K4 Max ISO Layout Collection
-- K5 Max
-- K5 Max ISO Layout Collection
-- K7 Max
-- K8 Max
-- K8 Max ISO Layout Collection
-- K9 Max
-- K10 Max
-- K10 Max ISO Layout Collection
-- K11 Max
-- K13 Max
-- K13 Max ISO Layout Collection
-- K15 Max
-- K17 Max
-- K17 Max ISO Layout Collection
+- [K0 Max](https://www.keychron.com/products/keychron-k0-max-qmk-wireless-custom-number-pad)
+- [K1 Max](https://www.keychron.com/products/keychron-k1-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [K1 Max ISO Layout Collection](https://www.keychron.com/products/keychron-k1-max-qmk-wireless-custom-mechanical-keyboard-iso-layout-collection)
+- [K2 Max](https://www.keychron.com/products/keychron-k2-max-qmk-wireless-mechanical-keyboard)
+- [K2 Max ISO Layout Collection](https://www.keychron.com/products/keychron-k2-max-qmk-wireless-mechanical-keyboard-iso-layout-collection)
+- [K3 Max](https://www.keychron.com/products/keychron-k3-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [K3 Max All-Wood Special Edition](https://www.keychron.com/products/keychron-k3-max-qmk-via-wireless-custom-mechanical-keyboard-all-wood-special-edition)
+- [K3 Max ISO Layout Collection](https://www.keychron.com/products/keychron-k3-max-qmk-via-wireless-custom-mechanical-keyboard-iso-layout-collection)
+- [K4 Max](https://www.keychron.com/products/keychron-k4-max-qmk-wireless-mechanical-keyboard)
+- [K4 Max ISO Layout Collection](https://www.keychron.com/products/keychron-k4-max-qmk-wireless-mechanical-keyboard-iso-layout-collection)
+- [K5 Max](https://www.keychron.com/products/keychron-k5-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [K5 Max ISO Layout Collection](https://www.keychron.com/products/keychron-k5-max-qmk-wireless-custom-mechanical-keyboard-iso-layout-collection)
+- [K7 Max](https://www.keychron.com/products/keychron-k7-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [K8 Max](https://www.keychron.com/products/keychron-k8-max-qmk-wireless-mechanical-keyboard)
+- [K8 Max ISO Layout Collection](https://www.keychron.com/collections/hot-swappable/products/keychron-k8-max-qmk-wireless-custom-mechanical-keyboard-iso-layout-collection?page=3)
+- [K9 Max](https://www.keychron.com/products/keychron-k9-max-qmk-wireless-custom-mechanical-keyboard)
+- [K10 Max](https://www.keychron.com/products/keychron-k10-max-qmk-wireless-mechanical-keyboard)
+- [K10 Max ISO Layout Collection](https://www.keychron.com/products/keychron-k10-max-qmk-wireless-mechanical-keyboard-iso-layout-collection)
+- [K11 Max](https://www.keychron.com/products/keychron-k11-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [K13 Max](https://www.keychron.com/products/keychron-k13-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [K13 Max ISO Layout Collection](https://www.keychron.com/collections/keychron-wireless-keyboards/products/keychron-k13-max-qmk-wireless-custom-mechanical-keyboard-iso-layout-collection?page=1)
+- [K15 Max](https://www.keychron.com/products/keychron-k15-max-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
+- [K17 Max](https://www.keychron.com/products/keychron-k17-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [K17 Max ISO Layout Collection](https://www.keychron.com/products/keychron-k17-max-qmk-wireless-custom-mechanical-keyboard-iso-layout-collection)
 
-This repository currently includes hardware design folders for the models listed in the table above. Some retail variants shown on the current K Max collection, such as ISO layout collections, the K3 Max All-Wood Special Edition, and models like K0 Max, K4 Max, and K9 Max, may not yet have a matching folder or uploaded design files in this repository.
+If there is a K Max model or layout variant you would like to see added to this repository, please contact Keychron or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
 
 ## Download Files
 
