@@ -20,6 +20,28 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [G1](./G1/README.md) | Wireless Gaming | Gaming |
 | [G2](./G2/README.md) | Wireless Gaming | Gaming |
 
+## Current Product Lineup
+
+As of April 9, 2026, the Keychron mice collection includes the following mouse products:
+
+- [Keychron M1 Wireless Mouse](https://www.keychron.com/collections/keychron-m-series-mice/products/keychron-m1-wireless-mouse)
+- [Keychron M2 Wireless Mouse](https://www.keychron.com/products/keychron-m2-wireless-mouse)
+- [Keychron M2 Mini Wireless Mouse](https://www.keychron.com/products/keychron-m2-mini-wireless-mouse)
+- [Keychron M3 Wireless Mouse](https://www.keychron.com/products/keychron-m3-wireless-mouse)
+- [Keychron M3 Mini Wireless Mouse](https://www.keychron.com/products/keychron-m3-mini-wireless-mouse)
+- [Keychron M3 Mini Wireless Mouse - Metal Edition](https://www.keychron.com/products/keychron-m3-mini-wireless-mouse-metal-edition)
+- [Keychron M4 Wireless Mouse](https://www.keychron.com/collections/lightweight-gaming-mouse/products/keychron-m4-wireless-mouse)
+- [Keychron M5 Wireless Ergonomic Mouse](https://www.keychron.com/products/keychron-m5-wireless-ergonomic-mouse)
+- [Keychron M6 Wireless Mouse](https://www.keychron.com/products/keychron-m6-wireless-mouse)
+- [Keychron M7 Wireless Mouse](https://www.keychron.com/products/keychron-m7-wireless-mouse)
+- [Lemokey G1 Wireless Mouse](https://www.keychron.com/products/lemokey-g1-wireless-mouse)
+- [Lemokey G2 Wireless Mouse](https://www.keychron.com/products/lemokey-g2-wireless-mouse)
+- [Keychron BM22 Wireless Mouse](https://www.keychron.com/products/keychron-bm22-wireless-mouse)
+- [Keychron BM24 Wireless Mouse](https://www.keychron.com/products/keychron-bm24-wireless-mouse)
+- [Keychron BM25 Wireless Mouse](https://www.keychron.com/products/keychron-bm25-wireless-mouse)
+
+If there is a mouse model or variant you would like to see added to this repository, please contact Keychron or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
+
 ## Download Files
 
 | File | Description | Format |
