@@ -20,18 +20,11 @@ As of April 8, 2026, the Keychron Q HE collection includes the following Q HE pr
 - [Q0 HE](https://www.keychron.com/products/keychron-q0-he-qmk-wireless-custom-number-pad)
 - [Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard)
 - [Q1 HE Copper Edition](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard-copper-edition)
-- [Q1 HE 8K](https://www.keychron.com/products/keychron-q1-he-8k-magnetic-switch-keyboard)
-- [Q2 HE 8K](https://www.keychron.com/products/keychron-q2-he-8k-magnetic-switch-keyboard)
 - [Q3 HE](https://www.keychron.com/products/keychron-q3-he-qmk-wireless-custom-keyboard)
-- [Q3 HE 8K](https://www.keychron.com/products/keychron-q3-he-8k-magnetic-switch-keyboard)
 - [Q4 HE](https://www.keychron.com/products/keychron-q4-he-qmk-wireless-custom-keyboard)
 - [Q5 HE](https://www.keychron.com/products/keychron-q5-he-qmk-wireless-custom-keyboard)
-- [Q5 HE 8K](https://www.keychron.com/products/keychron-q5-he-8k-magnetic-switch-keyboard)
 - [Q6 HE](https://www.keychron.com/products/keychron-q6-he-qmk-wireless-custom-keyboard)
-- [Q6 HE 8K](https://www.keychron.com/products/keychron-q6-he-8k-magnetic-switch-keyboard)
 - [Q12 HE](https://www.keychron.com/products/keychron-q12-he-qmk-wireless-custom-keyboard)
-
-This list is based on the current Q HE collection and excludes non-Q HE products that may appear in the same filtered view, such as Q13 Ultra.
 
 If there is a Q HE model or variant you would like to see added to this repository, please contact Keychron or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
 
