@@ -14,9 +14,9 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
-- New models and design files will be highlighted here as the repository grows.
-- For major additions, check the commit history and future GitHub Releases for milestone updates.
-- If you are looking for a specific keyboard, mouse, or component set, start with the series folders below or open the [Repository Inventory](docs/repo-inventory.md).
+- **2026-04:** Added Q HE and mouse design files.
+- **2026-03:** Expanded K Max coverage.
+- More milestone updates will be published in [GitHub Releases](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/releases).
 
 ## Start Here
 
