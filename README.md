@@ -3,6 +3,7 @@
 [![Models Uploaded](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Keychron/Keychron-Keyboards-Hardware-Design/main/.github/badges/model-count.json)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 [![Repo](https://img.shields.io/badge/repo-source--available-4c1)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 [![Docs](https://img.shields.io/badge/docs-ready-brightgreen)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/tree/main/docs)
+[![Star this repo](https://img.shields.io/badge/GitHub-Star%20this%20repo-black?logo=github)](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 
 Production-grade hardware design files for Keychron keyboards and mice.
 
