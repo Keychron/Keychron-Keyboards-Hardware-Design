@@ -14,7 +14,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
-- **2026-04-09:** add K10 HE, Q6 Max and K0 Max design files.
+- **2026-04-09:** Added K10 HE, Q6 Max and K0 Max design files.
 - **2026-04:** Added Q HE and mouse design files.
 - **2026-03:** Expanded K Max coverage.
 - More milestone updates will be published in [GitHub Releases](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/releases).
