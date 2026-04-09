@@ -12,6 +12,12 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ![Keychron hardware design hero](docs/assets/hero-keychron-hardware-design.jpg)
 
+## Latest Updates
+
+- New models and design files will be highlighted here as the repository grows.
+- For major additions, check the commit history and future GitHub Releases for milestone updates.
+- If you are looking for a specific keyboard, mouse, or component set, start with the series folders below or open the [Repository Inventory](docs/repo-inventory.md).
+
 ## Start Here
 
 If you're new, begin with one of these paths:
