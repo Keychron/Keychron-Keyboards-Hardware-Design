@@ -42,7 +42,7 @@ DXF files are widely used for 2D profile exchange, especially for plate outlines
 You can use them to:
 - Inspect 2D cut profiles
 - Export shapes for CNC or laser workflows
-- Modify plate geometry for non-commercial remixes
+- Modify plate geometry for remixes or compatible accessories
 - Share flat geometry between CAD tools
 
 Common software that can open DXF files:
@@ -72,7 +72,7 @@ If you are new to hardware files, start here:
 1. Open the PDF or drawing files first to understand the part.
 2. Open the STEP file to inspect the 3D model.
 3. Use DXF files when working with flat plates or cut profiles.
-4. Keep your edits non-commercial unless you have written permission from Keychron.
+4. Keep your work within the license: compatible accessories are allowed, but copying Keychron keyboards or mice is not.
 
 ## Compatibility Notes
 
@@ -83,4 +83,4 @@ If you are new to hardware files, start here:
 
 ## Before You Build
 
-These files are provided for personal, educational, and non-commercial use. Review the repository license terms before manufacturing, sharing derivatives, or publishing modified files.
+These files are provided under a source-available license. Review the repository license terms before manufacturing, sharing derivatives, or publishing modified files, especially if your project is commercial.

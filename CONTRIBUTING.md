@@ -2,7 +2,7 @@
 
 Thank you for contributing to Keychron's source-available hardware project! Whether you're fixing a tolerance, adding an ISO plate variant, or improving documentation, every contribution helps.
 
-**Important:** This project is source-available with no commercial use permitted. By submitting a contribution, you agree that your contribution will be licensed under the same Keychron Source-Available License.
+**Important:** This project is source-available with limited commercial use for compatible accessories. By submitting a contribution, you agree that your contribution will be licensed under the same Keychron Source-Available License.
 
 ## Types of Contributions
 

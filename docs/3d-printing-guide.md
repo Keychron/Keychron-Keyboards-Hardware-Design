@@ -1,6 +1,6 @@
 # 3D Printing Guide
 
-This guide is for makers who want to use the repository files as references for personal, educational, and non-commercial printing projects.
+This guide is for makers who want to use the repository files as references for personal, educational, or compatible-accessory printing projects.
 
 ## What To Print First
 
@@ -48,4 +48,4 @@ Do not assume a CAD export is immediately print-ready without checking these are
 
 ## License Reminder
 
-These files are source-available for personal, educational, and non-commercial use only. Review the repository license before sharing derivatives or manufacturing parts.
+These files are source-available. Review the repository license before sharing derivatives or manufacturing parts. Compatible accessories can be allowed, but copying and selling Keychron keyboards or mice is not.

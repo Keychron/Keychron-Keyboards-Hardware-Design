@@ -2,7 +2,7 @@ Keychron Source-Available License
 
 Copyright (c) 2024-present Keychron (Keychron Technology, Inc)
 
-This project is source-available. Commercial use is strictly prohibited.
+This project is source-available. Commercial use is limited as described below.
 
 PERMISSIONS — You MAY:
 
@@ -13,22 +13,43 @@ PERMISSIONS — You MAY:
   3. Share the original, unmodified files with others, provided this
      license and copyright notice are included in full.
   4. Reference or cite the files in academic or educational contexts.
+  5. Design, manufacture, and sell original accessories or add-ons that
+     are compatible with Keychron products, provided that:
+     - the accessory is not a keyboard, mouse, or a substantially similar
+       copy of a Keychron product;
+     - the accessory does not copy or reproduce a complete Keychron
+       keyboard or mouse design from these files; and
+     - you do not use Keychron trademarks, logos, or branding except for
+       truthful compatibility statements such as "compatible with
+       Keychron Q1".
 
 RESTRICTIONS — You MAY NOT:
 
   1. Use the files, or any derivative of them, for commercial purposes.
-     This includes, but is not limited to: manufacturing, selling,
-     offering for sale, distributing for profit, or incorporating into
-     any product or service intended for commercial gain.
+     unless that use is expressly allowed under Permission 5 above.
   2. Sublicense, relicense, or redistribute modified versions of the
      files without prior written permission from Keychron.
   3. Remove or alter this license notice, copyright notice, or any
      attribution to Keychron.
   4. Represent derivative works as officially endorsed by Keychron.
+  5. Manufacture, sell, offer for sale, or distribute keyboards, mice,
+     or substantially similar products based on these files or their
+     derivatives.
+  6. Use Keychron trademarks, logos, product names, or other branding as
+     your own branding, in a way that implies source or endorsement, or
+     in a way that is likely to confuse customers. Compatibility
+     references must remain descriptive and must not imply official
+     authorization.
 
-COMMERCIAL LICENSING:
+COMMERCIAL ACCESSORY USE:
 
-Commercial use is strictly prohibited.
+Commercial use is allowed only for original accessories and add-ons that
+are compatible with Keychron products and that comply with Permission 5
+and the restrictions above.
+
+If you want to manufacture or sell keyboards, mice, or other products
+that reproduce Keychron product designs, you must obtain prior written
+permission from Keychron.
 
 DISCLAIMER:
 

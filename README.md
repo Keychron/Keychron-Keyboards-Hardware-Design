@@ -8,7 +8,7 @@ Production-grade hardware design files for Keychron keyboards and mice.
 
 Study real CAD. Remix plates and cases. Design compatible accessories. Learn from how real products are built.
 
-> This project is source-available for personal, educational, and non-commercial use. Commercial use is not allowed.
+> This project is source-available. Personal and educational use is allowed, and commercial use is allowed for compatible accessories. You may not copy and sell Keychron keyboards or mice, and you may not use Keychron trademarks as your own branding.
 
 ![Keychron hardware design hero](docs/assets/hero-keychron-hardware-design.jpg)
 
@@ -50,10 +50,10 @@ If you're new, begin with one of these paths:
 ## What You Can Do With This Repository
 
 - Study real industrial design and hardware packaging files
-- Create non-commercial case, plate, and accessory remixes
+- Create case, plate, and accessory remixes
 - Inspect dimensions, structure, and component integration
 - Build community mods and compatible add-ons
-- Contribute documentation, corrections, and new non-commercial variants
+- Contribute documentation, corrections, and new variants that fit the license
 
 ## What's Inside
 
@@ -70,7 +70,7 @@ If you're new, begin with one of these paths:
 | **P HE Series** | Hall Effect | P1 HE | Case, Plate, Full Model, Stabilizer |
 | **Mouse Series** | Mouse | M1–M7, G1, G2 (11 models) | Shell, Full Model |
 
-**83 device models. 640+ design files. Source-available. No commercial use.**
+**83 device models. 640+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
@@ -110,7 +110,7 @@ Making production hardware files available is a meaningful contribution to the b
 - It helps the ecosystem grow by enabling compatible accessories, modifications, and personal projects that build around existing designs.
 - It also reflects trust and transparency. Sharing internal design files signals confidence in the products and supports users as creators, not just customers.
 
-The non-commercial restriction protects Keychron's business while still giving makers, learners, and enthusiasts a strong foundation for experimentation. In practice, that balance turns passive users into active contributors and helps the community learn and innovate faster.
+The license is designed to support the ecosystem around Keychron products while still protecting Keychron's core hardware business. In practice, that means compatible accessories and add-ons can grow around the platform, but copying and selling Keychron keyboards or mice, or trading on Keychron trademarks, is not allowed.
 
 ## Contributing
 
@@ -120,13 +120,13 @@ The non-commercial restriction protects Keychron's business while still giving m
 - Improve documentation and guides
 - Report issues with downloaded files
 
-**Note:** This project is source-available. Commercial use is prohibited. By contributing, you agree your work falls under the same license.
+**Note:** This project is source-available with limited commercial use for compatible accessories. By contributing, you agree your work falls under the same license.
 
 ## License
 
-This project is **source-available**. All hardware design files are provided for personal, educational, and non-commercial use only.
+This project is **source-available**. The files may be used for personal and educational work, and for commercial compatible accessories as described in the license.
 
-**Commercial use is strictly prohibited.** You may not use these files, or any derivative of them, to manufacture, sell, or distribute products for profit without explicit written permission from Keychron.
+**You may not use these files to copy, manufacture, sell, or distribute Keychron keyboards or mice, or substantially similar products, and you may not use Keychron trademarks as your own branding.** Commercial accessory use is allowed within the limits of the license.
 
 See the [LICENSE](LICENSE) file for full terms.
 

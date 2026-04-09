@@ -6,7 +6,7 @@ This page provides a plain-language summary of how to think about the repository
 
 No. This repository is source-available.
 
-That means the files are available to view, study, and use for personal, educational, and non-commercial purposes, but commercial use is not allowed unless Keychron gives written permission.
+That means the files are available to view and study, with limited commercial use for compatible accessories as described in the license. The main limit is that you may not use these files to copy and sell Keychron keyboards or mice, and you may not use Keychron trademarks as your own branding.
 
 ## Can I download and inspect the files?
 
@@ -22,19 +22,35 @@ Yes, if it is for personal and non-commercial use.
 
 ## Can I share my remix with the community?
 
-In general, you should keep any sharing consistent with the repository license and non-commercial restrictions. If your remix includes substantial parts of Keychron's original files, be careful not to present it as an unrestricted commercial asset.
+In general, you should keep any sharing consistent with the repository license. If your remix includes substantial parts of Keychron's original files, do not present it as a full Keychron product replacement, and do not use Keychron branding in a way that suggests endorsement.
 
-## Can I sell parts, kits, keyboards, mice, or accessories based on these files?
+## Can I sell accessories based on these files?
 
-No. Commercial use is not allowed without explicit written permission from Keychron.
+Yes, if the product is an original accessory or add-on made to work with a Keychron product.
+
+Examples may include fit-check tools, holders, stands, covers, display accessories, or other compatible add-ons.
+
+That does not allow you to copy and sell a full Keychron keyboard or mouse design.
+
+It also does not give you the right to use Keychron trademarks, logos, or branding except for factual compatibility statements such as "compatible with Keychron Q1".
+
+## Can I sell parts, kits, keyboards, or mice based on these files?
+
+No, not if the result is a keyboard, mouse, or a substantially similar copy of a Keychron product.
 
 ## Can a business use these files internally?
 
-Not by default. If the use is commercial or connected to a business offering, you should treat it as prohibited unless Keychron has given written permission.
+Only within the limits of the license. Internal evaluation, accessory development, or compatibility work can be fine, but copying Keychron keyboards or mice for a business offering is not.
 
 ## Can I use these files to manufacture products for customers?
 
-No. Manufacturing for sale or commercial distribution is not allowed.
+Not if the manufactured product is a keyboard, mouse, or a substantially similar copy of a Keychron product. Original compatible accessories are allowed.
+
+## Can I use the Keychron name or logo on my accessory?
+
+Not as your branding, and not in a way that suggests endorsement or official status.
+
+You may use factual compatibility wording such as "compatible with Keychron Q3" if it is clear that your product is independent and not made by Keychron.
 
 ## Can I upload these files to another marketplace or CAD library?
 
@@ -46,4 +62,4 @@ Always check the repository's main license file for the controlling terms. This 
 
 ## When in doubt, what should I do?
 
-Assume commercial use is not allowed and ask Keychron for written permission before moving forward.
+Assume accessory compatibility use may be allowed, but product-copying and trademark use are not. If your project is close to a full keyboard or mouse product, ask Keychron for written permission before moving forward.

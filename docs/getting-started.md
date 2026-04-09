@@ -27,7 +27,7 @@ If you are unsure which tool to use, read the [File Format Guide](file-format-gu
 
 ## 3. Decide What You Want To Do
 
-Typical non-commercial use cases include:
+Typical use cases include:
 - Studying how a production design is built
 - Measuring dimensions for compatible accessories
 - Remixing a case or plate for personal use
@@ -53,19 +53,20 @@ When importing or editing files:
 Good beginner projects include:
 - Reviewing one plate DXF and understanding its cutouts
 - Inspecting a case STEP model and identifying mounting points
-- Creating a non-commercial accessory that references an existing model
+- Creating an accessory that references an existing model
 - Comparing two related models to see how the structure changes
 
 ## 7. Respect the License
 
-This repository is source-available, not open source for unrestricted commercial use.
+This repository is source-available, not open source for unrestricted commercial copying.
 
 You may use the files for:
 - Personal learning
 - Educational study
-- Non-commercial remixing and experimentation
+- Remixing and experimentation
+- Commercial compatible accessories that do not copy a Keychron keyboard or mouse
 
-You may not use the files for commercial manufacturing or sales unless you have explicit written permission from Keychron.
+You may not use the files to copy, manufacture, or sell Keychron keyboards or mice, or substantially similar products. You also may not use Keychron trademarks or branding except for factual compatibility references.
 
 For a plain-language summary, read the [License FAQ](license-faq.md).
 
@@ -75,6 +76,6 @@ Helpful contributions include:
 - Fixing documentation issues
 - Reporting missing or broken files
 - Suggesting clearer naming or navigation
-- Sharing non-commercial improvements that fit the repository rules
+- Sharing improvements that fit the repository rules
 
 If you plan to contribute, follow the repository contribution guidance.
