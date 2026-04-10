@@ -12,10 +12,13 @@ from pathlib import Path
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-SERIES_ORDER = [
+PREFERRED_SERIES_ORDER = [
+    "C-Pro-Series",
     "Q-Series",
     "Q-Pro-Series",
     "Q-HE-Series",
+    "Q-Max-Series",
+    "Q-Ultra-8K-Series",
     "K-Pro-Series",
     "K-Max-Series",
     "K-HE-Series",
@@ -25,21 +28,41 @@ SERIES_ORDER = [
     "Mice",
     "Keycap Profiles",
 ]
+IGNORED_TOP_LEVEL_DIRS = {"docs", "scripts"}
 
 
-def iter_series():
-    for name in SERIES_ORDER:
-        path = REPO_ROOT / name
-        if path.is_dir():
-            yield path
+def iter_series() -> list[Path]:
+    preferred_index = {
+        name: index for index, name in enumerate(PREFERRED_SERIES_ORDER)
+    }
+    discovered = []
+    for path in REPO_ROOT.iterdir():
+        if not path.is_dir():
+            continue
+        if path.name.startswith(".") or path.name in IGNORED_TOP_LEVEL_DIRS:
+            continue
+        if any(child.is_dir() and not child.name.startswith(".") for child in path.iterdir()):
+            discovered.append(path)
+    return sorted(
+        discovered,
+        key=lambda path: (preferred_index.get(path.name, len(preferred_index)), path.name),
+    )
 
 
 def series_model_dirs(series_path: Path) -> list[Path]:
-    return sorted(path for path in series_path.iterdir() if path.is_dir())
+    return sorted(
+        path
+        for path in series_path.iterdir()
+        if path.is_dir() and not path.name.startswith(".")
+    )
 
 
 def manifest_for_model(model_path: Path) -> dict[str, object]:
-    files = sorted(path for path in model_path.iterdir() if path.is_file())
+    files = sorted(
+        path
+        for path in model_path.iterdir()
+        if path.is_file() and not path.name.startswith(".")
+    )
     ext_counts = Counter(path.suffix.lower() or "[noext]" for path in files)
     readme_present = any(path.name.lower() == "readme.md" for path in files)
     data_files = [path for path in files if path.name.lower() != "readme.md"]
@@ -86,6 +109,14 @@ def collect_inventory() -> dict[str, object]:
         "series": series_entries,
         "manifests": manifests,
     }
+
+
+def device_model_count(inventory: dict[str, object]) -> int:
+    return sum(
+        entry["model_count"]
+        for entry in inventory["series"]
+        if entry["series"] != "Keycap Profiles"
+    )
 
 
 def render_summary_markdown(inventory: dict[str, object]) -> str:
@@ -136,11 +167,7 @@ def validate_readme(inventory: dict[str, object], readme_path: Path) -> list[str
     errors = []
 
     # Count device models (exclude Keycap Profiles which are documentation-only)
-    device_models = sum(
-        entry["model_count"]
-        for entry in inventory["series"]
-        if entry["series"] != "Keycap Profiles"
-    )
+    device_models = device_model_count(inventory)
 
     # Check badge -- either static URL or dynamic endpoint
     badge_match = re.search(r"models%20uploaded-(\d+)-", text)
@@ -220,6 +247,13 @@ def build_parser() -> argparse.ArgumentParser:
         help="README path to validate.",
     )
 
+    count = subparsers.add_parser("count", help="Print the current model count.")
+    count.add_argument(
+        "--device-only",
+        action="store_true",
+        help="Exclude Keycap Profiles from the total.",
+    )
+
     return parser
 
 
@@ -237,6 +271,11 @@ def main() -> int:
             args.output.write_text(output)
         else:
             sys.stdout.write(output)
+        return 0
+
+    if args.command == "count":
+        count = device_model_count(inventory) if args.device_only else inventory["total_models"]
+        print(count)
         return 0
 
     errors = validate_readme(inventory, args.readme)

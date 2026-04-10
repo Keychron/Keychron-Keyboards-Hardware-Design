@@ -26,7 +26,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 If you're new, begin with one of these paths:
 
 - **Browse keyboard files**  
-  Explore Q, Q Pro, Q HE, K Pro, K Max, K HE, V Max, and P HE models.
+  Explore C Pro, Q, Q Pro, Q HE, Q Max, Q Ultra 8K, K Pro, K Max, K HE, V Max, and P HE models.
 
 - **Browse mouse files**  
   Explore shell and full-model files for M and G series mice.
@@ -61,25 +61,34 @@ If you're new, begin with one of these paths:
 
 | Series | Type | Models | Components |
 |---|---|---|---|
+| **C Pro Series** | Keyboard | C3 Pro | Plate, Full Model |
 | **Q Series** | Keyboard | Q0 Plus, Q1–Q12, Q60, Q65 | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
-| **Q Pro Series** | Keyboard | Q1 Pro–Q14 Pro | Case, Plate, Encoder, Full Model, Stabilizer, KSA Keycap |
-| **Q HE Series** | Hall Effect | Q1 HE, Q3 HE, Q5 HE, Q6 HE | Plate, Full Model |
+| **Q Pro Series** | Keyboard | Q1 Pro–Q14 Pro (10 models) | Case, Plate, Encoder, Full Model, Stabilizer, KSA Keycap |
+| **Q HE Series** | Hall Effect | Q1 HE, Q3 HE, Q5 HE, Q6 HE, Q12 HE | Plate, Full Model, selected case parts |
+| **Q Max Series** | Keyboard | Q6 Max | Case, Plate, Full Model, Stabilizer |
+| **Q Ultra 8K Series** | Keyboard | Q6 Ultra 8K | Plate |
 | **K Pro Series** | Keyboard | K1 Pro–K17 Pro (16 models) | Case, Plate, Full Model, Stabilizer |
-| **K Max Series** | Keyboard | K1 Max–K17 Max (11 models) | Case, Plate, Full Model, Stabilizer |
+| **K Max Series** | Keyboard | K0 Max, K1 Max–K17 Max (12 models) | Case, Plate, Full Model, Stabilizer, Keycap on selected models |
 | **K HE Series** | Hall Effect | K2 HE–K10 HE | Case, Plate, Full Model, Stabilizer, Keycap (K2 HE; other models pending) |
 | **L Series** | Keyboard | L1, L3 | Case, Plate, Knob, Full Model, Stabilizer |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
-| **P HE Series** | Hall Effect | P1 HE | Case, Plate, Full Model, Stabilizer |
+| **P HE Series** | Hall Effect | P1 HE | Case, Plate, Full Model, Stabilizer, Keycap |
 | **Mouse Series** | Mouse | M1–M7, G1, G2 (11 models) | Shell, Full Model |
 
-**83 device models. 640+ design files. Source-available. Accessory-friendly.**
+**88 device models. 686+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
 
 ```
+C-Pro-Series/
+  C3 Pro/               — Plate and full-model files for the C3 Pro
 Q-Series/
   Q1/                   — Case, plate, encoder, stabilizer, full model
+Q-Max-Series/
+  Q6 Max/               — Wireless Q-series case, plate, full model, and stabilizer files
+Q-Ultra-8K-Series/
+  Q6 Ultra 8K/          — Ultra 8K plate files
 Q-Pro-Series/
   Q1 Pro/               — Wireless Q-series hardware files
 K-Pro-Series/
