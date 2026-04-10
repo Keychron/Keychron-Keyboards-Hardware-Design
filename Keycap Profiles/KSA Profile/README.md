@@ -1,5 +1,7 @@
 ## KSA Profile Keycaps Overview
 
+![KSA Profile](../../docs/assets/ksa%20profile.jpeg)
+
 ### Introduction
 
 Keycap profiles determine the shape, height, and sculpting of the keys on a mechanical keyboard, directly influencing how a board looks, sounds, and feels. Common profiles like OEM, Cherry, SA, and DSA each serve different preferences. KSA is a newer entry — a proprietary profile designed by Keychron that refines the classic SA formula for modern daily use.

@@ -1,5 +1,7 @@
 ## OSA Profile Keycaps Overview
 
+![OSA Profile](../../docs/assets/osa%20profile.jpeg)
+
 ### Introduction
 
 Keycap profiles define the shape, height, and sculpting of keycaps on a mechanical keyboard, influencing typing comfort, sound, and visual appeal. Among the growing number of profile options, OSA occupies a distinctive position — a hybrid profile that bridges the gap between the widely familiar OEM shape and the tall, dramatic SA profile.

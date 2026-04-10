@@ -1,5 +1,7 @@
 ## OEM Profile Keycaps Overview
 
+![OEM Profile](../../docs/assets/oem%20profile.jpeg)
+
 ### Introduction
 
 A keycap profile refers to the shape, height, and sculpting of the keycaps on a mechanical keyboard. Different profiles affect how a keyboard looks, feels, and performs during extended use. Common profiles include Cherry, SA, DSA, XDA, and OEM — each with distinct characteristics suited to different preferences.

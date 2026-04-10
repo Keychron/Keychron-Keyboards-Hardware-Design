@@ -1,5 +1,7 @@
 ## Cherry Profile Keycaps Overview
 
+![Cherry Profile](../../docs/assets/cherry%20profile.png)
+
 ### Introduction
 
 Keycap profiles define the shape, height, and contour of the keys on a mechanical keyboard. The profile you choose affects typing comfort, sound, aesthetics, and overall feel. Among the most popular profiles — OEM, SA, DSA, XDA, and Cherry — the Cherry profile has become the gold standard in the enthusiast community.

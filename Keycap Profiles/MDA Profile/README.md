@@ -1,5 +1,7 @@
 ## MDA Profile Keycaps Overview
 
+![MDA Profile](../../docs/assets/mda%20profile.jpeg)
+
 ### Introduction
 
 Keycap profiles define the shape, height, and sculpting of keycaps on a mechanical keyboard, directly influencing typing comfort, acoustics, and aesthetics. Profiles range from tall and dramatically sculpted (SA) to low and uniform (DSA, XDA). MDA occupies a deliberate middle ground — a medium-height sculpted profile with spherical tops that aims to combine the best qualities of both ends of the spectrum.
