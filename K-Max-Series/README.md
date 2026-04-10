@@ -9,6 +9,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 | Model | Layout | Size | Knob | Firmware |
 |---|---|---|---|---|
+| [K0 Max](./K0%20Max/README.md) | Number pad | — | Yes | — |
 | [K1 Max](./K1%20Max/README.md) | TKL Low-profile | 87-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k1_max) |
 | [K2 Max](./K2%20Max/README.md) | 75% | 84-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k2_max) |
 | [K3 Max](./K3%20Max/README.md) | 75% Low-profile | 84-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k3_max) |
@@ -73,6 +74,7 @@ If there is a K Max model or layout variant you would like to see added to this 
 
 ```
 K-Max-Series/
+├── K0 Max/
 ├── K1 Max/
 ├── K2 Max/
 ├── K3 Max/

@@ -8,13 +8,13 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 | Model | Layout | Size | Knob | Firmware |
 |---|---|---|---|---|
-| Q6 Ultra 8K | Full-size | 104-key | Yes | — |
+| [Q6 Ultra 8K](./Q6%20Ultra%208k/README.md) | Full-size | 104-key | Yes | — |
 
 ## Repository Contents
 
 This series folder currently includes hardware files for the following model:
 
-- [Q6 Ultra 8K](./Q6%20Ultra%208k/)
+- [Q6 Ultra 8K](./Q6%20Ultra%208k/README.md)
 
 If additional Q Ultra 8K models are published to this repository later, they can be added here using the same structure as the other series folders.
 

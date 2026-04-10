@@ -30,8 +30,8 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 
 - Path: `C-Pro-Series/C3 Pro`
 - Data files: 4
-- README present: no
-- Extensions: `.dwg` x1, `.pdf` x1, `.stp` x2
+- README present: yes
+- Extensions: `.dwg` x1, `.md` x1, `.pdf` x1, `.stp` x2
 
 ### Q-Series / Q0 Plus
 
@@ -219,8 +219,8 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 
 - Path: `Q-HE-Series/Q12 HE`
 - Data files: 4
-- README present: no
-- Extensions: `.stp` x4
+- README present: yes
+- Extensions: `.md` x1, `.stp` x4
 
 ### Q-HE-Series / Q3 HE
 
@@ -247,15 +247,15 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 
 - Path: `Q-Max-Series/Q6 Max`
 - Data files: 10
-- README present: no
-- Extensions: `.dwg` x2, `.pdf` x2, `.stp` x5, `.zip` x1
+- README present: yes
+- Extensions: `.dwg` x2, `.md` x1, `.pdf` x2, `.stp` x5, `.zip` x1
 
 ### Q-Ultra-8K-Series / Q6 Ultra 8k
 
 - Path: `Q-Ultra-8K-Series/Q6 Ultra 8k`
 - Data files: 4
-- README present: no
-- Extensions: `.dwg` x2, `.pdf` x2
+- README present: yes
+- Extensions: `.dwg` x2, `.md` x1, `.pdf` x2
 
 ### K-Pro-Series / K1 Pro
 
@@ -373,8 +373,8 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 
 - Path: `K-Max-Series/K0 Max`
 - Data files: 8
-- README present: no
-- Extensions: `.dwg` x1, `.pdf` x1, `.stp` x6
+- README present: yes
+- Extensions: `.dwg` x1, `.md` x1, `.pdf` x1, `.stp` x6
 
 ### K-Max-Series / K1 Max
 

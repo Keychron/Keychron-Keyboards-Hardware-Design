@@ -8,13 +8,13 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 | Model | Layout | Size | Knob | Firmware |
 |---|---|---|---|---|
-| Q6 Max | Full-size | 104-key | Yes | — |
+| [Q6 Max](./Q6%20Max/README.md) | Full-size | 104-key | Yes | — |
 
 ## Repository Contents
 
 This series folder currently includes hardware files for the following model:
 
-- [Q6 Max](./Q6%20Max/)
+- [Q6 Max](./Q6%20Max/README.md)
 
 If additional Q Max models are published to this repository later, they can be added here using the same structure as the other series folders.
 
