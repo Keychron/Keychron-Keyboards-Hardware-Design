@@ -4,6 +4,8 @@
 
 **Product page:** [Lemokey L3](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
+![Lemokey L3](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Lemokey_L3_QMK_VIA_Wireless_Mechanical_Keyboard-Black_60df0bb8-f745-4329-a4ec-dbb0536ca88e.jpg?v=1690339007)
+
 ## Specifications
 
 | Spec | Detail |

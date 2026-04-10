@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron M6 Wireless Mouse](https://www.keychron.com/products/keychron-m6-wireless-mouse)
 
+![Keychron M6](https://www.keychron.com/cdn/shop/files/M6-Mouse-Hero-Image-on-Desktop.jpg?v=1769594628&width=3200)
+
 ## Specifications
 
 | Spec | Detail |

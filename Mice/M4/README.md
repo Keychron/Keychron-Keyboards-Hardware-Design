@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron M4 Wireless Mouse](https://www.keychron.com/collections/lightweight-gaming-mouse/products/keychron-m4-wireless-mouse)
 
+![Keychron M4](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-M4-wireless-mouse-photo-5.jpg?v=1700644995)
+
 ## Specifications
 
 | Spec | Detail |

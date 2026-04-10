@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K17 Pro](https://www.keychron.com/products/keychron-k17-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
 
+![K17 Pro](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K17-Pro-1.jpg?v=1695003282)
+
 ## Specifications
 
 | Spec | Detail |

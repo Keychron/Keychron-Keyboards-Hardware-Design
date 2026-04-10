@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron M7 Wireless Mouse](https://www.keychron.com/products/keychron-m7-wireless-mouse)
 
+![Keychron M7](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/M7_8K_4.jpg?v=1741230333)
+
 ## Specifications
 
 | Spec | Detail |

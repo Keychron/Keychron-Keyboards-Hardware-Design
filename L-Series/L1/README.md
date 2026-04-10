@@ -4,6 +4,8 @@
 
 **Product page:** [Lemokey L1](https://www.keychron.com/products/lemokey-l1-qmk-via-wireless-custom-gaming-keyboard)
 
+![Lemokey L1](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Lemokey-L1-black.jpg?v=1710125438)
+
 ## Specifications
 
 | Spec | Detail |

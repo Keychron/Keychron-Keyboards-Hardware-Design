@@ -4,6 +4,8 @@
 
 **Product page:** [Lemokey G2 Wireless Mouse](https://www.keychron.com/collections/lemokey-g-series-mice/products/lemokey-g2-wireless-mouse)
 
+![Lemokey G2](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Lemokey_G2_wireless_mouse.jpg?v=1723694934)
+
 ## Specifications
 
 | Spec | Detail |

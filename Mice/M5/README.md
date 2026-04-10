@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron M5 Wireless Ergonomic Mouse](https://www.keychron.com/products/keychron-m5-wireless-ergonomic-mouse)
 
+![Keychron M5](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/M5-8K-2.jpg?v=1743646928)
+
 ## Specifications
 
 | Spec | Detail |

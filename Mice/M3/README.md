@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron M3 Wireless Mouse](https://www.keychron.com/products/keychron-m3-wireless-mouse)
 
+![Keychron M3](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-M3-4K-Wireless-Optical-Mouse-1.jpg?v=1695263591)
+
 ## Specifications
 
 | Spec | Detail |

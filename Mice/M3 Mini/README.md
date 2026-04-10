@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron M3 Mini Wireless Mouse](https://www.keychron.com/products/keychron-m3-mini-wireless-mouse)
 
+![Keychron M3 Mini](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-M3-Mini-White-13.jpg?v=1686381609)
+
 ## Specifications
 
 | Spec | Detail |

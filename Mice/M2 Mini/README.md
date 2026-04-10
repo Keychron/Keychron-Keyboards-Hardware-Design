@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron M2 Mini Wireless Mouse](https://www.keychron.com/products/keychron-m2-mini-wireless-mouse)
 
+![Keychron M2 Mini](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-M2-mini-wireless-optical-mouse-6.jpg?v=1697444925)
+
 ## Specifications
 
 | Spec | Detail |

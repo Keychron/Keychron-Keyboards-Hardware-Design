@@ -4,6 +4,8 @@
 
 **Product page:** [Lemokey G1 Wireless Mouse](https://www.keychron.com/products/lemokey-g1-wireless-mouse)
 
+![Lemokey G1](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Lemokey-G1-wireless-mouse-2.jpg?v=1716618774)
+
 ## Specifications
 
 | Spec | Detail |
