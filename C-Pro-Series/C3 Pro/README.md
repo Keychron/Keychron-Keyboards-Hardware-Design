@@ -2,7 +2,7 @@
 
 > Wired custom mechanical keyboard files for the C3 Pro 8K, including plate drawings and full-model STEP assemblies.
 
-**Product page:** [Keychron C3 Pro 8K](https://www.keychron.com/products/keychron-c3-pro-qmk-via-wired-custom-mechanical-keyboard)
+**Product page:** [Keychron C3 Pro 8K](https://www.keychron.com/products/keychron-c3-pro-qmk-via-wired-mechanical-keyboard)
 
 ![C3 Pro 8K](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/C3-Pro-10.jpg?v=1694050527)
 
