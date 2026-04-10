@@ -4,7 +4,7 @@
 
 **Product page:** [Keychron C3 Pro 8K](https://www.keychron.com/products/keychron-c3-pro-8k-qmk-wired-custom-mechanical-keyboard)
 
-![C3 Pro 8K](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/C3-Pro-10.jpg?v=1694050527)
+![C3 Pro 8K](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-C3-Pro-8K-1.jpg?v=1748917477)
 
 ## Included Files
 
