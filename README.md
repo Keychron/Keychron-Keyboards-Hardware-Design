@@ -84,31 +84,38 @@ If you're new, begin with one of these paths:
 C-Pro-Series/
   C3 Pro/               — Plate and full-model files for the C3 Pro
 Q-Series/
-  Q1/                   — Case, plate, encoder, stabilizer, full model
+  Q0 Plus/              — Numpad files alongside Q1–Q12, Q60, and Q65
+Q-HE-Series/
+  Q12 HE/               — Hall Effect files alongside Q1 HE, Q3 HE, Q5 HE, and Q6 HE
+Q-Pro-Series/
+  Q1 Pro/               — Wireless Q-series hardware files across 10 models
 Q-Max-Series/
   Q6 Max/               — Wireless Q-series case, plate, full model, and stabilizer files
 Q-Ultra-8K-Series/
   Q6 Ultra 8K/          — Ultra 8K plate files
-Q-Pro-Series/
-  Q1 Pro/               — Wireless Q-series hardware files
 K-Pro-Series/
-  K6 Pro/               — Keyboard case, plate, stabilizer, full model
+  K1 Pro/               — Low-profile and standard K Pro models through K17 Pro
   K8 Pro/               — Example model folder with `K8-Pro-Keycap.stp`
-V-Max-Series/
-  V1 Max/               — Tri-mode keyboard hardware files
 K-Max-Series/
-  K8 Max/               — Example model folder with `K8-Max-Keycap.stp`
+  K0 Max/               — Numpad files alongside K1 Max–K17 Max keyboard models
 K-HE-Series/
   K2 HE/                — Example model folder with Cherry and OSA keycap STEP files
+V-Max-Series/
+  V1 Max/               — Tri-mode keyboard hardware files across V1–V10 Max
+P-HE-Series/
+  P1 HE/                — Lemokey Hall Effect keyboard files
+L-Series/
+  L1/                   — Aluminum keyboard files with plate, case, knob, and stabilizers
 Mice/
   M1/                   — Shell and full model
 Keycap Profiles/
-  OSA Profile/          — Reference documentation for profile shapes and terminology
-  KSA Profile/
+  Cherry Profile/       — Reference profile docs alongside KSA, LSA, MDA, OEM, and OSA
 docs/
   file-format-guide.md  — How to open and edit these files
   getting-started.md    — First-stop guide for browsing and remixing
   3d-printing-guide.md  — Practical printing guidance for compatible parts
+scripts/
+  repo_inventory.py     — Regenerates the repository inventory from the live tree
 ```
 
 ## Why This Matters
