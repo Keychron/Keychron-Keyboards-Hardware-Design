@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-04-10:** Added more K0 Max files, Q12 HE and more Q6 Max files.
 - **2026-04-09:** Added K10 HE, Q6 Max and K0 Max design files. Update: make the accessories not subject to licensing.
 - **2026-04:** Added Q HE and mouse design files.
 - **2026-03:** Expanded K Max coverage.
