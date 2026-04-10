@@ -2,26 +2,36 @@
 
 Generated from the current filesystem using `scripts/repo_inventory.py`.
 
-- Total model directories: **89**
-- Total data files across model directories: **643**
+- Total model directories: **94**
+- Total data files across model directories: **686**
 
 ## Series Summary
 
 | Series | Models | Data Files |
 |---|---:|---:|
+| C-Pro-Series | 1 | 4 |
 | Q-Series | 15 | 147 |
 | Q-Pro-Series | 10 | 86 |
-| Q-HE-Series | 4 | 18 |
+| Q-HE-Series | 5 | 22 |
+| Q-Max-Series | 1 | 10 |
+| Q-Ultra-8K-Series | 1 | 4 |
 | K-Pro-Series | 16 | 129 |
-| K-Max-Series | 11 | 122 |
-| K-HE-Series | 5 | 11 |
+| K-Max-Series | 12 | 130 |
+| K-HE-Series | 5 | 19 |
 | V-Max-Series | 8 | 94 |
 | P-HE-Series | 1 | 9 |
 | L-Series | 2 | 16 |
 | Mice | 11 | 11 |
-| Keycap Profiles | 6 | 0 |
+| Keycap Profiles | 6 | 5 |
 
 ## Per-Model Manifests
+
+### C-Pro-Series / C3 Pro
+
+- Path: `C-Pro-Series/C3 Pro`
+- Data files: 4
+- README present: no
+- Extensions: `.dwg` x1, `.pdf` x1, `.stp` x2
 
 ### Q-Series / Q0 Plus
 
@@ -205,6 +215,13 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 - README present: yes
 - Extensions: `.dwg` x2, `.md` x1, `.pdf` x2, `.stp` x2
 
+### Q-HE-Series / Q12 HE
+
+- Path: `Q-HE-Series/Q12 HE`
+- Data files: 4
+- README present: no
+- Extensions: `.stp` x4
+
 ### Q-HE-Series / Q3 HE
 
 - Path: `Q-HE-Series/Q3 HE`
@@ -225,6 +242,20 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 - Data files: 4
 - README present: yes
 - Extensions: `.dwg` x1, `.md` x1, `.pdf` x1, `.stp` x2
+
+### Q-Max-Series / Q6 Max
+
+- Path: `Q-Max-Series/Q6 Max`
+- Data files: 10
+- README present: no
+- Extensions: `.dwg` x2, `.pdf` x2, `.stp` x5, `.zip` x1
+
+### Q-Ultra-8K-Series / Q6 Ultra 8k
+
+- Path: `Q-Ultra-8K-Series/Q6 Ultra 8k`
+- Data files: 4
+- README present: no
+- Extensions: `.dwg` x2, `.pdf` x2
 
 ### K-Pro-Series / K1 Pro
 
@@ -338,6 +369,13 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 - README present: yes
 - Extensions: `.dwg` x1, `.md` x1, `.pdf` x1, `.stp` x3, `.zip` x1
 
+### K-Max-Series / K0 Max
+
+- Path: `K-Max-Series/K0 Max`
+- Data files: 8
+- README present: no
+- Extensions: `.dwg` x1, `.pdf` x1, `.stp` x6
+
 ### K-Max-Series / K1 Max
 
 - Path: `K-Max-Series/K1 Max`
@@ -418,9 +456,9 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 ### K-HE-Series / K10 HE
 
 - Path: `K-HE-Series/K10 HE`
-- Data files: 0
+- Data files: 8
 - README present: yes
-- Extensions: `.md` x1
+- Extensions: `.dwg` x1, `.md` x1, `.pdf` x1, `.stp` x6
 
 ### K-HE-Series / K2 HE
 
@@ -607,16 +645,16 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 ### Keycap Profiles / Cherry Profile
 
 - Path: `Keycap Profiles/Cherry Profile`
-- Data files: 0
+- Data files: 1
 - README present: yes
-- Extensions: `.md` x1
+- Extensions: `.md` x1, `.stp` x1
 
 ### Keycap Profiles / KSA Profile
 
 - Path: `Keycap Profiles/KSA Profile`
-- Data files: 0
+- Data files: 1
 - README present: yes
-- Extensions: `.md` x1
+- Extensions: `.md` x1, `.stp` x1
 
 ### Keycap Profiles / LSA Profile
 
@@ -628,21 +666,21 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 ### Keycap Profiles / MDA Profile
 
 - Path: `Keycap Profiles/MDA Profile`
-- Data files: 0
+- Data files: 1
 - README present: yes
-- Extensions: `.md` x1
+- Extensions: `.md` x1, `.stp` x1
 
 ### Keycap Profiles / OEM Profile
 
 - Path: `Keycap Profiles/OEM Profile`
-- Data files: 0
+- Data files: 1
 - README present: yes
-- Extensions: `.md` x1
+- Extensions: `.md` x1, `.stp` x1
 
 ### Keycap Profiles / OSA Profile
 
 - Path: `Keycap Profiles/OSA Profile`
-- Data files: 0
+- Data files: 1
 - README present: yes
-- Extensions: `.md` x1
+- Extensions: `.md` x1, `.stp` x1
 
