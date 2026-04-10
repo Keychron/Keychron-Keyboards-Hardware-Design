@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q12 HE](https://www.keychron.com/products/keychron-q12-he-qmk-wireless-custom-keyboard)
 
+![Q12 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron_Q12_HE_Wireless_QMK_Custom_Magnetic_Switch_Keyboard-3.jpg?v=1754620571)
+
 ## Specifications
 
 | Spec | Detail |
