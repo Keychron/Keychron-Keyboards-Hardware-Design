@@ -7,12 +7,16 @@ body:
     attributes:
       label: Product Series
       options:
+        - C Pro 8K Series
         - Q Series
         - Q Pro Series
         - Q HE Series
+        - Q Max Series
+        - Q Ultra 8K Series
         - K Pro Series
         - K Max Series
         - K HE Series
+        - K QMK Series
         - V Max Series
         - P HE Series
         - L Series
