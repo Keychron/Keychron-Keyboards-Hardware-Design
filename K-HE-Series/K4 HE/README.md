@@ -22,7 +22,25 @@
 
 ## Included Files
 
-> **Note:** Design files for this model have not been uploaded yet. Check back for updates or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
+| File | Description |
+|---|---|
+| `K4_HE_Special_Edition_US_Bottom_Case.stp` | Special Edition bottom case model |
+| `K4_HE_Special_Edition_US_Full_Model_20260411.stp` | Complete assembled US full model |
+| `K4_HE_Special_Edition_US_OSA_Keycap.stp` | OSA keycap model |
+| `K4_HE_Special_Edition_US_Plate.dwg` | US plate drawing |
+| `K4_HE_Special_Edition_US_Plate.dxf` | US plate geometry for CAD/CAM workflows |
+| `K4_HE_Special_Edition_US_Plate.pdf` | US plate reference sheet |
+| `Stabilizer-2.25u.stp` | 2.25u stabilizer model |
+| `stabilizer-6.25u.stp` | 6.25u stabilizer model |
+
+## Opening the Files
+
+| Format | Free Software | Commercial Software |
+|---|---|---|
+| `.stp` | FreeCAD, Onshape | Fusion 360, SolidWorks |
+| `.dwg` | LibreCAD (limited), QCAD | AutoCAD, DraftSight |
+| `.dxf` | LibreCAD, QCAD | AutoCAD, DraftSight |
+| `.pdf` | Any PDF viewer | — |
 
 ## Links
 

@@ -22,7 +22,24 @@
 
 ## Included Files
 
-> **Note:** Design files for this model have not been uploaded yet. Check back for updates or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
+| File | Description |
+|---|---|
+| `K10-HE-Special-Edition-US-Bottom-Case.stp` | Special Edition bottom case model |
+| `K10-HE-Special-Edition-US-Full-Model-20250304.stp` | Complete assembled Special Edition US full model |
+| `K10-HE-Special-Edition-US-OSA-Keycap.stp` | Special Edition OSA keycap model |
+| `K10-HE-Special-Edition-US-Plate.dwg` | Special Edition US plate drawing |
+| `K10-HE-Special-Edition-US-Plate.pdf` | Special Edition US plate reference sheet |
+| `K10-HE-Special-Edition-US-Stabilizer.stp` | Stabilizer assembly model |
+| `K10-HE-Special-Edition-US-Top-Case.stp` | Special Edition top case model |
+| `K10-HE-Special-Edition-US-Wood-Frame.stp` | Special Edition wood frame model |
+
+## Opening the Files
+
+| Format | Free Software | Commercial Software |
+|---|---|---|
+| `.stp` | FreeCAD, Onshape | Fusion 360, SolidWorks |
+| `.dwg` | LibreCAD (limited), QCAD | AutoCAD, DraftSight |
+| `.pdf` | Any PDF viewer | — |
 
 ## Links
 
