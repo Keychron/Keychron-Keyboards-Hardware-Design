@@ -22,7 +22,31 @@
 
 ## Included Files
 
-> **Note:** Design files for this model have not been uploaded yet. Check back for updates or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
+| File | Description |
+|---|---|
+| `K8-HE-Special-Edition-US-Bottom-Case.stp` | Special Edition bottom case model |
+| `K8-HE-Special-Edition-US-Full-Model-20260411.stp` | Complete assembled Special Edition US full model |
+| `K8-HE-Special-Edition-US-OSA-Keycap.stp` | Special Edition OSA keycap model |
+| `K8-HE-Special-Edition-US-Plate.dwg` | Special Edition US plate drawing |
+| `K8-HE-Special-Edition-US-Plate.dxf` | Special Edition US plate geometry for CAD/CAM workflows |
+| `K8-HE-Special-Edition-US-Plate.pdf` | Special Edition US plate reference sheet |
+| `K8-HE-Standard-Version-US-Bottom-Case.stp` | Standard Version bottom case model |
+| `K8-HE-Standard-Version-US-Plate.dwg` | Standard Version US plate drawing |
+| `K8-HE-Standard-Version-US-Plate.dxf` | Standard Version US plate geometry for CAD/CAM workflows |
+| `K8-HE-Standard-Version-US-Plate.pdf` | Standard Version US plate reference sheet |
+| `K8_HE_Standard_Version_US_Cherry_Keycap.stp` | Standard Version Cherry-profile keycap model |
+| `K8_HE_Standard_Version_US_Full_Model_20260411.stp` | Complete assembled Standard Version US full model |
+| `Stabilizer-2.25u.stp` | 2.25u stabilizer model |
+| `stabilizer-6.25u.stp` | 6.25u stabilizer model |
+
+## Opening the Files
+
+| Format | Free Software | Commercial Software |
+|---|---|---|
+| `.stp` | FreeCAD, Onshape | Fusion 360, SolidWorks |
+| `.dwg` | LibreCAD (limited), QCAD | AutoCAD, DraftSight |
+| `.dxf` | LibreCAD, QCAD | AutoCAD, DraftSight |
+| `.pdf` | Any PDF viewer | — |
 
 ## Links
 
