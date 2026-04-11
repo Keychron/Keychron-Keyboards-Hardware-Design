@@ -2,36 +2,30 @@
 
 Generated from the current filesystem using `scripts/repo_inventory.py`.
 
-- Total model directories: **94**
-- Total data files across model directories: **686**
+- Total model directories: **98**
+- Total data files across model directories: **734**
 
 ## Series Summary
 
 | Series | Models | Data Files |
 |---|---:|---:|
-| C-Pro-Series | 1 | 4 |
 | Q-Series | 15 | 147 |
 | Q-Pro-Series | 10 | 86 |
-| Q-HE-Series | 5 | 22 |
+| Q-HE-Series | 6 | 35 |
 | Q-Max-Series | 1 | 10 |
 | Q-Ultra-8K-Series | 1 | 4 |
 | K-Pro-Series | 16 | 129 |
 | K-Max-Series | 12 | 130 |
-| K-HE-Series | 5 | 19 |
+| K-HE-Series | 5 | 41 |
 | V-Max-Series | 8 | 94 |
 | P-HE-Series | 1 | 9 |
 | L-Series | 2 | 16 |
 | Mice | 11 | 11 |
 | Keycap Profiles | 6 | 5 |
+| C-Pro-8K-Series | 3 | 10 |
+| K-QMK-Series | 1 | 7 |
 
 ## Per-Model Manifests
-
-### C-Pro-Series / C3 Pro
-
-- Path: `C-Pro-Series/C3 Pro`
-- Data files: 4
-- README present: yes
-- Extensions: `.dwg` x1, `.md` x1, `.pdf` x1, `.stp` x2
 
 ### Q-Series / Q0 Plus
 
@@ -208,6 +202,13 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 - README present: yes
 - Extensions: `.dxf` x1, `.md` x1, `.pdf` x1, `.stp` x7
 
+### Q-HE-Series / Q0 HE
+
+- Path: `Q-HE-Series/Q0 HE`
+- Data files: 9
+- README present: no
+- Extensions: `.dwg` x1, `.dxf` x1, `.pdf` x1, `.stp` x6
+
 ### Q-HE-Series / Q1 HE
 
 - Path: `Q-HE-Series/Q1 HE`
@@ -218,9 +219,9 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 ### Q-HE-Series / Q12 HE
 
 - Path: `Q-HE-Series/Q12 HE`
-- Data files: 4
+- Data files: 8
 - README present: yes
-- Extensions: `.md` x1, `.stp` x4
+- Extensions: `.dwg` x1, `.md` x1, `.pdf` x1, `.stp` x6
 
 ### Q-HE-Series / Q3 HE
 
@@ -470,9 +471,9 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 ### K-HE-Series / K4 HE
 
 - Path: `K-HE-Series/K4 HE`
-- Data files: 0
+- Data files: 8
 - README present: yes
-- Extensions: `.md` x1
+- Extensions: `.dwg` x1, `.dxf` x1, `.md` x1, `.pdf` x1, `.stp` x5
 
 ### K-HE-Series / K6 HE
 
@@ -484,9 +485,9 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 ### K-HE-Series / K8 HE
 
 - Path: `K-HE-Series/K8 HE`
-- Data files: 0
+- Data files: 14
 - README present: yes
-- Extensions: `.md` x1
+- Extensions: `.dwg` x2, `.dxf` x2, `.md` x1, `.pdf` x2, `.stp` x8
 
 ### V-Max-Series / V1 Max
 
@@ -683,4 +684,32 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 - Data files: 1
 - README present: yes
 - Extensions: `.md` x1, `.stp` x1
+
+### C-Pro-8K-Series / C1 Pro 8K
+
+- Path: `C-Pro-8K-Series/C1 Pro 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### C-Pro-8K-Series / C2 Pro 8K
+
+- Path: `C-Pro-8K-Series/C2 Pro 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### C-Pro-8K-Series / C3 Pro 8K
+
+- Path: `C-Pro-8K-Series/C3 Pro 8K`
+- Data files: 10
+- README present: yes
+- Extensions: `.dwg` x2, `.md` x1, `.pdf` x2, `.stp` x6
+
+### K-QMK-Series / K2 QMK
+
+- Path: `K-QMK-Series/K2 QMK`
+- Data files: 7
+- README present: yes
+- Extensions: `.dwg` x1, `.dxf` x1, `.md` x1, `.pdf` x1, `.stp` x4
 
