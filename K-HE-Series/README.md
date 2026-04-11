@@ -6,13 +6,15 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Available Models
 
-| Model | Layout | Size | Versions | Firmware |
-|---|---|---|---|---|
-| [K2 HE](./K2%20HE/README.md) | 75% | 84-key | Standard / Special Edition / ISO / Resin Edition / All-Wood Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k2_he) |
-| [K4 HE](./K4%20HE/README.md) | 96% | 100-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k4_he) |
-| [K6 HE](./K6%20HE/README.md) | 65% | 68-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k6_he) |
-| [K8 HE](./K8%20HE/README.md) | TKL | 87-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k8_he) |
-| [K10 HE](./K10%20HE/README.md) | Full-size | 104-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k10_he) |
+| Model | Layout | Size | Versions | Firmware | Status |
+|---|---|---|---|---|---|
+| [K2 HE](./K2%20HE/README.md) | 75% | 84-key | Standard / Special Edition / ISO / Resin Edition / All-Wood Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k2_he) | Files published |
+| [K4 HE](./K4%20HE/README.md) | 96% | 100-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k4_he) | Files published |
+| [K6 HE](./K6%20HE/README.md) | 65% | 68-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k6_he) | Folder only |
+| [K8 HE](./K8%20HE/README.md) | TKL | 87-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k8_he) | Files published |
+| [K10 HE](./K10%20HE/README.md) | Full-size | 104-key | Standard / Special Edition | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k10_he) | Files published |
+
+`Folder only` means the model directory exists, but design files have not been uploaded yet.
 
 ## Current Product Lineup
 

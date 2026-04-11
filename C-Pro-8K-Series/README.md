@@ -6,11 +6,13 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Available Models
 
-| Model | Layout | Size | Knob | Firmware |
-|---|---|---|---|---|
-| [C1 Pro 8K](./C1%20Pro%208K/README.md) | TKL | 87-key | — | — |
-| [C2 Pro 8K](./C2%20Pro%208K/README.md) | Full-size | 104-key | — | — |
-| [C3 Pro 8K](./C3%20Pro%208K/README.md) | TKL | 87-key | — | — |
+| Model | Layout | Size | Knob | Firmware | Status |
+|---|---|---|---|---|---|
+| [C1 Pro 8K](./C1%20Pro%208K/README.md) | TKL | 87-key | — | — | Folder only |
+| [C2 Pro 8K](./C2%20Pro%208K/README.md) | Full-size | 104-key | — | — | Folder only |
+| [C3 Pro 8K](./C3%20Pro%208K/README.md) | TKL | 87-key | — | — | Files published |
+
+`Folder only` means the model directory exists, but design files have not been uploaded yet.
 
 ## Repository Contents
 
