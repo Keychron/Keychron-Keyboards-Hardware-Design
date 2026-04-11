@@ -23,18 +23,19 @@
 | `Q12-HE-Top-Case.stp` | Top case enclosure |
 | `Q12-HE-Bottom-Case.stp` | Bottom case enclosure |
 | `Q12-HE-Knob.stp` | Rotary encoder knob model |
+| `Q12-HE-US-Aluminu-Plate.dwg` | US aluminum plate drawing |
+| `Q12-HE-US-Aluminu-Plate.pdf` | US aluminum plate reference sheet |
 | `Q12-HE-US-Full-Model-20250801.stp` | Complete assembled US model |
-
-## Notes
-
-- This folder currently contains enclosure and assembly files only.
-- Plate drawings are not currently included in this folder.
+| `Stabilizer-2.25u.stp` | 2.25u stabilizer model |
+| `Stabilizer-6.25u.stp` | 6.25u stabilizer model |
 
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |
 |---|---|---|
 | `.stp` | FreeCAD, Onshape | Fusion 360, SolidWorks |
+| `.dwg` | LibreCAD (limited), QCAD | AutoCAD, DraftSight |
+| `.pdf` | Any PDF viewer | — |
 
 ## Links
 
