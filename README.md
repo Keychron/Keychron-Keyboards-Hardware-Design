@@ -27,7 +27,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 If you're new, begin with one of these paths:
 
 - **Browse keyboard files**  
-  Explore C Pro, Q, Q Pro, Q HE, Q Max, Q Ultra 8K, K Pro, K Max, K HE, V Max, and P HE models.
+  Explore C Pro 8K, Q, Q Pro, Q HE, Q Max, Q Ultra 8K, K Pro, K Max, K HE, K QMK, V Max, and P HE models.
 
 - **Browse mouse files**  
   Explore shell and full-model files for M and G series mice.
@@ -62,7 +62,7 @@ If you're new, begin with one of these paths:
 
 | Series | Type | Models | Components |
 |---|---|---|---|
-| **C Pro Series** | Keyboard | C3 Pro | Plate, Full Model |
+| **C Pro 8K Series** | Keyboard | C1 Pro 8K, C2 Pro 8K, C3 Pro 8K | Case, Plate, Full Model, Stabilizer |
 | **Q Series** | Keyboard | Q0 Plus, Q1–Q12, Q60, Q65 | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **Q Pro Series** | Keyboard | Q1 Pro–Q14 Pro (10 models) | Case, Plate, Encoder, Full Model, Stabilizer, KSA Keycap |
 | **Q HE Series** | Hall Effect | Q1 HE, Q3 HE, Q5 HE, Q6 HE, Q12 HE | Plate, Full Model, selected case parts |
@@ -71,19 +71,20 @@ If you're new, begin with one of these paths:
 | **K Pro Series** | Keyboard | K1 Pro–K17 Pro (16 models) | Case, Plate, Full Model, Stabilizer |
 | **K Max Series** | Keyboard | K0 Max, K1 Max–K17 Max (12 models) | Case, Plate, Full Model, Stabilizer, Keycap on selected models |
 | **K HE Series** | Hall Effect | K2 HE–K10 HE | Case, Plate, Full Model, Stabilizer, Keycap (K2 HE; other models pending) |
+| **K QMK Series** | Keyboard | K2 QMK | Case, Plate, Stabilizer, Keycap |
 | **L Series** | Keyboard | L1, L3 | Case, Plate, Knob, Full Model, Stabilizer |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **P HE Series** | Hall Effect | P1 HE | Case, Plate, Full Model, Stabilizer, Keycap |
 | **Mouse Series** | Mouse | M1–M7, G1, G2 (11 models) | Shell, Full Model |
 
-**88 device models. 686+ design files. Source-available. Accessory-friendly.**
+**92 device models. 700+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
 
 ```
-C-Pro-Series/
-  C3 Pro/               — Plate and full-model files for the C3 Pro
+C-Pro-8K-Series/
+  C3 Pro 8K/            — Wired C Pro 8K hardware files, with C1 Pro 8K and C2 Pro 8K also present
 Q-Series/
   Q0 Plus/              — Numpad files alongside Q1–Q12, Q60, and Q65
 Q-HE-Series/
@@ -101,6 +102,8 @@ K-Max-Series/
   K0 Max/               — Numpad files alongside K1 Max–K17 Max keyboard models
 K-HE-Series/
   K2 HE/                — Example model folder with Cherry and OSA keycap STEP files
+K-QMK-Series/
+  K2 QMK/               — Early K QMK hardware files with plate, case, keycap, and stabilizer assets
 V-Max-Series/
   V1 Max/               — Tri-mode keyboard hardware files across V1–V10 Max
 P-HE-Series/
