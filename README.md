@@ -76,7 +76,7 @@ If you're new, begin with one of these paths:
 | **K Pro Series** | Keyboard | K1 Pro–K17 Pro (16 models) | Case, Plate, Full Model, Stabilizer |
 | **K Max Series** | Keyboard | K0 Max, K1 Max, K2 Max, K3 Max, K4 Max, K5 Max, K7 Max, K8 Max, K9 Max, K10 Max, K11 Max, K13 Max, K15 Max, K17 Max | Case, Plate, Full Model, Stabilizer, Keycap on selected models; README/model pages prepared for K4 Max and K9 Max |
 | **K HE Series** | Hall Effect | K2 HE, K4 HE, K6 HE, K8 HE, K10 HE | Published models include case, plate, full model, stabilizer, and selected keycap files; K6 HE is currently folder-only |
-| **K QMK Series** | Keyboard | K2 QMK | Case, Plate, Stabilizer, Keycap |
+| **K QMK Series** | Keyboard | K1 QMK, K2 QMK, K3 QMK, K4 QMK, K5 QMK, K8 QMK, K10 QMK | Published CAD files for K2 QMK; README/model pages prepared for the others |
 | **L Series** | Keyboard | L1, L3 | Case, Plate, Knob, Full Model, Stabilizer |
 | **V 8K Series** | Keyboard | V1 8K, V3 8K, V5 8K, V6 8K | README/model pages prepared for future CAD uploads |
 | **V Ultra 8K Series** | Keyboard | V0 Ultra 8K, V1 Ultra 8K, V3 Ultra 8K, V5 Ultra 8K, V6 Ultra 8K, V10 Ultra 8K | README/model pages prepared for future CAD uploads |
@@ -84,7 +84,7 @@ If you're new, begin with one of these paths:
 | **P HE Series** | Hall Effect | P1 HE, P2 HE, P3 HE | Published files for P1 HE; README/model pages prepared for P2 HE and P3 HE |
 | **Mouse Series** | Mouse | M1–M7, G1, G2 (11 models) | Shell, Full Model |
 
-**129 device models. 734+ design files. Source-available. Accessory-friendly.**
+**135 device models. 734+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
@@ -112,7 +112,7 @@ K-Max-Series/
 K-HE-Series/
   K2 HE/                — Example model folder with Cherry and OSA keycap STEP files
 K-QMK-Series/
-  K2 QMK/               — Early K QMK hardware files with plate, case, keycap, and stabilizer assets
+  K1 QMK/               — README and product page reference, with K2, K3, K4, K5, K8, and K10 QMK model folders also present
 V-Max-Series/
   V1 Max/               — Tri-mode keyboard hardware files across V1–V10 Max
 V-Ultra-8K-Series/
