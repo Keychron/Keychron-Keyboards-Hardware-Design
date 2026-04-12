@@ -2,7 +2,7 @@
 
 Generated from the current filesystem using `docs/scripts/repo_inventory.py`.
 
-- Total model directories: **122**
+- Total model directories: **135**
 - Total data files across model directories: **734**
 
 ## Series Summary
@@ -12,10 +12,10 @@ Generated from the current filesystem using `docs/scripts/repo_inventory.py`.
 | Q-Series | 15 | 147 |
 | Q-Pro-Series | 10 | 86 |
 | Q-HE-Series | 8 | 35 |
-| Q-Max-Series | 1 | 10 |
+| Q-Max-Series | 12 | 10 |
 | Q-Ultra-8K-Series | 5 | 4 |
 | K-Pro-Series | 16 | 129 |
-| K-Max-Series | 12 | 130 |
+| K-Max-Series | 14 | 130 |
 | K-HE-Series | 5 | 41 |
 | V-Max-Series | 8 | 94 |
 | P-HE-Series | 3 | 9 |
@@ -261,12 +261,89 @@ Generated from the current filesystem using `docs/scripts/repo_inventory.py`.
 - README present: yes
 - Extensions: `.dwg` x1, `.md` x1, `.pdf` x1, `.stp` x2
 
+### Q-Max-Series / Q0 Max
+
+- Path: `Q-Max-Series/Q0 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-Max-Series / Q1 Max
+
+- Path: `Q-Max-Series/Q1 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-Max-Series / Q10 Max
+
+- Path: `Q-Max-Series/Q10 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-Max-Series / Q12 Max
+
+- Path: `Q-Max-Series/Q12 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-Max-Series / Q13 Max
+
+- Path: `Q-Max-Series/Q13 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-Max-Series / Q14 Max
+
+- Path: `Q-Max-Series/Q14 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-Max-Series / Q15 Max
+
+- Path: `Q-Max-Series/Q15 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-Max-Series / Q2 Max
+
+- Path: `Q-Max-Series/Q2 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-Max-Series / Q3 Max
+
+- Path: `Q-Max-Series/Q3 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-Max-Series / Q5 Max
+
+- Path: `Q-Max-Series/Q5 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
 ### Q-Max-Series / Q6 Max
 
 - Path: `Q-Max-Series/Q6 Max`
 - Data files: 10
 - README present: yes
 - Extensions: `.dwg` x2, `.md` x1, `.pdf` x2, `.stp` x5, `.zip` x1
+
+### Q-Max-Series / Q8 Max
+
+- Path: `Q-Max-Series/Q8 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
 
 ### Q-Ultra-8K-Series / Q1 Ultra 8k
 
@@ -478,6 +555,13 @@ Generated from the current filesystem using `docs/scripts/repo_inventory.py`.
 - README present: yes
 - Extensions: `.dwg` x1, `.md` x1, `.pdf` x1, `.stp` x8
 
+### K-Max-Series / K4 Max
+
+- Path: `K-Max-Series/K4 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
 ### K-Max-Series / K5 Max
 
 - Path: `K-Max-Series/K5 Max`
@@ -498,6 +582,13 @@ Generated from the current filesystem using `docs/scripts/repo_inventory.py`.
 - Data files: 7
 - README present: yes
 - Extensions: `.dwg` x1, `.md` x1, `.pdf` x1, `.stp` x5
+
+### K-Max-Series / K9 Max
+
+- Path: `K-Max-Series/K9 Max`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
 
 ### K-HE-Series / K10 HE
 

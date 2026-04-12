@@ -13,9 +13,11 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [K1 Max](./K1%20Max/README.md) | TKL Low-profile | 87-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k1_max) |
 | [K2 Max](./K2%20Max/README.md) | 75% | 84-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k2_max) |
 | [K3 Max](./K3%20Max/README.md) | 75% Low-profile | 84-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k3_max) |
+| [K4 Max](./K4%20Max/README.md) | 96% | 100-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k4_max) |
 | [K5 Max](./K5%20Max/README.md) | Full-size Low-profile | 108-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k5_max) |
 | [K7 Max](./K7%20Max/README.md) | 65% Low-profile | 68-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k7_max) |
 | [K8 Max](./K8%20Max/README.md) | TKL | 87-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k8_max) |
+| [K9 Max](./K9%20Max/README.md) | 60% Low-profile | 61-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k9_max) |
 | [K10 Max](./K10%20Max/README.md) | Full-size | 108-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k10_max) |
 | [K11 Max](./K11%20Max/README.md) | Alice Low-profile | 68-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k11_max) |
 | [K13 Max](./K13%20Max/README.md) | 80% Low-profile with numpad | 90-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k13_max) |
@@ -78,9 +80,11 @@ K-Max-Series/
 ├── K1 Max/
 ├── K2 Max/
 ├── K3 Max/
+├── K4 Max/
 ├── K5 Max/
 ├── K7 Max/
 ├── K8 Max/
+├── K9 Max/
 ├── K10 Max/
 ├── K11 Max/
 ├── K13 Max/
