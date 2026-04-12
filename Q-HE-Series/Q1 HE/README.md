@@ -4,7 +4,7 @@
 
 **Product page:** [Keychron Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard?_pos=1&_psq=q1+he&_ss=e&_v=1.0)
 
-![Q1 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q1-HE-Email-2.jpg)
+![Q1 HE](https://www.keychron.com/cdn/shop/files/Q1-HE-Iconic-Features.jpg?crop=center&height=1200&v=1754623218&width=1200)
 
 ## Specifications
 
