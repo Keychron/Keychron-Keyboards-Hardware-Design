@@ -10,8 +10,10 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 |---|---|---|---|---|
 | [Q0 HE](./Q0%20HE/README.md) | Numpad | 27-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q0_he) |
 | [Q1 HE](./Q1%20HE/README.md) | 75% | 82-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q1_he) |
+| [Q2 HE](./Q2%20HE/README.md) | 65% | 67-key | Yes | — |
 | [Q12 HE](./Q12%20HE/README.md) | 96% | 100-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q12_he) |
 | [Q3 HE](./Q3%20HE/README.md) | TKL | 87-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q3_he) |
+| [Q4 HE](./Q4%20HE/README.md) | 60% | 61-key | Yes | — |
 | [Q5 HE](./Q5%20HE/README.md) | 96% | 97-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q5_he) |
 | [Q6 HE](./Q6%20HE/README.md) | Full-size | 104-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q6_he) |
 
@@ -22,6 +24,7 @@ As of April 8, 2026, the Keychron Q HE collection includes the following Q HE pr
 - [Q0 HE](https://www.keychron.com/products/keychron-q0-he-qmk-wireless-custom-number-pad)
 - [Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard)
 - [Q1 HE Copper Edition](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard-copper-edition)
+- [Q2 HE](https://www.keychron.com/products/keychron-q2-he-qmk-wireless-custom-keyboard)
 - [Q3 HE](https://www.keychron.com/products/keychron-q3-he-qmk-wireless-custom-keyboard)
 - [Q4 HE](https://www.keychron.com/products/keychron-q4-he-qmk-wireless-custom-keyboard)
 - [Q5 HE](https://www.keychron.com/products/keychron-q5-he-qmk-wireless-custom-keyboard)
@@ -52,8 +55,10 @@ If there is a Q HE model or variant you would like to see added to this reposito
 Q-HE-Series/
 ├── Q0 HE/
 ├── Q1 HE/
+├── Q2 HE/
 ├── Q12 HE/
 ├── Q3 HE/
+├── Q4 HE/
 ├── Q5 HE/
 ├── Q6 HE/
 └── README.md

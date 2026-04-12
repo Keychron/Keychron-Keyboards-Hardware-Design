@@ -9,6 +9,8 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | Model | Layout | Size | Knob | Firmware |
 |---|---|---|---|---|
 | [P1 HE](./P1%20HE/README.md) | 75% | 81-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/p1_he) |
+| [P2 HE](./P2%20HE/README.md) | 65% | Compact | Yes | — |
+| [P3 HE](./P3%20HE/README.md) | 80% | TKL | Yes | — |
 
 ## Current Product Lineup
 
@@ -43,6 +45,8 @@ If there is a P HE series model or variant you would like to see added to this r
 ```
 P-HE-Series/
 ├── P1 HE/
+├── P2 HE/
+├── P3 HE/
 └── README.md
 ```
 
