@@ -4,7 +4,7 @@
 
 **Product page:** [Keychron K5 QMK Wireless Mechanical Keyboard Version 2](https://www.keychron.com/products/keychron-k5-qmk-wireless-mechanical-keyboard-version-2)
 
-![Keychron K5 QMK](https://www.keychron.com/cdn/shop/files/K5-Version-2_400x400.png?v=1735806555)
+![Keychron K5 QMK](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-K5-Version-2-QMK-Ultra-Slim-Wireless-Custom-Mechanical-Keyboard_7c205dd6-3885-42ab-b20b-f499f76e2738.jpg?v=1727150310)
 
 ## Specifications
 
