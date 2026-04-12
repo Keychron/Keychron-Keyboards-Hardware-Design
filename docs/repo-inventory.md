@@ -2,7 +2,7 @@
 
 Generated from the current filesystem using `docs/scripts/repo_inventory.py`.
 
-- Total model directories: **135**
+- Total model directories: **141**
 - Total data files across model directories: **734**
 
 ## Series Summary
@@ -23,7 +23,7 @@ Generated from the current filesystem using `docs/scripts/repo_inventory.py`.
 | Mice | 11 | 11 |
 | Keycap Profiles | 6 | 5 |
 | C-Pro-8K-Series | 3 | 10 |
-| K-QMK-Series | 1 | 7 |
+| K-QMK-Series | 7 | 7 |
 | Q-HE-8K-Series | 6 | 0 |
 | V-8K-Series | 4 | 0 |
 | V-Ultra-8K-Series | 6 | 0 |
@@ -856,12 +856,54 @@ Generated from the current filesystem using `docs/scripts/repo_inventory.py`.
 - README present: yes
 - Extensions: `.dwg` x2, `.md` x1, `.pdf` x2, `.stp` x6
 
+### K-QMK-Series / K1 QMK
+
+- Path: `K-QMK-Series/K1 QMK`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### K-QMK-Series / K10 QMK
+
+- Path: `K-QMK-Series/K10 QMK`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
 ### K-QMK-Series / K2 QMK
 
 - Path: `K-QMK-Series/K2 QMK`
 - Data files: 7
 - README present: yes
 - Extensions: `.dwg` x1, `.dxf` x1, `.md` x1, `.pdf` x1, `.stp` x4
+
+### K-QMK-Series / K3 QMK
+
+- Path: `K-QMK-Series/K3 QMK`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### K-QMK-Series / K4 QMK
+
+- Path: `K-QMK-Series/K4 QMK`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### K-QMK-Series / K5 QMK
+
+- Path: `K-QMK-Series/K5 QMK`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### K-QMK-Series / K8 QMK
+
+- Path: `K-QMK-Series/K8 QMK`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
 
 ### Q-HE-8K-Series / Q1 HE 8K
 
