@@ -41,10 +41,6 @@ The Q0 Plus is a 27-key gasket-mounted aluminum numpad designed for productivity
 - SolidWorks
 - Rhino
 
-## Usage Terms
-
-These hardware design files are provided for **personal, educational, and non-commercial use only**. Commercial use, reproduction, or distribution of these files or derivative works is prohibited without explicit written permission from Keychron.
-
 ## Links
 
 - [Firmware Source (Q0 Plus)](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q0_plus)
@@ -52,4 +48,8 @@ These hardware design files are provided for **personal, educational, and non-co
 
 ## License
 
-© Keychron. All rights reserved.
+This project is **source-available**. Personal and educational use is allowed, and commercial use is allowed for original compatible accessories within the limits of the license.
+
+**You may not use these files to copy, manufacture, sell, or distribute Keychron keyboards or mice, or substantially similar products, and you may not use Keychron trademarks as your own branding.**
+
+See the [LICENSE](../../LICENSE) for full terms. For commercial licensing, contact opensource@keychron.com.
