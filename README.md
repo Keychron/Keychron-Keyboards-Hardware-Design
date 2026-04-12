@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-04-12:** Added V1 8K, V3 8K, V5 8K, and V6 8K series folders and README pages.
 - **2026-04-12:** Added V0 Ultra 8K, V1 Ultra 8K, V3 Ultra 8K, V5 Ultra 8K, V6 Ultra 8K, and V10 Ultra 8K series folders and README pages.
 - **2026-04-12:** Added Q1 HE 8K, Q2 HE 8K, Q3 HE 8K, Q5 HE 8K, Q6 HE 8K, and Q16 HE 8K series folders and README pages.
 - **2026-04-12:** Added Q1 Ultra 8K, Q3 Ultra 8K, Q5 Ultra 8K, and Q13 Ultra 8K series folders and README pages.
@@ -77,12 +78,13 @@ If you're new, begin with one of these paths:
 | **K HE Series** | Hall Effect | K2 HE, K4 HE, K6 HE, K8 HE, K10 HE | Published models include case, plate, full model, stabilizer, and selected keycap files; K6 HE is currently folder-only |
 | **K QMK Series** | Keyboard | K2 QMK | Case, Plate, Stabilizer, Keycap |
 | **L Series** | Keyboard | L1, L3 | Case, Plate, Knob, Full Model, Stabilizer |
+| **V 8K Series** | Keyboard | V1 8K, V3 8K, V5 8K, V6 8K | README/model pages prepared for future CAD uploads |
 | **V Ultra 8K Series** | Keyboard | V0 Ultra 8K, V1 Ultra 8K, V3 Ultra 8K, V5 Ultra 8K, V6 Ultra 8K, V10 Ultra 8K | README/model pages prepared for future CAD uploads |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **P HE Series** | Hall Effect | P1 HE | Case, Plate, Full Model, Stabilizer, Keycap |
 | **Mouse Series** | Mouse | M1–M7, G1, G2 (11 models) | Shell, Full Model |
 
-**108 device models. 734+ design files. Source-available. Accessory-friendly.**
+**112 device models. 734+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
@@ -115,6 +117,8 @@ V-Max-Series/
   V1 Max/               — Tri-mode keyboard hardware files across V1–V10 Max
 V-Ultra-8K-Series/
   V0 Ultra 8K/          — README and product page reference, ready for future CAD uploads alongside V1, V3, V5, V6, and V10 Ultra 8K
+V-8K-Series/
+  V1 8K/                — README and product page reference, ready for future CAD uploads alongside V3, V5, and V6 8K
 P-HE-Series/
   P1 HE/                — Lemokey Hall Effect keyboard files
 L-Series/
