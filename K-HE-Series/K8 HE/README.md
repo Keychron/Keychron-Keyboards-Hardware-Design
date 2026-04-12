@@ -4,7 +4,7 @@
 
 **Product page:** [Keychron K8 HE](https://www.keychron.com/products/keychron-k8-he-wireless-magnetic-switch-custom-keyboard)
 
-![K8 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-K8-HE-Wireless-Magnetic-Switch-Keyboard-1_9523e6f3-319b-497b-ac54-fcf9837d7e62.jpg)
+![K8 HE](https://www.keychron.com/cdn/shop/files/K8-HE-Iconic-Features.jpg?crop=center&height=1200&v=1758336744&width=1200)
 
 ## Specifications
 
