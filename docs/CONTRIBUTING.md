@@ -77,7 +77,7 @@ This repo uses **Git LFS** for binary CAD files. Make sure you have it installed
 ```bash
 git lfs install
 ```
-The repository's [`.gitattributes`](.gitattributes) file tracks the main CAD and document artifacts through LFS, including `.stp`, `.step`, `.dwg`, `.dxf`, `.pdf`, and `.zip` files.
+The repository's [`.gitattributes`](../.gitattributes) file tracks the main CAD and document artifacts through LFS, including `.stp`, `.step`, `.dwg`, `.dxf`, `.pdf`, and `.zip` files.
 
 ## Code of Conduct
 
