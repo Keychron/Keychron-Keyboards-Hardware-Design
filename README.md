@@ -69,7 +69,7 @@ If you're new, begin with one of these paths:
 | **C Pro 8K Series** | Keyboard | C1 Pro 8K, C2 Pro 8K, C3 Pro 8K | Case, Plate, Full Model, Stabilizer |
 | **Q Series** | Keyboard | Q0 Plus, Q1–Q12, Q60, Q65 | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **Q Pro Series** | Keyboard | Q1 Pro–Q14 Pro (10 models) | Case, Plate, Encoder, Full Model, Stabilizer, KSA Keycap |
-| **Q HE Series** | Hall Effect | Q0 HE, Q1 HE, Q3 HE, Q5 HE, Q6 HE, Q12 HE | Plate, Full Model, selected case parts |
+| **Q HE Series** | Hall Effect | Q0 HE, Q1 HE, Q2 HE, Q3 HE, Q4 HE, Q5 HE, Q6 HE, Q12 HE | Published files for selected models; newer Q HE folders also include README/model pages for future CAD uploads |
 | **Q HE 8K Series** | Hall Effect | Q1 HE 8K, Q2 HE 8K, Q3 HE 8K, Q5 HE 8K, Q6 HE 8K, Q16 HE 8K | README/model pages prepared for future CAD uploads |
 | **Q Max Series** | Keyboard | Q6 Max | Case, Plate, Full Model, Stabilizer |
 | **Q Ultra 8K Series** | Keyboard | Q1 Ultra 8K, Q3 Ultra 8K, Q5 Ultra 8K, Q6 Ultra 8K, Q13 Ultra 8K | Published plate files for Q6 Ultra 8K; README/model pages prepared for the others |
@@ -81,10 +81,10 @@ If you're new, begin with one of these paths:
 | **V 8K Series** | Keyboard | V1 8K, V3 8K, V5 8K, V6 8K | README/model pages prepared for future CAD uploads |
 | **V Ultra 8K Series** | Keyboard | V0 Ultra 8K, V1 Ultra 8K, V3 Ultra 8K, V5 Ultra 8K, V6 Ultra 8K, V10 Ultra 8K | README/model pages prepared for future CAD uploads |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
-| **P HE Series** | Hall Effect | P1 HE | Case, Plate, Full Model, Stabilizer, Keycap |
+| **P HE Series** | Hall Effect | P1 HE, P2 HE, P3 HE | Published files for P1 HE; README/model pages prepared for P2 HE and P3 HE |
 | **Mouse Series** | Mouse | M1–M7, G1, G2 (11 models) | Shell, Full Model |
 
-**112 device models. 734+ design files. Source-available. Accessory-friendly.**
+**116 device models. 734+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
@@ -95,7 +95,7 @@ C-Pro-8K-Series/
 Q-Series/
   Q0 Plus/              — Numpad files alongside Q1–Q12, Q60, and Q65
 Q-HE-Series/
-  Q0 HE/                — Hall Effect numpad files alongside Q1 HE, Q3 HE, Q5 HE, Q6 HE, and Q12 HE
+  Q0 HE/                — Hall Effect numpad files alongside Q1, Q2, Q3, Q4, Q5, Q6, and Q12 HE models
 Q-HE-8K-Series/
   Q1 HE 8K/             — README and product page reference, ready for future CAD uploads alongside Q2, Q3, Q5, Q6, and Q16 HE 8K
 Q-Pro-Series/
@@ -120,7 +120,7 @@ V-Ultra-8K-Series/
 V-8K-Series/
   V1 8K/                — README and product page reference, ready for future CAD uploads alongside V3, V5, and V6 8K
 P-HE-Series/
-  P1 HE/                — Lemokey Hall Effect keyboard files
+  P1 HE/                — Lemokey Hall Effect keyboard files, with P2 HE and P3 HE model pages also present
 L-Series/
   L1/                   — Aluminum keyboard files with plate, case, knob, and stabilizers
 Mice/
