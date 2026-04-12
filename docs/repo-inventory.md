@@ -2,7 +2,7 @@
 
 Generated from the current filesystem using `scripts/repo_inventory.py`.
 
-- Total model directories: **98**
+- Total model directories: **102**
 - Total data files across model directories: **734**
 
 ## Series Summary
@@ -13,7 +13,7 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 | Q-Pro-Series | 10 | 86 |
 | Q-HE-Series | 6 | 35 |
 | Q-Max-Series | 1 | 10 |
-| Q-Ultra-8K-Series | 1 | 4 |
+| Q-Ultra-8K-Series | 5 | 4 |
 | K-Pro-Series | 16 | 129 |
 | K-Max-Series | 12 | 130 |
 | K-HE-Series | 5 | 41 |
@@ -250,6 +250,34 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 - Data files: 10
 - README present: yes
 - Extensions: `.dwg` x2, `.md` x1, `.pdf` x2, `.stp` x5, `.zip` x1
+
+### Q-Ultra-8K-Series / Q1 Ultra 8k
+
+- Path: `Q-Ultra-8K-Series/Q1 Ultra 8k`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-Ultra-8K-Series / Q13 Ultra 8k
+
+- Path: `Q-Ultra-8K-Series/Q13 Ultra 8k`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-Ultra-8K-Series / Q3 Ultra 8k
+
+- Path: `Q-Ultra-8K-Series/Q3 Ultra 8k`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-Ultra-8K-Series / Q5 Ultra 8k
+
+- Path: `Q-Ultra-8K-Series/Q5 Ultra 8k`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
 
 ### Q-Ultra-8K-Series / Q6 Ultra 8k
 

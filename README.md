@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-04-12:** Added Q1 Ultra 8K, Q3 Ultra 8K, Q5 Ultra 8K, and Q13 Ultra 8K series folders and README pages.
 - **2026-04-11:** Added C3 Pro 8K, K4 HE, K8 HE, K2 QMK, Q0 HE, and Q12 HE.
 - **2026-04-10:** Added more K0 Max files, Q12 HE and more Q6 Max files and more keycap profiles.
 - **2026-04-09:** Added K10 HE, Q6 Max and K0 Max design files. Update: make the accessories not subject to licensing.
@@ -67,7 +68,7 @@ If you're new, begin with one of these paths:
 | **Q Pro Series** | Keyboard | Q1 Pro–Q14 Pro (10 models) | Case, Plate, Encoder, Full Model, Stabilizer, KSA Keycap |
 | **Q HE Series** | Hall Effect | Q0 HE, Q1 HE, Q3 HE, Q5 HE, Q6 HE, Q12 HE | Plate, Full Model, selected case parts |
 | **Q Max Series** | Keyboard | Q6 Max | Case, Plate, Full Model, Stabilizer |
-| **Q Ultra 8K Series** | Keyboard | Q6 Ultra 8K | Plate |
+| **Q Ultra 8K Series** | Keyboard | Q1 Ultra 8K, Q3 Ultra 8K, Q5 Ultra 8K, Q6 Ultra 8K, Q13 Ultra 8K | Published plate files for Q6 Ultra 8K; README/model pages prepared for the others |
 | **K Pro Series** | Keyboard | K1 Pro–K17 Pro (16 models) | Case, Plate, Full Model, Stabilizer |
 | **K Max Series** | Keyboard | K0 Max, K1 Max–K17 Max (12 models) | Case, Plate, Full Model, Stabilizer, Keycap on selected models |
 | **K HE Series** | Hall Effect | K2 HE, K4 HE, K6 HE, K8 HE, K10 HE | Published models include case, plate, full model, stabilizer, and selected keycap files; K6 HE is currently folder-only |
@@ -77,7 +78,7 @@ If you're new, begin with one of these paths:
 | **P HE Series** | Hall Effect | P1 HE | Case, Plate, Full Model, Stabilizer, Keycap |
 | **Mouse Series** | Mouse | M1–M7, G1, G2 (11 models) | Shell, Full Model |
 
-**92 device models. 734+ design files. Source-available. Accessory-friendly.**
+**96 device models. 734+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
@@ -94,7 +95,7 @@ Q-Pro-Series/
 Q-Max-Series/
   Q6 Max/               — Wireless Q-series case, plate, full model, and stabilizer files
 Q-Ultra-8K-Series/
-  Q6 Ultra 8K/          — Ultra 8K plate files
+  Q1 Ultra 8K/          — README and product page reference, ready for future CAD uploads alongside Q3, Q5, Q6, and Q13 Ultra 8K
 K-Pro-Series/
   K1 Pro/               — Low-profile and standard K Pro models through K17 Pro
   K8 Pro/               — Example model folder with `K8-Pro-Keycap.stp`
