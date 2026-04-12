@@ -4,7 +4,7 @@
 
 **Product page:** [Keychron Q3 HE](https://www.keychron.com/products/keychron-q3-he-qmk-wireless-custom-keyboard)
 
-![Q3 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q3-HE-page1.jpg)
+![Q3 HE](https://www.keychron.com/cdn/shop/files/Q3-HE-Iconic-Features.jpg?crop=center&height=1200&v=1754893326&width=1200)
 
 ## Specifications
 
