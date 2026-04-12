@@ -18,7 +18,7 @@ jobs:
       - name: Count model directories
         id: count
         run: |
-          COUNT=$(python3 scripts/repo_inventory.py count --device-only)
+          COUNT=$(python3 docs/scripts/repo_inventory.py count --device-only)
           echo "Total models: $COUNT"
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
 

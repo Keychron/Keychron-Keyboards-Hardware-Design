@@ -17,7 +17,7 @@
 
 - [ ] File opens without errors in FreeCAD or Fusion 360
 - [ ] Dimensions are in millimeters
-- [ ] File follows the naming convention in [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [ ] File follows the naming convention in [CONTRIBUTING.md](../docs/CONTRIBUTING.md)
 - [ ] No proprietary-only formats (.f3d, .sldprt)
 - [ ] Screenshot or dimension comparison included below (if applicable)
 

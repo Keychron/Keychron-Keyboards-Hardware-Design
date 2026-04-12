@@ -11,7 +11,7 @@ from collections import Counter
 from pathlib import Path
 
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 PREFERRED_SERIES_ORDER = [
     "C-Pro-Series",
     "Q-Series",
@@ -123,7 +123,7 @@ def render_summary_markdown(inventory: dict[str, object]) -> str:
     lines = [
         "# Repository Inventory",
         "",
-        "Generated from the current filesystem using `scripts/repo_inventory.py`.",
+        "Generated from the current filesystem using `docs/scripts/repo_inventory.py`.",
         "",
         f"- Total model directories: **{inventory['total_models']}**",
         f"- Total data files across model directories: **{inventory['total_files']}**",

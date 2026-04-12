@@ -1,6 +1,6 @@
 # Repository Inventory
 
-Generated from the current filesystem using `scripts/repo_inventory.py`.
+Generated from the current filesystem using `docs/scripts/repo_inventory.py`.
 
 - Total model directories: **118**
 - Total data files across model directories: **734**

@@ -46,7 +46,7 @@ If you're new, begin with one of these paths:
   Open the [Repository Inventory](docs/repo-inventory.md) generated from the repo itself.
 
 - **Contribute fixes or improvements**  
-  Read [Contributing](CONTRIBUTING.md) for workflow, file standards, and submission rules.
+  Read [Contributing](docs/CONTRIBUTING.md) for workflow, file standards, and submission rules.
 
 - **Join the community**  
   Join the [Keychron Discord](https://discord.com/invite/HAYbRrTsjN) to share builds, ask questions, and help grow the hardware modding community.
@@ -131,8 +131,10 @@ docs/
   file-format-guide.md  — How to open and edit these files
   getting-started.md    — First-stop guide for browsing and remixing
   3d-printing-guide.md  — Practical printing guidance for compatible parts
-scripts/
-  repo_inventory.py     — Regenerates the repository inventory from the live tree
+  CONTRIBUTING.md       — Contribution workflow and file standards
+  CODE_OF_CONDUCT.md    — Community participation guidelines
+  scripts/
+    repo_inventory.py   — Regenerates the repository inventory from the live tree
 ```
 
 ## Why This Matters
