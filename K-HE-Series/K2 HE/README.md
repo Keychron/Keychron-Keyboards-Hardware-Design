@@ -4,7 +4,7 @@
 
 **Product page:** [Keychron K2 HE](https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard)
 
-![K2 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K2-HE-1_d3ce1e1c-6562-4b1f-a857-ba2269478c99.jpg)
+![K2 HE](https://www.keychron.com/cdn/shop/files/Iconic-features-of-K2HE.jpg?crop=center&height=1200&v=1758336687&width=1200)
 
 ## Specifications
 
