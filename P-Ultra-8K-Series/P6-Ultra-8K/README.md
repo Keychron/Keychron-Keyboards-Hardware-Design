@@ -4,7 +4,7 @@
 
 **Product page:** [Keychron P6 Ultra 8K](https://www.keychron.com/products/keychron-p6-ultra-8k-wireless-custom-mechanical-keyboard)
 
-![P6 Ultra 8K](https://www.keychron.com/cdn/shop/files/P6-Ultra-Iconic-Features.jpg?crop=center&height=1200&v=1767005341&width=1200)
+![P6 Ultra 8K](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-P6-Ultra-8K-hero-image.jpg?v=1774859052)
 
 ## Current Repository Status
 
