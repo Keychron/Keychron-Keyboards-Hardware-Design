@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-04-22:** Added V3 and V3 8K files.
 - **2026-04-21:** Added more K7 Pro files.
 - **2026-04-17:** Added Q1 Max, Q8 Max and Q14 Max files.
 - **2026-04-14:** Added more P6 Ultra 8K, K10 QMK and B6 Pro files.
