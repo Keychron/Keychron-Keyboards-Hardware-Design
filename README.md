@@ -15,6 +15,13 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-04-29:** Added more K4 Pro and more K8 Pro files.
+- **2026-04-28:** Added K6 HE, Q10 Max, Q60 Max, and Q65 Max files.
+- **2026-04-27:** Added K8 files.
+- **2026-04-24:** Added Q0 Max, Q5 Max, Q12 Max, Q13 Max, Q15 Max and K8 QMK files.
+- **2026-04-22:** Added V3 and V3 8K files.
+- **2026-04-21:** Added more K7 Pro files.
+- **2026-04-17:** Added Q1 Max, Q8 Max and Q14 Max files.
 - **2026-04-14:** Added more P6 Ultra 8K, K10 QMK and B6 Pro files.
 - **2026-04-13:** Added P6 Ultra 8K, K2 QMK, K10 QMK files.
 - **2026-04-12:** Added V1 8K, V3 8K, V5 8K, and V6 8K series folders and README pages.
