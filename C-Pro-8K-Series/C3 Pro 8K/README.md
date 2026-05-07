@@ -18,6 +18,8 @@
 
 ## Downloads
 
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
 | File | Download |
 |---|---|
 | `C3_Pro_US_Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/C-Pro-8K-Series/C3%20Pro%208K/C3_Pro_US_Plate.dwg) |

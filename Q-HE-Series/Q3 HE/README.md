@@ -35,6 +35,8 @@
 
 ## Downloads
 
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
 | File | Download |
 |---|---|
 | `Q3-HE-ISO-Full-Model-20240923.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q3%20HE/Q3-HE-ISO-Full-Model-20240923.stp) |

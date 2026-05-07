@@ -31,6 +31,8 @@
 
 ## Downloads
 
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
 | File | Download |
 |---|---|
 | `Q60_Max-US_PCB-20231113.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q60%20Max/Q60_Max-US_PCB-20231113.dwg) |
