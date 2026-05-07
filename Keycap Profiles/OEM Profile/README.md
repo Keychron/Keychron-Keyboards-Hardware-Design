@@ -8,6 +8,14 @@ A keycap profile refers to the shape, height, and sculpting of the keycaps on a 
 
 Among these, OEM is one of the most widely encountered profiles. It ships as the default on the majority of prebuilt mechanical keyboards, making it the first profile most users experience.
 
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download |
+|---|---|
+| `oem_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/OEM%20Profile/oem_profile_20260410.stp) |
+
 ### What is OEM Profile?
 
 OEM profile is a medium-to-tall sculpted keycap profile originally developed for mass-produced keyboards. It features a cylindrical top surface (slightly concave from front to back) and a sculpted row design where each row has a different height and angle.
@@ -84,11 +92,3 @@ The image below shows the kind of keycap 3D file layout reference that can be st
 If you want to browse current OEM profile keycap sets from Keychron, this collection page may be useful:
 
 - [OEM Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=OEM+Profile)
-
-## Downloads
-
-> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
-
-| File | Download |
-|---|---|
-| `oem_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/OEM%20Profile/oem_profile_20260410.stp) |

@@ -8,6 +8,14 @@ Keycap profiles determine the shape, height, and sculpting of the keys on a mech
 
 KSA draws its design inspiration from 1970s IBM beamspring terminals but modernizes the ergonomics and manufacturing. It occupies a distinct niche: the retro high-profile aesthetic of SA with practical refinements that make it more comfortable for extended typing.
 
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download |
+|---|---|
+| `ksa_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/KSA%20Profile/ksa_profile_20260410.stp) |
+
 ### What is KSA Profile?
 
 KSA is Keychron's adapted take on the SA profile. The name reflects its origin — a Keychron-designed SA variant optimized for improved comfort and usability while preserving the tall, sculpted look that makes SA popular among enthusiasts.
@@ -94,11 +102,3 @@ The image below shows the kind of keycap 3D file layout reference that can be st
 If you want to browse current KSA profile keycap sets from Keychron, this collection page may be useful:
 
 - [KSA Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=KSA+Profile)
-
-## Downloads
-
-> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
-
-| File | Download |
-|---|---|
-| `ksa_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/KSA%20Profile/ksa_profile_20260410.stp) |

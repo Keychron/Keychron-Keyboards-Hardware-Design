@@ -8,6 +8,14 @@ Keycap profiles define the shape, height, and sculpting of keycaps on a mechanic
 
 MDA was created by MelGeek and has since been adopted by multiple manufacturers including Akko, Epomaker, and Keychron. It is often described as a shortened SA — preserving the spherical dish and sculpted rows of SA while reducing the height to something more practical for daily use.
 
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download |
+|---|---|
+| `mda_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/MDA%20Profile/mda_profile_20260410.stp) |
+
 ### What is MDA Profile?
 
 MDA is a medium-height sculpted keycap profile with a spherical top surface. It sits between the tall SA profile and the low, uniform DSA profile in both height and sculpting intensity, offering a balanced typing experience that avoids the extremes of either.
@@ -98,11 +106,3 @@ The image below shows the kind of keycap 3D file layout reference that can be st
 If you want to browse current MDA profile keycap sets from Keychron, this collection page may be useful:
 
 - [MDA Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=MDA+Profile)
-
-## Downloads
-
-> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
-
-| File | Download |
-|---|---|
-| `mda_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/MDA%20Profile/mda_profile_20260410.stp) |
