@@ -8,6 +8,14 @@ Keycap profiles define the shape, height, and contour of the keys on a mechanica
 
 Originally designed by Cherry GmbH (the same company behind Cherry MX switches), this profile was used on vintage Cherry-branded keyboards before being widely adopted by third-party keycap manufacturers. Today it is one of the most sought-after profiles for custom builds.
 
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download |
+|---|---|
+| `cherry_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/Cherry%20Profile/cherry_profile_20260410.stp) |
+
 ### What is Cherry Profile?
 
 Cherry profile is a low-to-medium height sculpted keycap profile. It shares the same cylindrical top and sculpted row design as OEM but sits noticeably shorter, bringing your fingers closer to the keyboard's plate and PCB.
@@ -84,11 +92,3 @@ The image below shows the kind of keycap 3D file layout reference that can be st
 If you want to browse current Cherry profile keycap sets from Keychron, this collection page may be useful:
 
 - [Cherry Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=Cherry+Profile)
-
-## Downloads
-
-> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
-
-| File | Download |
-|---|---|
-| `cherry_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/Cherry%20Profile/cherry_profile_20260410.stp) |

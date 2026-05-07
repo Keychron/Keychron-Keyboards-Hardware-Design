@@ -8,6 +8,14 @@ Keycap profiles define the shape, height, and sculpting of keycaps on a mechanic
 
 OSA was originally created by Artifact as a profile that merges the sculpted practicality of OEM with the elevated height and refined curves of SA. Keychron has since adopted the profile extensively, producing multiple OSA keycap sets and shipping it as the default on several keyboard lines including the Q series and V series.
 
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download |
+|---|---|
+| `osa_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/OSA%20Profile/osa_profile_20260410.stp) |
+
 ### What is OSA Profile?
 
 OSA is a medium-high sculpted keycap profile with a cylindrical top surface. It takes the OEM contour — the sculpted row layout most typists are already familiar with — and scales it up toward SA-like heights, creating a taller, more commanding presence on the board without reaching SA's extreme elevation.
@@ -40,7 +48,6 @@ Typical characteristics:
 - **Sustainable materials.** Select Keychron OSA sets contain at least 50% recycled PBT content.
 - **Broad compatibility.** OSA sets cover ANSI layouts from 60% to 100% and fit any keyboard with standard Cherry MX stems — not limited to Keychron boards.
 - **Multiple legend options.** Available in center-printed, side-printed (for backlight shine-through), and dye-sub variants.
-
 
 ### Comparison with Other Profiles
 
@@ -93,11 +100,3 @@ The image below shows the kind of keycap 3D file layout reference that can be st
 If you want to browse current OSA profile keycap sets from Keychron, this collection page may be useful:
 
 - [OSA Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=OSA+Profile)
-
-## Downloads
-
-> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
-
-| File | Download |
-|---|---|
-| `osa_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/OSA%20Profile/osa_profile_20260410.stp) |
