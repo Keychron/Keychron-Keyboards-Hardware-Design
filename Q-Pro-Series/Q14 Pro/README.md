@@ -33,6 +33,8 @@
 
 ## Downloads
 
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
 | File | Download |
 |---|---|
 | `Q14-Pro-ANSI-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q14%20Pro/Q14-Pro-ANSI-Plate-File.pdf) |
