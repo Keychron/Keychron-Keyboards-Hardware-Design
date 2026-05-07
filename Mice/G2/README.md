@@ -27,6 +27,13 @@
 |---|---|
 | `G2-20240604.stp` | Complete 3D model containing shell, buttons, and all components |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `G2-20240604.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/G2/G2-20240604.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

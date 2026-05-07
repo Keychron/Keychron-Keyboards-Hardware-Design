@@ -29,6 +29,28 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `K17-Max-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-Bottom-Case.stp) |
+| `K17-Max-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-Keycap.stp) |
+| `K17-Max-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-Knob.stp) |
+| `K17-Max-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-Top-Case.stp) |
+| `K17-Max-UK-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-UK-Bottom-Case.stp) |
+| `K17-Max-UK-Full-Model-20241127.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-UK-Full-Model-20241127.stp) |
+| `K17-Max-UK-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-UK-Keycap.stp) |
+| `K17-Max-UK-Knob-Version-Aluminum-Plate-20240730.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-UK-Knob-Version-Aluminum-Plate-20240730.dwg) |
+| `K17-Max-UK-Knob-Version-Aluminum-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-UK-Knob-Version-Aluminum-Plate.pdf) |
+| `K17-Max-UK-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-UK-Top-Case.stp) |
+| `K17-Max-US-Full-Model-20241113.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-US-Full-Model-20241113.stp) |
+| `K17-Max-US-Knob-Version-Aluminum-Plate-20240730.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-US-Knob-Version-Aluminum-Plate-20240730.dwg) |
+| `K17-Max-US-Knob-Version-Aluminum-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/K17-Max-US-Knob-Version-Aluminum-Plate.pdf) |
+| `Stabilizer-24mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/Stabilizer-24mm-mini-3D.stp) |
+| `Stabilizer-25mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/Stabilizer-25mm-mini-3D.stp) |
+| `Stabilizer-101mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K17%20Max/Stabilizer-101mm-mini-3D.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

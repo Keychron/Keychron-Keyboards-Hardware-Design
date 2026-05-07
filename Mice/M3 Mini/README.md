@@ -27,6 +27,13 @@
 |---|---|
 | `M3-mini-20240104.stp` | Complete 3D model containing shell, buttons, and all components |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `M3-mini-20240104.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/M3%20Mini/M3-mini-20240104.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

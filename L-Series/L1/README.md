@@ -32,6 +32,20 @@
 | `Stabilizer-2.25u.stp` | 2.25u stabilizer model |
 | `Stabilizer-6.25u.stp` | 6.25u stabilizer model |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `L1-Bottom-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L1/L1-Bottom-Top-Case.stp) |
+| `L1-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L1/L1-Knob.stp) |
+| `L1-Plate-File.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L1/L1-Plate-File.dxf) |
+| `L1-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L1/L1-Plate-File.pdf) |
+| `L1-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L1/L1-Top-Case.stp) |
+| `l1-US-full-model-20231230.stp.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L1/l1-US-full-model-20231230.stp.zip) |
+| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L1/Stabilizer-2.25u.stp) |
+| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L1/Stabilizer-6.25u.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

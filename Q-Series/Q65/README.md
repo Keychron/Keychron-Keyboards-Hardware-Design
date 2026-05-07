@@ -28,6 +28,18 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q65-ANSI-Plate-20221118-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-ANSI-Plate-20221118-Model.pdf) |
+| `Q65-ANSI-Plate-20221118.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-ANSI-Plate-20221118.dxf) |
+| `Q65-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-Bottom-Case.stp) |
+| `Q65-Full-Model-20220801.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-Full-Model-20220801.stp) |
+| `Q65-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-Knob.stp) |
+| `Q65-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-Top-Case.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

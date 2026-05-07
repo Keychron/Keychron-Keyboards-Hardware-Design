@@ -29,6 +29,21 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `K13-Max-Keycap-90k-keys-20241130.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K13%20Max/K13-Max-Keycap-90k-keys-20241130.stp) |
+| `K13-Max-US-Aluminum-Plate-20230204.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K13%20Max/K13-Max-US-Aluminum-Plate-20230204.dwg) |
+| `K13-Max-US-Aluminum-Plate-20230204.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K13%20Max/K13-Max-US-Aluminum-Plate-20230204.pdf) |
+| `K13-Max-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K13%20Max/K13-Max-US-Bottom-Case.stp) |
+| `K13-Max-US-Full-Model-20241130.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K13%20Max/K13-Max-US-Full-Model-20241130.stp) |
+| `K13-Max-US-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K13%20Max/K13-Max-US-Top-Case.stp) |
+| `Stabilizer-24mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K13%20Max/Stabilizer-24mm-mini-3D.stp) |
+| `Stabilizer-25mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K13%20Max/Stabilizer-25mm-mini-3D.stp) |
+| `Stabilizer-101mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K13%20Max/Stabilizer-101mm-mini-3D.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

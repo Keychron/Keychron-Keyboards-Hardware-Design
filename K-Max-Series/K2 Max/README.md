@@ -29,6 +29,19 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `K2-Max-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K2%20Max/K2-Max-Bottom-Case.stp) |
+| `K2-Max-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K2%20Max/K2-Max-Keycap.stp) |
+| `K2-Max-US-Full-Model.stp.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K2%20Max/K2-Max-US-Full-Model.stp.zip) |
+| `K2-Max-US-Plate-2D.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K2%20Max/K2-Max-US-Plate-2D.dwg) |
+| `K2-Max-US-Plate-2D.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K2%20Max/K2-Max-US-Plate-2D.pdf) |
+| `Stabilizer-2U.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K2%20Max/Stabilizer-2U.stp) |
+| `Stabilizer-6.25U.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K2%20Max/Stabilizer-6.25U.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

@@ -32,6 +32,18 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q1-HE-UK-Aluminum-Plate-20260104-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-UK-Aluminum-Plate-20260104-Model.pdf) |
+| `Q1-HE-UK-Aluminum-Plate-20260104.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-UK-Aluminum-Plate-20260104.dwg) |
+| `Q1-HE-UK-Full-Model-20240821.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-UK-Full-Model-20240821.stp) |
+| `Q1-HE-US-Aluminum-Plate-20260104-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-US-Aluminum-Plate-20260104-Model.pdf) |
+| `Q1-HE-US-Aluminum-Plate-20260104.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-US-Aluminum-Plate-20260104.dwg) |
+| `Q1-HE-US-Full-Model-20240821.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-US-Full-Model-20240821.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

@@ -15,6 +15,22 @@
 | `C3-Pro-8K-US-Full-Model-20250604.stp` | Complete assembled US model |
 | `C3-Pro-8K-UK-Full-Model-20250605.stp` | Complete assembled UK model |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `C3_Pro_US_Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/C-Pro-8K-Series/C3%20Pro%208K/C3_Pro_US_Plate.dwg) |
+| `C3_Pro_US_Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/C-Pro-8K-Series/C3%20Pro%208K/C3_Pro_US_Plate.pdf) |
+| `C3-Pro-8K-UK-Full-Model-20250605.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/C-Pro-8K-Series/C3%20Pro%208K/C3-Pro-8K-UK-Full-Model-20250605.stp) |
+| `C3-Pro-8K-US-Full-Model-20250604.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/C-Pro-8K-Series/C3%20Pro%208K/C3-Pro-8K-US-Full-Model-20250604.stp) |
+| `C3-Pro-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/C-Pro-8K-Series/C3%20Pro%208K/C3-Pro-Bottom-Case.stp) |
+| `C3-Pro-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/C-Pro-8K-Series/C3%20Pro%208K/C3-Pro-Top-Case.stp) |
+| `C3-Pro-US-Plate-20241127.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/C-Pro-8K-Series/C3%20Pro%208K/C3-Pro-US-Plate-20241127.dwg) |
+| `C3-Pro-US-Plate-20241127.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/C-Pro-8K-Series/C3%20Pro%208K/C3-Pro-US-Plate-20241127.pdf) |
+| `Stabilizer-24mm.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/C-Pro-8K-Series/C3%20Pro%208K/Stabilizer-24mm.stp) |
+| `Stabilizer-100mm.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/C-Pro-8K-Series/C3%20Pro%208K/Stabilizer-100mm.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

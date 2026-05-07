@@ -25,6 +25,13 @@
 |---|---|
 | `M1-20230525.stp` | Complete 3D model containing shell, buttons, and all components |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `M1-20230525.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/M1/M1-20230525.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

@@ -39,6 +39,19 @@ This folder already includes the following hardware design assets for the ANSI /
 | `dwg` / `dxf` | Plate geometry, manufacturing references, and accessory fitting |
 | `pdf` | Quick-view drawings and dimension reference |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `P6-Ultra-8K-US-bottom-case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-Ultra-8K-Series/P6-Ultra-8K/P6-Ultra-8K-US-bottom-case.stp) |
+| `P6-Ultra-8K-US-Cherry-Profile-Keycap-Full-Model-20260130.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-Ultra-8K-Series/P6-Ultra-8K/P6-Ultra-8K-US-Cherry-Profile-Keycap-Full-Model-20260130.stp) |
+| `P6-Ultra-8K-US-Plate-20260413.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-Ultra-8K-Series/P6-Ultra-8K/P6-Ultra-8K-US-Plate-20260413.dwg) |
+| `P6-Ultra-8K-US-Plate-20260413.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-Ultra-8K-Series/P6-Ultra-8K/P6-Ultra-8K-US-Plate-20260413.dxf) |
+| `P6-Ultra-8K-US-Plate-20260413.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-Ultra-8K-Series/P6-Ultra-8K/P6-Ultra-8K-US-Plate-20260413.pdf) |
+| `P6-Ultra-8K-US-top-case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-Ultra-8K-Series/P6-Ultra-8K/P6-Ultra-8K-US-top-case.stp) |
+| `Q6-Ultra-pcb-20250827.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-Ultra-8K-Series/P6-Ultra-8K/Q6-Ultra-pcb-20250827.dwg) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

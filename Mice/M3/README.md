@@ -27,6 +27,13 @@
 |---|---|
 | `M3-20230409.stp` | Complete 3D model containing shell, buttons, and all components |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `M3-20230409.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/M3/M3-20230409.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

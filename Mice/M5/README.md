@@ -27,6 +27,13 @@
 |---|---|
 | `M5-20240130.stp` | Complete 3D model containing shell, buttons, and all components |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `M5-20240130.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/M5/M5-20240130.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

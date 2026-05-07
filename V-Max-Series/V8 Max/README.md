@@ -29,6 +29,23 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `V8-Max-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V8%20Max/V8-Max-Knob.stp) |
+| `V8-Max-Stabilizer.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V8%20Max/V8-Max-Stabilizer.stp) |
+| `V8-Max-Top-And-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V8%20Max/V8-Max-Top-And-Bottom-Case.stp) |
+| `V8-Max-UK-Full-Model.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V8%20Max/V8-Max-UK-Full-Model.stp) |
+| `V8-Max-UK-Plate-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V8%20Max/V8-Max-UK-Plate-Model.pdf) |
+| `V8-Max-UK-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V8%20Max/V8-Max-UK-Plate.dwg) |
+| `V8-Max-UK-Plate.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V8%20Max/V8-Max-UK-Plate.dxf) |
+| `V8-Max-US-Full-Model.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V8%20Max/V8-Max-US-Full-Model.stp) |
+| `V8-Max-US-Plate-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V8%20Max/V8-Max-US-Plate-Model.pdf) |
+| `V8-Max-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V8%20Max/V8-Max-US-Plate.dwg) |
+| `V8-Max-US-Plate.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V8%20Max/V8-Max-US-Plate.dxf) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

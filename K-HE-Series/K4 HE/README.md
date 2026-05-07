@@ -33,6 +33,20 @@
 | `Stabilizer-2.25u.stp` | 2.25u stabilizer model |
 | `stabilizer-6.25u.stp` | 6.25u stabilizer model |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `K4_HE_Special_Edition_US_Bottom_Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K4%20HE/K4_HE_Special_Edition_US_Bottom_Case.stp) |
+| `K4_HE_Special_Edition_US_Full_Model_20260411.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K4%20HE/K4_HE_Special_Edition_US_Full_Model_20260411.stp) |
+| `K4_HE_Special_Edition_US_OSA_Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K4%20HE/K4_HE_Special_Edition_US_OSA_Keycap.stp) |
+| `K4_HE_Special_Edition_US_Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K4%20HE/K4_HE_Special_Edition_US_Plate.dwg) |
+| `K4_HE_Special_Edition_US_Plate.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K4%20HE/K4_HE_Special_Edition_US_Plate.dxf) |
+| `K4_HE_Special_Edition_US_Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K4%20HE/K4_HE_Special_Edition_US_Plate.pdf) |
+| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K4%20HE/Stabilizer-2.25u.stp) |
+| `stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K4%20HE/stabilizer-6.25u.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

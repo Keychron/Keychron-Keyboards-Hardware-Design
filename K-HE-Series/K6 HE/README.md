@@ -24,6 +24,14 @@
 
 > **Note:** Design files for this model have not been uploaded yet. Check back for updates or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `K6-HE-US-Cherry-Standard-Version-Full- Model-20250321.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-US-Cherry-Standard-Version-Full-%20Model-20250321.stp) |
+| `K6-HE-US-OSA-Special- Edition-Full-Model-20250321.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-US-OSA-Special-%20Edition-Full-Model-20250321.stp) |
+
 ## Links
 
 - [Firmware Source (K6 HE)](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k6_he)

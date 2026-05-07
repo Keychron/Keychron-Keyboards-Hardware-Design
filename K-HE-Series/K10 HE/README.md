@@ -33,6 +33,20 @@
 | `K10-HE-Special-Edition-US-Top-Case.stp` | Special Edition top case model |
 | `K10-HE-Special-Edition-US-Wood-Frame.stp` | Special Edition wood frame model |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `K10-HE-Special-Edition-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K10%20HE/K10-HE-Special-Edition-US-Bottom-Case.stp) |
+| `K10-HE-Special-Edition-US-Full-Model-20250304.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K10%20HE/K10-HE-Special-Edition-US-Full-Model-20250304.stp) |
+| `K10-HE-Special-Edition-US-OSA-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K10%20HE/K10-HE-Special-Edition-US-OSA-Keycap.stp) |
+| `K10-HE-Special-Edition-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K10%20HE/K10-HE-Special-Edition-US-Plate.dwg) |
+| `K10-HE-Special-Edition-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K10%20HE/K10-HE-Special-Edition-US-Plate.pdf) |
+| `K10-HE-Special-Edition-US-Stabilizer.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K10%20HE/K10-HE-Special-Edition-US-Stabilizer.stp) |
+| `K10-HE-Special-Edition-US-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K10%20HE/K10-HE-Special-Edition-US-Top-Case.stp) |
+| `K10-HE-Special-Edition-US-Wood-Frame.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K10%20HE/K10-HE-Special-Edition-US-Wood-Frame.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

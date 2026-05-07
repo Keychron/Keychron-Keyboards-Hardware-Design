@@ -29,6 +29,24 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `V5-Max-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V5%20Max/V5-Max-Bottom-Case.stp) |
+| `V5-Max-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V5%20Max/V5-Max-Knob.stp) |
+| `V5-Max-Stabilizer.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V5%20Max/V5-Max-Stabilizer.stp) |
+| `V5-Max-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V5%20Max/V5-Max-Top-Case.stp) |
+| `V5-Max-UK-Full-Model.stp.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V5%20Max/V5-Max-UK-Full-Model.stp.zip) |
+| `V5-Max-UK-Plate-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V5%20Max/V5-Max-UK-Plate-Model.pdf) |
+| `V5-Max-UK-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V5%20Max/V5-Max-UK-Plate.dwg) |
+| `V5-Max-UK-Plate.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V5%20Max/V5-Max-UK-Plate.dxf) |
+| `V5-Max-US-Full-Model-20240813.stp.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V5%20Max/V5-Max-US-Full-Model-20240813.stp.zip) |
+| `V5-Max-US-Plate-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V5%20Max/V5-Max-US-Plate-Model.pdf) |
+| `V5-Max-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V5%20Max/V5-Max-US-Plate.dwg) |
+| `V5-Max-US-Plate.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V5%20Max/V5-Max-US-Plate.dxf) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

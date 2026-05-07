@@ -21,6 +21,19 @@
 | Knob | Yes |
 | Firmware | QMK / VIA |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q12_Max_Bottom_Case-20231216.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q12%20Max/Q12_Max_Bottom_Case-20231216.stp) |
+| `Q12_Max_Top_Case-20231216.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q12%20Max/Q12_Max_Top_Case-20231216.stp) |
+| `Q12_Max_US_Full_Model-20231216.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q12%20Max/Q12_Max_US_Full_Model-20231216.stp) |
+| `Q12-Max-US-PCB-20240408.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q12%20Max/Q12-Max-US-PCB-20240408.dwg) |
+| `Q12-Max-US-Plate-20231216.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q12%20Max/Q12-Max-US-Plate-20231216.dwg) |
+| `Q12-Max-US-Plate-20231216.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q12%20Max/Q12-Max-US-Plate-20231216.dxf) |
+| `Q12-Max-US-Plate-20231216.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q12%20Max/Q12-Max-US-Plate-20231216.pdf) |
+
 ## Links
 
 - [Series Overview](../README.md)

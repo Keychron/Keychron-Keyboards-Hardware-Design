@@ -28,6 +28,29 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q3-A-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-A-Bottom-Case.stp) |
+| `Q3-A-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-A-Top-Case.stp) |
+| `Q3-B-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Bottom-Case.stp) |
+| `Q3-B-Knob-20221111.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Knob-20221111.dwg) |
+| `Q3-B-Knob-20221111.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Knob-20221111.pdf) |
+| `Q3-B-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Knob.stp) |
+| `Q3-B-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Top-Case.stp) |
+| `Q3-B-UK-ISO-Knob-Plate-20220224-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-UK-ISO-Knob-Plate-20220224-Model.pdf) |
+| `Q3-B-UK-ISO-Knob-Plate-20220224.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-UK-ISO-Knob-Plate-20220224.dwg) |
+| `Q3-B-US-Full-Model-20220125.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-US-Full-Model-20220125.stp) |
+| `Q3-Non-Knob-Plate-20221111.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-Non-Knob-Plate-20221111.dwg) |
+| `Q3-Non-Knob-Plate-20221111.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-Non-Knob-Plate-20221111.pdf) |
+| `Q3-UK-ISO-Non-Knob-Plate-20220224-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-UK-ISO-Non-Knob-Plate-20220224-Model.pdf) |
+| `Q3-UK-ISO-Non-Knob-Plate-20220224.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-UK-ISO-Non-Knob-Plate-20220224.dwg) |
+| `Q3-US-Full-Model-20220125.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-US-Full-Model-20220125.stp) |
+| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Stabilizer-2.25u.stp) |
+| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Stabilizer-6.25u.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

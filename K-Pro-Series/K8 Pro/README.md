@@ -29,6 +29,27 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `K8-Pro-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-Bottom-Case.stp) |
+| `K8-Pro-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-Keycap.stp) |
+| `K8-Pro-UK-Aluminum-frame-Bottom-Case-20221020.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-UK-Aluminum-frame-Bottom-Case-20221020.stp) |
+| `K8-Pro-UK-Aluminum-frame-Full-Model-20221020.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-UK-Aluminum-frame-Full-Model-20221020.stp) |
+| `K8-Pro-UK-PCB-20220401.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-UK-PCB-20220401.dwg) |
+| `K8-Pro-UK-Plastic-frame-Bottom-Case-20221031.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-UK-Plastic-frame-Bottom-Case-20221031.stp) |
+| `K8-Pro-UK-Plastic-frame-Full-Model-20221031.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-UK-Plastic-frame-Full-Model-20221031.stp) |
+| `K8-Pro-UK-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-UK-Plate.dwg) |
+| `K8-Pro-UK-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-UK-Plate.pdf) |
+| `K8-Pro-US-Full-Model.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-US-Full-Model.stp) |
+| `K8-Pro-US-PCB-20230424.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-US-PCB-20230424.dwg) |
+| `K8-Pro-US-Plate-2D.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-US-Plate-2D.dwg) |
+| `K8-Pro-US-Plate-2D.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/K8-Pro-US-Plate-2D.pdf) |
+| `Stabilizer-2U.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/Stabilizer-2U.stp) |
+| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K8%20Pro/Stabilizer-6.25u.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

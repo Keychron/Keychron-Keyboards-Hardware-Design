@@ -27,6 +27,13 @@
 |---|---|
 | `M4-20230707.stp` | Complete 3D model containing shell, buttons, and all components |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `M4-20230707.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/M4/M4-20230707.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

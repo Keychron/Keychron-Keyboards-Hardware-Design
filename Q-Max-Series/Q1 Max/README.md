@@ -21,6 +21,30 @@
 | Knob | Yes |
 | Firmware | QMK / VIA |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q1_Max_Aluminum_Bottom_Case_20250910.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1_Max_Aluminum_Bottom_Case_20250910.stp) |
+| `Q1_Max_JIS_Aluminum_Top_Case_20250910.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1_Max_JIS_Aluminum_Top_Case_20250910.stp) |
+| `Q1_Max_JIS_Full_Model-20250910.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1_Max_JIS_Full_Model-20250910.stp) |
+| `Q1_Max_UK_Full_Model_20250910.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1_Max_UK_Full_Model_20250910.stp) |
+| `Q1_Max_UK&US_Aluminum_Top_Case_20250910.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1_Max_UK%26US_Aluminum_Top_Case_20250910.stp) |
+| `Q1_Max_US_Full_Model_20250910.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1_Max_US_Full_Model_20250910.stp) |
+| `Q1-Max-JIS-PC-Plate-20250910.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1-Max-JIS-PC-Plate-20250910.dwg) |
+| `Q1-Max-JIS-PC-Plate-20250910.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1-Max-JIS-PC-Plate-20250910.dxf) |
+| `Q1-Max-JIS-PC-Plate-20250910.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1-Max-JIS-PC-Plate-20250910.pdf) |
+| `Q1-Max-JIS-PCB_20250910.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1-Max-JIS-PCB_20250910.dwg) |
+| `Q1-Max-UK-PC-Plate-20250910.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1-Max-UK-PC-Plate-20250910.dwg) |
+| `Q1-Max-UK-PC-Plate-20250910.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1-Max-UK-PC-Plate-20250910.dxf) |
+| `Q1-Max-UK-PC-Plate-20250910.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1-Max-UK-PC-Plate-20250910.pdf) |
+| `Q1-Max-UK-PCB_20250910.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1-Max-UK-PCB_20250910.dwg) |
+| `Q1-Max-US-PC-Plate-20250910.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1-Max-US-PC-Plate-20250910.dwg) |
+| `Q1-Max-US-PC-Plate-20250910.dwg.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1-Max-US-PC-Plate-20250910.dwg.dxf) |
+| `Q1-Max-US-PC-Plate-20250910.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1-Max-US-PC-Plate-20250910.pdf) |
+| `Q1-Max-US-PCB_20250910.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q1%20Max/Q1-Max-US-PCB_20250910.dwg) |
+
 ## Links
 
 - [Series Overview](../README.md)

@@ -21,6 +21,19 @@
 | Knob | Yes |
 | Firmware | QMK |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q14_Max_Aluminum_Bottom_Case-20250818.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14_Max_Aluminum_Bottom_Case-20250818.stp) |
+| `Q14_Max_US_Aluminum_Top_Case-20250818.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14_Max_US_Aluminum_Top_Case-20250818.stp) |
+| `Q14_Max_US_Full_Model-20250818.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14_Max_US_Full_Model-20250818.stp) |
+| `Q14-Max-US-PC-Plate-20250818.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14-Max-US-PC-Plate-20250818.dwg) |
+| `Q14-Max-US-PC-Plate-20250818.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14-Max-US-PC-Plate-20250818.dxf) |
+| `Q14-Max-US-PC-Plate-20250818.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14-Max-US-PC-Plate-20250818.pdf) |
+| `Q14-Max-US-PCB_20250818.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14-Max-US-PCB_20250818.dwg) |
+
 ## Links
 
 - [Series Overview](../README.md)
