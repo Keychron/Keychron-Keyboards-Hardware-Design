@@ -37,8 +37,14 @@
 | File | Download |
 |---|---|
 | `K3-Pro-Keycap-81K-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3-Pro-Keycap-81K-3D.stp) |
+| `K3-Pro-UK-Aluminum-Plate-20241113.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3-Pro-UK-Aluminum-Plate-20241113.dwg) |
+| `K3-Pro-UK-Aluminum-Plate-20241113.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3-Pro-UK-Aluminum-Plate-20241113.pdf) |
+| `K3-Pro-UK-Full-Model_20260506.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3-Pro-UK-Full-Model_20260506.stp) |
+| `K3-Pro-UK-PCB-20240530.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3-Pro-UK-PCB-20240530.dwg) |
 | `K3-Pro-US-Aluminum-Plate-20241113.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3-Pro-US-Aluminum-Plate-20241113.dwg) |
 | `K3-Pro-US-Aluminum-Plate-20241113.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3-Pro-US-Aluminum-Plate-20241113.pdf) |
+| `K3_Pro_UK_Bottom_Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3_Pro_UK_Bottom_Case.stp) |
+| `K3_Pro_UK_Top_Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3_Pro_UK_Top_Case.stp) |
 | `k3-Pro-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/k3-Pro-US-Bottom-Case.stp) |
 | `K3-Pro-US-Full-Model.stp.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3-Pro-US-Full-Model.stp.zip) |
 | `k3-Pro-US-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/k3-Pro-US-Top-Case.stp) |
