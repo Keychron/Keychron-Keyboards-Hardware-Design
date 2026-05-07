@@ -34,22 +34,22 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `k4-Pro-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/k4-Pro-Keycap.stp) |
-| `K4-Pro-UK-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-UK-Bottom-Case.stp) |
-| `K4-Pro-UK-Full-Model-20230421.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-UK-Full-Model-20230421.stp) |
-| `K4-Pro-UK-PCB-20221126.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-UK-PCB-20221126.dwg) |
-| `K4-Pro-UK-Plate-20230421.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-UK-Plate-20230421.pdf) |
-| `K4-Pro-UK-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-UK-Top-Case.stp) |
-| `K4-Pro-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-US-Bottom-Case.stp) |
-| `K4-Pro-US-Full-Model.stp.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-US-Full-Model.stp.zip) |
-| `K4-Pro-US-PCB-20220912.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-US-PCB-20220912.dwg) |
-| `K4-Pro-US-Plate-2D.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-US-Plate-2D.dwg) |
-| `K4-Pro-US-Plate-2D.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-US-Plate-2D.pdf) |
-| `K4-Pro-US-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-US-Top-Case.stp) |
-| `Stabilizer-2U.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/Stabilizer-2U.stp) |
-| `Stabilizer-6.25U.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/Stabilizer-6.25U.stp) |
+| `k4-Pro-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/k4-Pro-Keycap.stp |
+| `K4-Pro-UK-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-UK-Bottom-Case.stp |
+| `K4-Pro-UK-Full-Model-20230421.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-UK-Full-Model-20230421.stp |
+| `K4-Pro-UK-PCB-20221126.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-UK-PCB-20221126.dwg |
+| `K4-Pro-UK-Plate-20230421.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-UK-Plate-20230421.pdf |
+| `K4-Pro-UK-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-UK-Top-Case.stp |
+| `K4-Pro-US-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-US-Bottom-Case.stp |
+| `K4-Pro-US-Full-Model.stp.zip` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-US-Full-Model.stp.zip |
+| `K4-Pro-US-PCB-20220912.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-US-PCB-20220912.dwg |
+| `K4-Pro-US-Plate-2D.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-US-Plate-2D.dwg |
+| `K4-Pro-US-Plate-2D.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-US-Plate-2D.pdf |
+| `K4-Pro-US-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/K4-Pro-US-Top-Case.stp |
+| `Stabilizer-2U.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/Stabilizer-2U.stp |
+| `Stabilizer-6.25U.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K4%20Pro/Stabilizer-6.25U.stp |
 
 ## Opening the Files
 

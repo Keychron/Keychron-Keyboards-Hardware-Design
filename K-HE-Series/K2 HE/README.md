@@ -45,19 +45,19 @@ These variants are grouped in this directory when related design files are share
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `K2-HE-Special-Edition-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-Bottom-Case.stp) |
-| `K2-HE-Special-Edition-US-OSA-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-OSA-Keycap.stp) |
-| `K2-HE-Special-Edition-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-Plate.dwg) |
-| `K2-HE-Special-Edition-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-Plate.pdf) |
-| `K2-HE-Special-Edition-US-Stabilizer.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-Stabilizer.stp) |
-| `K2-HE-Standard-Version-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Bottom-Case.stp) |
-| `K2-HE-Standard-Version-US-Cherry-Profile-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Cherry-Profile-Keycap.stp) |
-| `K2-HE-Standard-Version-US-Full-Model-20250109.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Full-Model-20250109.stp) |
-| `K2-HE-Standard-Version-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Plate.dwg) |
-| `K2-HE-Standard-Version-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Plate.pdf) |
-| `K2-HE-US-Special-Edition-Full-Model-20250213.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-US-Special-Edition-Full-Model-20250213.stp) |
+| `K2-HE-Special-Edition-US-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-Bottom-Case.stp |
+| `K2-HE-Special-Edition-US-OSA-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-OSA-Keycap.stp |
+| `K2-HE-Special-Edition-US-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-Plate.dwg |
+| `K2-HE-Special-Edition-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-Plate.pdf |
+| `K2-HE-Special-Edition-US-Stabilizer.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-Stabilizer.stp |
+| `K2-HE-Standard-Version-US-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Bottom-Case.stp |
+| `K2-HE-Standard-Version-US-Cherry-Profile-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Cherry-Profile-Keycap.stp |
+| `K2-HE-Standard-Version-US-Full-Model-20250109.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Full-Model-20250109.stp |
+| `K2-HE-Standard-Version-US-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Plate.dwg |
+| `K2-HE-Standard-Version-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Plate.pdf |
+| `K2-HE-US-Special-Edition-Full-Model-20250213.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-US-Special-Edition-Full-Model-20250213.stp |
 
 ## Opening the Files
 

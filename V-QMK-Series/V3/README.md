@@ -47,25 +47,25 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `V3-QMK_JIS_Plate-20260110.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_JIS_Plate-20260110.dwg) |
-| `V3-QMK_JIS_Plate-20260110.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_JIS_Plate-20260110.dxf) |
-| `V3-QMK_JIS_Plate-20260110.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_JIS_Plate-20260110.pdf) |
-| `V3-QMK_UK_Plate-20260110.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_UK_Plate-20260110.dwg) |
-| `V3-QMK_UK_Plate-20260110.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_UK_Plate-20260110.dxf) |
-| `V3-QMK_UK_Plate-20260110.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_UK_Plate-20260110.pdf) |
-| `V3-QMK_US_Plate-20260110.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_US_Plate-20260110.dwg) |
-| `V3-QMK_US_Plate-20260110.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_US_Plate-20260110.dxf) |
-| `V3-QMK_US_Plate-20260110.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_US_Plate-20260110.pdf) |
-| `V3_Bottom_Case-20260110.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_Bottom_Case-20260110.stp) |
-| `V3_JIS_Full_Model-20260110.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_JIS_Full_Model-20260110.stp) |
-| `V3_JIS_PCB-20260110.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_JIS_PCB-20260110.dwg) |
-| `V3_Top_Case-20260110.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_Top_Case-20260110.stp) |
-| `V3_UK_Full_Model-20260110.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_UK_Full_Model-20260110.stp) |
-| `V3_UK_PCB-20260110.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_UK_PCB-20260110.dwg) |
-| `V3_US_Full_Model-20260110.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_US_Full_Model-20260110.stp) |
-| `V3_US_PCB-20260110.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_US_PCB-20260110.dwg) |
+| `V3-QMK_JIS_Plate-20260110.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_JIS_Plate-20260110.dwg |
+| `V3-QMK_JIS_Plate-20260110.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_JIS_Plate-20260110.dxf |
+| `V3-QMK_JIS_Plate-20260110.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_JIS_Plate-20260110.pdf |
+| `V3-QMK_UK_Plate-20260110.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_UK_Plate-20260110.dwg |
+| `V3-QMK_UK_Plate-20260110.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_UK_Plate-20260110.dxf |
+| `V3-QMK_UK_Plate-20260110.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_UK_Plate-20260110.pdf |
+| `V3-QMK_US_Plate-20260110.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_US_Plate-20260110.dwg |
+| `V3-QMK_US_Plate-20260110.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_US_Plate-20260110.dxf |
+| `V3-QMK_US_Plate-20260110.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3-QMK_US_Plate-20260110.pdf |
+| `V3_Bottom_Case-20260110.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_Bottom_Case-20260110.stp |
+| `V3_JIS_Full_Model-20260110.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_JIS_Full_Model-20260110.stp |
+| `V3_JIS_PCB-20260110.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_JIS_PCB-20260110.dwg |
+| `V3_Top_Case-20260110.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_Top_Case-20260110.stp |
+| `V3_UK_Full_Model-20260110.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_UK_Full_Model-20260110.stp |
+| `V3_UK_PCB-20260110.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_UK_PCB-20260110.dwg |
+| `V3_US_Full_Model-20260110.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_US_Full_Model-20260110.stp |
+| `V3_US_PCB-20260110.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-QMK-Series/V3/V3_US_PCB-20260110.dwg |
 
 ## Opening the Files
 

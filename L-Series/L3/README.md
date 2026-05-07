@@ -38,16 +38,16 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `L3-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/L3-Bottom-Case.stp) |
-| `L3-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/L3-Knob.stp) |
-| `L3-Plate-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/L3-Plate-Model.pdf) |
-| `L3-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/L3-Top-Case.stp) |
-| `L3-US-Full-Model-20230925.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/L3-US-Full-Model-20230925.stp) |
-| `L3-US-Plate.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/L3-US-Plate.dxf) |
-| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/Stabilizer-2.25u.stp) |
-| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/Stabilizer-6.25u.stp) |
+| `L3-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/L3-Bottom-Case.stp |
+| `L3-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/L3-Knob.stp |
+| `L3-Plate-Model.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/L3-Plate-Model.pdf |
+| `L3-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/L3-Top-Case.stp |
+| `L3-US-Full-Model-20230925.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/L3-US-Full-Model-20230925.stp |
+| `L3-US-Plate.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/L3-US-Plate.dxf |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/Stabilizer-2.25u.stp |
+| `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/L-Series/L3/Stabilizer-6.25u.stp |
 
 ## Opening the Files
 

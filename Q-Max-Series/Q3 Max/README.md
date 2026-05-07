@@ -26,20 +26,20 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q3_Max_Bottom_Case_20260321.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3_Max_Bottom_Case_20260321.stp) |
-| `Q3_Max_Top_Case_20260321.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3_Max_Top_Case_20260321.stp) |
-| `Q3_Max_UK_Full_Model_20260321.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3_Max_UK_Full_Model_20260321.stp) |
-| `Q3_Max_US_Full_Model_20260321.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3_Max_US_Full_Model_20260321.stp) |
-| `Q3-Max-UK_Plate-20251030..dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-Max-UK_Plate-20251030..dwg) |
-| `Q3-Max-UK_Plate-20251030..dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-Max-UK_Plate-20251030..dxf) |
-| `Q3-Max-UK_Plate-20251030..pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-Max-UK_Plate-20251030..pdf) |
-| `Q3-MAX-UK-PCB-20230810.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-MAX-UK-PCB-20230810.dwg) |
-| `Q3-Max-US_Plate-20251030..dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-Max-US_Plate-20251030..dwg) |
-| `Q3-Max-US_Plate-20251030..dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-Max-US_Plate-20251030..dxf) |
-| `Q3-Max-US_Plate-20251030..pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-Max-US_Plate-20251030..pdf) |
-| `Q3-MAX-US-PCB-20230810.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-MAX-US-PCB-20230810.dwg) |
+| `Q3_Max_Bottom_Case_20260321.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3_Max_Bottom_Case_20260321.stp |
+| `Q3_Max_Top_Case_20260321.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3_Max_Top_Case_20260321.stp |
+| `Q3_Max_UK_Full_Model_20260321.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3_Max_UK_Full_Model_20260321.stp |
+| `Q3_Max_US_Full_Model_20260321.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3_Max_US_Full_Model_20260321.stp |
+| `Q3-Max-UK_Plate-20251030..dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-Max-UK_Plate-20251030..dwg |
+| `Q3-Max-UK_Plate-20251030..dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-Max-UK_Plate-20251030..dxf |
+| `Q3-Max-UK_Plate-20251030..pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-Max-UK_Plate-20251030..pdf |
+| `Q3-MAX-UK-PCB-20230810.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-MAX-UK-PCB-20230810.dwg |
+| `Q3-Max-US_Plate-20251030..dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-Max-US_Plate-20251030..dwg |
+| `Q3-Max-US_Plate-20251030..dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-Max-US_Plate-20251030..dxf |
+| `Q3-Max-US_Plate-20251030..pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-Max-US_Plate-20251030..pdf |
+| `Q3-MAX-US-PCB-20230810.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q3%20Max/Q3-MAX-US-PCB-20230810.dwg |
 
 ## Links
 

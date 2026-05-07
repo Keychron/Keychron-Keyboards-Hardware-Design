@@ -33,20 +33,20 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q8-ANSI-ISO-Plate-File.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-ANSI-ISO-Plate-File.dxf) |
-| `Q8-ANSI-Plate-File-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-ANSI-Plate-File-Model.pdf) |
-| `Q8-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-Bottom-Case.stp) |
-| `Q8-ISO-Plate-File-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-ISO-Plate-File-Model.pdf) |
-| `Q8-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-Knob.stp) |
-| `Q8-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-Top-Case.stp) |
-| `Q8-UK-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-UK-Bottom-Case.stp) |
-| `Q8-UK-Full-Model-20220729.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-UK-Full-Model-20220729.stp) |
-| `Q8-UK-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-UK-Top-Case.stp) |
-| `Q8-US-Full-Model-20220729.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-US-Full-Model-20220729.stp) |
-| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Stabilizer-2.25u.stp) |
-| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Stabilizer-6.25u.stp) |
+| `Q8-ANSI-ISO-Plate-File.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-ANSI-ISO-Plate-File.dxf |
+| `Q8-ANSI-Plate-File-Model.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-ANSI-Plate-File-Model.pdf |
+| `Q8-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-Bottom-Case.stp |
+| `Q8-ISO-Plate-File-Model.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-ISO-Plate-File-Model.pdf |
+| `Q8-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-Knob.stp |
+| `Q8-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-Top-Case.stp |
+| `Q8-UK-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-UK-Bottom-Case.stp |
+| `Q8-UK-Full-Model-20220729.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-UK-Full-Model-20220729.stp |
+| `Q8-UK-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-UK-Top-Case.stp |
+| `Q8-US-Full-Model-20220729.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-US-Full-Model-20220729.stp |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Stabilizer-2.25u.stp |
+| `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Stabilizer-6.25u.stp |
 
 ## Opening the Files
 

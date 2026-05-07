@@ -38,14 +38,14 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `K8-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-Bottom-Case.stp) |
-| `K8-US-Full-Model- 20260427.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Full-Model-%2020260427.stp) |
-| `K8-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Plate.dwg) |
-| `K8-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Plate.pdf) |
-| `K8-US-Plate.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Plate.stp) |
-| `K8-US-Top Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Top%20Case.stp) |
+| `K8-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-Bottom-Case.stp |
+| `K8-US-Full-Model- 20260427.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Full-Model-%2020260427.stp |
+| `K8-US-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Plate.dwg |
+| `K8-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Plate.pdf |
+| `K8-US-Plate.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Plate.stp |
+| `K8-US-Top Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Top%20Case.stp |
 
 ## Opening the Files
 

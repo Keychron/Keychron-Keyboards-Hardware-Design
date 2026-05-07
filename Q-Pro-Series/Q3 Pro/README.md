@@ -35,19 +35,19 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q3-Pro-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Bottom-Case.stp) |
-| `Q3-Pro-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Knob.stp) |
-| `Q3-Pro-Special-Edition-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Special-Edition-Bottom-Case.stp) |
-| `Q3-Pro-Special-Edition-ISO-Plate-File.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Special-Edition-ISO-Plate-File.dxf) |
-| `Q3-Pro-Special-Edition-ISO-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Special-Edition-ISO-Plate-File.pdf) |
-| `Q3-Pro-Special-Edition-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Special-Edition-Top-Case.stp) |
-| `Q3-Pro-Special-Edition-Version-Full-Model-20230510.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Special-Edition-Version-Full-Model-20230510.stp) |
-| `Q3-Pro-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Top-Case.stp) |
-| `Q3-Pro-US-Full-Model-20230920.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-US-Full-Model-20230920.stp) |
-| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Stabilizer-2.25u.stp) |
-| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Stabilizer-6.25u.stp) |
+| `Q3-Pro-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Bottom-Case.stp |
+| `Q3-Pro-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Knob.stp |
+| `Q3-Pro-Special-Edition-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Special-Edition-Bottom-Case.stp |
+| `Q3-Pro-Special-Edition-ISO-Plate-File.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Special-Edition-ISO-Plate-File.dxf |
+| `Q3-Pro-Special-Edition-ISO-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Special-Edition-ISO-Plate-File.pdf |
+| `Q3-Pro-Special-Edition-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Special-Edition-Top-Case.stp |
+| `Q3-Pro-Special-Edition-Version-Full-Model-20230510.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Special-Edition-Version-Full-Model-20230510.stp |
+| `Q3-Pro-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-Top-Case.stp |
+| `Q3-Pro-US-Full-Model-20230920.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Q3-Pro-US-Full-Model-20230920.stp |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Stabilizer-2.25u.stp |
+| `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q3%20Pro/Stabilizer-6.25u.stp |
 
 ## Opening the Files
 

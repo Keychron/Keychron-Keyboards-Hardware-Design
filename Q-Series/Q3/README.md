@@ -33,25 +33,25 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q3-A-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-A-Bottom-Case.stp) |
-| `Q3-A-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-A-Top-Case.stp) |
-| `Q3-B-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Bottom-Case.stp) |
-| `Q3-B-Knob-20221111.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Knob-20221111.dwg) |
-| `Q3-B-Knob-20221111.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Knob-20221111.pdf) |
-| `Q3-B-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Knob.stp) |
-| `Q3-B-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Top-Case.stp) |
-| `Q3-B-UK-ISO-Knob-Plate-20220224-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-UK-ISO-Knob-Plate-20220224-Model.pdf) |
-| `Q3-B-UK-ISO-Knob-Plate-20220224.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-UK-ISO-Knob-Plate-20220224.dwg) |
-| `Q3-B-US-Full-Model-20220125.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-US-Full-Model-20220125.stp) |
-| `Q3-Non-Knob-Plate-20221111.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-Non-Knob-Plate-20221111.dwg) |
-| `Q3-Non-Knob-Plate-20221111.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-Non-Knob-Plate-20221111.pdf) |
-| `Q3-UK-ISO-Non-Knob-Plate-20220224-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-UK-ISO-Non-Knob-Plate-20220224-Model.pdf) |
-| `Q3-UK-ISO-Non-Knob-Plate-20220224.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-UK-ISO-Non-Knob-Plate-20220224.dwg) |
-| `Q3-US-Full-Model-20220125.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-US-Full-Model-20220125.stp) |
-| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Stabilizer-2.25u.stp) |
-| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Stabilizer-6.25u.stp) |
+| `Q3-A-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-A-Bottom-Case.stp |
+| `Q3-A-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-A-Top-Case.stp |
+| `Q3-B-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Bottom-Case.stp |
+| `Q3-B-Knob-20221111.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Knob-20221111.dwg |
+| `Q3-B-Knob-20221111.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Knob-20221111.pdf |
+| `Q3-B-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Knob.stp |
+| `Q3-B-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-Top-Case.stp |
+| `Q3-B-UK-ISO-Knob-Plate-20220224-Model.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-UK-ISO-Knob-Plate-20220224-Model.pdf |
+| `Q3-B-UK-ISO-Knob-Plate-20220224.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-UK-ISO-Knob-Plate-20220224.dwg |
+| `Q3-B-US-Full-Model-20220125.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-B-US-Full-Model-20220125.stp |
+| `Q3-Non-Knob-Plate-20221111.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-Non-Knob-Plate-20221111.dwg |
+| `Q3-Non-Knob-Plate-20221111.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-Non-Knob-Plate-20221111.pdf |
+| `Q3-UK-ISO-Non-Knob-Plate-20220224-Model.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-UK-ISO-Non-Knob-Plate-20220224-Model.pdf |
+| `Q3-UK-ISO-Non-Knob-Plate-20220224.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-UK-ISO-Non-Knob-Plate-20220224.dwg |
+| `Q3-US-Full-Model-20220125.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Q3-US-Full-Model-20220125.stp |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Stabilizer-2.25u.stp |
+| `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q3/Stabilizer-6.25u.stp |
 
 ## Opening the Files
 

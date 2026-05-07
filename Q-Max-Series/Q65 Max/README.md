@@ -34,13 +34,13 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q65_Max-US_KSA_Full_Model_20260421.stp.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q65%20Max/Q65_Max-US_KSA_Full_Model_20260421.stp.zip) |
-| `Q65_Max_US_Bottom_Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q65%20Max/Q65_Max_US_Bottom_Case.stp) |
-| `Q65_Max_US_PCB 20230801.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q65%20Max/Q65_Max_US_PCB%2020230801.dwg) |
-| `Q65_Max_US_Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q65%20Max/Q65_Max_US_Plate.dwg) |
-| `Q65_Max_US_Top_Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q65%20Max/Q65_Max_US_Top_Case.stp) |
+| `Q65_Max-US_KSA_Full_Model_20260421.stp.zip` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q65%20Max/Q65_Max-US_KSA_Full_Model_20260421.stp.zip |
+| `Q65_Max_US_Bottom_Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q65%20Max/Q65_Max_US_Bottom_Case.stp |
+| `Q65_Max_US_PCB 20230801.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q65%20Max/Q65_Max_US_PCB%2020230801.dwg |
+| `Q65_Max_US_Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q65%20Max/Q65_Max_US_Plate.dwg |
+| `Q65_Max_US_Top_Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q65%20Max/Q65_Max_US_Top_Case.stp |
 
 ## Opening the Files
 

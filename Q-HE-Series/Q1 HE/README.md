@@ -37,14 +37,14 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q1-HE-UK-Aluminum-Plate-20260104-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-UK-Aluminum-Plate-20260104-Model.pdf) |
-| `Q1-HE-UK-Aluminum-Plate-20260104.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-UK-Aluminum-Plate-20260104.dwg) |
-| `Q1-HE-UK-Full-Model-20240821.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-UK-Full-Model-20240821.stp) |
-| `Q1-HE-US-Aluminum-Plate-20260104-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-US-Aluminum-Plate-20260104-Model.pdf) |
-| `Q1-HE-US-Aluminum-Plate-20260104.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-US-Aluminum-Plate-20260104.dwg) |
-| `Q1-HE-US-Full-Model-20240821.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-US-Full-Model-20240821.stp) |
+| `Q1-HE-UK-Aluminum-Plate-20260104-Model.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-UK-Aluminum-Plate-20260104-Model.pdf |
+| `Q1-HE-UK-Aluminum-Plate-20260104.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-UK-Aluminum-Plate-20260104.dwg |
+| `Q1-HE-UK-Full-Model-20240821.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-UK-Full-Model-20240821.stp |
+| `Q1-HE-US-Aluminum-Plate-20260104-Model.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-US-Aluminum-Plate-20260104-Model.pdf |
+| `Q1-HE-US-Aluminum-Plate-20260104.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-US-Aluminum-Plate-20260104.dwg |
+| `Q1-HE-US-Full-Model-20240821.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q1%20HE/Q1-HE-US-Full-Model-20240821.stp |
 
 ## Opening the Files
 

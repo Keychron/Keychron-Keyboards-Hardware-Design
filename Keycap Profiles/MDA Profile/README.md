@@ -12,9 +12,9 @@ MDA was created by MelGeek and has since been adopted by multiple manufacturers 
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `mda_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/MDA%20Profile/mda_profile_20260410.stp) |
+| `mda_profile_20260410.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/MDA%20Profile/mda_profile_20260410.stp |
 
 ### What is MDA Profile?
 

@@ -36,14 +36,14 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `B6-Pro-JIS-Full-Model-20240920.STEP.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/B-Pro-Series/B6%20Pro/B6-Pro-JIS-Full-Model-20240920.STEP.zip) |
-| `B6-Pro-UK-Full-Model-20240801.STEP.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/B-Pro-Series/B6%20Pro/B6-Pro-UK-Full-Model-20240801.STEP.zip) |
-| `B6-Pro-US-Full-Model.stp.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/B-Pro-Series/B6%20Pro/B6-Pro-US-Full-Model.stp.zip) |
-| `B6_PRO_BOTTOM_CASE.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/B-Pro-Series/B6%20Pro/B6_PRO_BOTTOM_CASE.stp) |
-| `B6_PRO_UK_TOP_CASE.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/B-Pro-Series/B6%20Pro/B6_PRO_UK_TOP_CASE.stp) |
-| `B6_PRO_US_TOP_CASE.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/B-Pro-Series/B6%20Pro/B6_PRO_US_TOP_CASE.stp) |
+| `B6-Pro-JIS-Full-Model-20240920.STEP.zip` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/B-Pro-Series/B6%20Pro/B6-Pro-JIS-Full-Model-20240920.STEP.zip |
+| `B6-Pro-UK-Full-Model-20240801.STEP.zip` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/B-Pro-Series/B6%20Pro/B6-Pro-UK-Full-Model-20240801.STEP.zip |
+| `B6-Pro-US-Full-Model.stp.zip` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/B-Pro-Series/B6%20Pro/B6-Pro-US-Full-Model.stp.zip |
+| `B6_PRO_BOTTOM_CASE.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/B-Pro-Series/B6%20Pro/B6_PRO_BOTTOM_CASE.stp |
+| `B6_PRO_UK_TOP_CASE.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/B-Pro-Series/B6%20Pro/B6_PRO_UK_TOP_CASE.stp |
+| `B6_PRO_US_TOP_CASE.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/B-Pro-Series/B6%20Pro/B6_PRO_US_TOP_CASE.stp |
 
 ## Opening the Files
 

@@ -12,9 +12,9 @@ OSA was originally created by Artifact as a profile that merges the sculpted pra
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `osa_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/OSA%20Profile/osa_profile_20260410.stp) |
+| `osa_profile_20260410.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/OSA%20Profile/osa_profile_20260410.stp |
 
 ### What is OSA Profile?
 

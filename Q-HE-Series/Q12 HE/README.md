@@ -34,16 +34,16 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q12-HE-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Q12-HE-Bottom-Case.stp) |
-| `Q12-HE-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Q12-HE-Knob.stp) |
-| `Q12-HE-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Q12-HE-Top-Case.stp) |
-| `Q12-HE-US-Aluminu-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Q12-HE-US-Aluminu-Plate.dwg) |
-| `Q12-HE-US-Aluminu-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Q12-HE-US-Aluminu-Plate.pdf) |
-| `Q12-HE-US-Full-Model-20250801.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Q12-HE-US-Full-Model-20250801.stp) |
-| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Stabilizer-2.25u.stp) |
-| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Stabilizer-6.25u.stp) |
+| `Q12-HE-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Q12-HE-Bottom-Case.stp |
+| `Q12-HE-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Q12-HE-Knob.stp |
+| `Q12-HE-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Q12-HE-Top-Case.stp |
+| `Q12-HE-US-Aluminu-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Q12-HE-US-Aluminu-Plate.dwg |
+| `Q12-HE-US-Aluminu-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Q12-HE-US-Aluminu-Plate.pdf |
+| `Q12-HE-US-Full-Model-20250801.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Q12-HE-US-Full-Model-20250801.stp |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Stabilizer-2.25u.stp |
+| `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q12%20HE/Stabilizer-6.25u.stp |
 
 ## Opening the Files
 

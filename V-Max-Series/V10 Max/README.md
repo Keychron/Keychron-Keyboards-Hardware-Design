@@ -34,20 +34,20 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `V10-Max-Bottom-Case-20240812.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-Bottom-Case-20240812.stp) |
-| `V10-Max-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-Knob.stp) |
-| `V10-Max-Stabilizer.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-Stabilizer.stp) |
-| `V10-Max-UK-Full-Model-20240812.stp.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-UK-Full-Model-20240812.stp.zip) |
-| `V10-Max-UK-Plate-20240812-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-UK-Plate-20240812-Model.pdf) |
-| `V10-Max-UK-Plate-20240812.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-UK-Plate-20240812.dwg) |
-| `V10-Max-UK-Plate-20240812.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-UK-Plate-20240812.dxf) |
-| `V10-Max-US-Full-Model-20240812.stp.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-US-Full-Model-20240812.stp.zip) |
-| `V10-Max-US-Plate-20240812-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-US-Plate-20240812-Model.pdf) |
-| `V10-Max-US-Plate-20240812.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-US-Plate-20240812.dwg) |
-| `V10-Max-US-Plate-20240812.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-US-Plate-20240812.dxf) |
-| `V10-Max-US-Top-Case-20240812.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-US-Top-Case-20240812.stp) |
+| `V10-Max-Bottom-Case-20240812.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-Bottom-Case-20240812.stp |
+| `V10-Max-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-Knob.stp |
+| `V10-Max-Stabilizer.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-Stabilizer.stp |
+| `V10-Max-UK-Full-Model-20240812.stp.zip` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-UK-Full-Model-20240812.stp.zip |
+| `V10-Max-UK-Plate-20240812-Model.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-UK-Plate-20240812-Model.pdf |
+| `V10-Max-UK-Plate-20240812.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-UK-Plate-20240812.dwg |
+| `V10-Max-UK-Plate-20240812.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-UK-Plate-20240812.dxf |
+| `V10-Max-US-Full-Model-20240812.stp.zip` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-US-Full-Model-20240812.stp.zip |
+| `V10-Max-US-Plate-20240812-Model.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-US-Plate-20240812-Model.pdf |
+| `V10-Max-US-Plate-20240812.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-US-Plate-20240812.dwg |
+| `V10-Max-US-Plate-20240812.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-US-Plate-20240812.dxf |
+| `V10-Max-US-Top-Case-20240812.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V10%20Max/V10-Max-US-Top-Case-20240812.stp |
 
 ## Opening the Files
 

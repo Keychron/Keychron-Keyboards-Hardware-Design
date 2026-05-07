@@ -33,20 +33,20 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q5-A-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-A-Bottom-Case.stp) |
-| `Q5-A-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-A-Top-Case.stp) |
-| `Q5-A-US-Full-Model-20220520.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-A-US-Full-Model-20220520.stp) |
-| `Q5-B-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-B-Bottom-Case.stp) |
-| `Q5-B-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-B-Top-Case.stp) |
-| `Q5-B-US-Full-Model-20220521.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-B-US-Full-Model-20220521.stp) |
-| `Q5-Knob-Keyboard-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-Knob-Keyboard-Plate-File.pdf) |
-| `Q5-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-Knob.stp) |
-| `Q5-Non-Knob-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-Non-Knob-Plate-File.pdf) |
-| `Q5-Plate-File-20220616.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-Plate-File-20220616.dxf) |
-| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Stabilizer-2.25u.stp) |
-| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Stabilizer-6.25u.stp) |
+| `Q5-A-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-A-Bottom-Case.stp |
+| `Q5-A-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-A-Top-Case.stp |
+| `Q5-A-US-Full-Model-20220520.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-A-US-Full-Model-20220520.stp |
+| `Q5-B-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-B-Bottom-Case.stp |
+| `Q5-B-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-B-Top-Case.stp |
+| `Q5-B-US-Full-Model-20220521.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-B-US-Full-Model-20220521.stp |
+| `Q5-Knob-Keyboard-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-Knob-Keyboard-Plate-File.pdf |
+| `Q5-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-Knob.stp |
+| `Q5-Non-Knob-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-Non-Knob-Plate-File.pdf |
+| `Q5-Plate-File-20220616.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-Plate-File-20220616.dxf |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Stabilizer-2.25u.stp |
+| `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Stabilizer-6.25u.stp |
 
 ## Opening the Files
 

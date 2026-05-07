@@ -24,23 +24,23 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q6_Max_JIS_Full_Model-20260317.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6_Max_JIS_Full_Model-20260317.stp) |
-| `Q6_Max_JIS_Plate-20260317.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6_Max_JIS_Plate-20260317.dwg) |
-| `Q6_Max_JIS_Plate-20260317.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6_Max_JIS_Plate-20260317.dxf) |
-| `Q6_Max_JIS_Plate-20260317.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6_Max_JIS_Plate-20260317.pdf) |
-| `Q6-Max_JIS_PCB-20260317.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max_JIS_PCB-20260317.dwg) |
-| `Q6-Max-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-Bottom-Case.stp) |
-| `Q6-Max-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-Top-Case.stp) |
-| `Q6-Max-UK-Full-Model-20260410.stp.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-UK-Full-Model-20260410.stp.zip) |
-| `Q6-Max-UK-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-UK-Plate.dwg) |
-| `Q6-Max-UK-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-UK-Plate.pdf) |
-| `Q6-Max-US-Full-Model-20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-US-Full-Model-20260410.stp) |
-| `Q6-Max-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-US-Plate.dwg) |
-| `Q6-Max-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-US-Plate.pdf) |
-| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Stabilizer-2.25u.stp) |
-| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Stabilizer-6.25u.stp) |
+| `Q6_Max_JIS_Full_Model-20260317.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6_Max_JIS_Full_Model-20260317.stp |
+| `Q6_Max_JIS_Plate-20260317.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6_Max_JIS_Plate-20260317.dwg |
+| `Q6_Max_JIS_Plate-20260317.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6_Max_JIS_Plate-20260317.dxf |
+| `Q6_Max_JIS_Plate-20260317.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6_Max_JIS_Plate-20260317.pdf |
+| `Q6-Max_JIS_PCB-20260317.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max_JIS_PCB-20260317.dwg |
+| `Q6-Max-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-Bottom-Case.stp |
+| `Q6-Max-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-Top-Case.stp |
+| `Q6-Max-UK-Full-Model-20260410.stp.zip` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-UK-Full-Model-20260410.stp.zip |
+| `Q6-Max-UK-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-UK-Plate.dwg |
+| `Q6-Max-UK-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-UK-Plate.pdf |
+| `Q6-Max-US-Full-Model-20260410.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-US-Full-Model-20260410.stp |
+| `Q6-Max-US-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-US-Plate.dwg |
+| `Q6-Max-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Q6-Max-US-Plate.pdf |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Stabilizer-2.25u.stp |
+| `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q6%20Max/Stabilizer-6.25u.stp |
 
 ## Opening the Files
 

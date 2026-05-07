@@ -34,14 +34,14 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `K12-Pro-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K12%20Pro/K12-Pro-US-Bottom-Case.stp) |
-| `K12-Pro-US-Full-Model-20241206.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K12%20Pro/K12-Pro-US-Full-Model-20241206.stp) |
-| `K12-Pro-US-OSA-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K12%20Pro/K12-Pro-US-OSA-Keycap.stp) |
-| `K12-Pro-US-Plate-File.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K12%20Pro/K12-Pro-US-Plate-File.dwg) |
-| `K12-Pro-US-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K12%20Pro/K12-Pro-US-Plate-File.pdf) |
-| `K12-Pro-US-Stabilizer.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K12%20Pro/K12-Pro-US-Stabilizer.stp) |
+| `K12-Pro-US-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K12%20Pro/K12-Pro-US-Bottom-Case.stp |
+| `K12-Pro-US-Full-Model-20241206.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K12%20Pro/K12-Pro-US-Full-Model-20241206.stp |
+| `K12-Pro-US-OSA-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K12%20Pro/K12-Pro-US-OSA-Keycap.stp |
+| `K12-Pro-US-Plate-File.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K12%20Pro/K12-Pro-US-Plate-File.dwg |
+| `K12-Pro-US-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K12%20Pro/K12-Pro-US-Plate-File.pdf |
+| `K12-Pro-US-Stabilizer.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K12%20Pro/K12-Pro-US-Stabilizer.stp |
 
 ## Opening the Files
 

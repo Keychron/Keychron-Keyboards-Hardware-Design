@@ -34,15 +34,15 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `K2-Pro-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-Bottom-Case.stp) |
-| `K2-Pro-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-Keycap.stp) |
-| `K2-Pro-US-Full-Model.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-US-Full-Model.stp) |
-| `K2-Pro-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-US-Plate.dwg) |
-| `K2-Pro-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-US-Plate.pdf) |
-| `Stabilizer-2U.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/Stabilizer-2U.stp) |
-| `Stabilizer-6.25U.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/Stabilizer-6.25U.stp) |
+| `K2-Pro-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-Bottom-Case.stp |
+| `K2-Pro-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-Keycap.stp |
+| `K2-Pro-US-Full-Model.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-US-Full-Model.stp |
+| `K2-Pro-US-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-US-Plate.dwg |
+| `K2-Pro-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-US-Plate.pdf |
+| `Stabilizer-2U.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/Stabilizer-2U.stp |
+| `Stabilizer-6.25U.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/Stabilizer-6.25U.stp |
 
 ## Opening the Files
 
