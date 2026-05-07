@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-05-07:** Moved the download links for the files to the "Downloads section" of the "Readme file" within the corresponding product model folder. ** Added more K3 Pro files.
 - **2026-04-29:** Added more K4 Pro and more K8 Pro files.
 - **2026-04-28:** Added K6 HE, Q10 Max, Q60 Max, and Q65 Max files.
 - **2026-04-27:** Added K8 files.
