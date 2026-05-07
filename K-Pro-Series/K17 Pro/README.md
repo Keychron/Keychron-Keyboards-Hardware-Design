@@ -29,6 +29,22 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `K17-Pro-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/K17-Pro-Bottom-Case.stp) |
+| `K17-Pro-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/K17-Pro-Keycap.stp) |
+| `K17-Pro-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/K17-Pro-Knob.stp) |
+| `K17-Pro-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/K17-Pro-Top-Case.stp) |
+| `k17-Pro-US-Full-Model-20241113.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/k17-Pro-US-Full-Model-20241113.stp) |
+| `K17-Pro-US-Knob-Version-Aluminum-Plate-20240730.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/K17-Pro-US-Knob-Version-Aluminum-Plate-20240730.dwg) |
+| `K17-Pro-US-Knob-Version-Aluminum-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/K17-Pro-US-Knob-Version-Aluminum-Plate.pdf) |
+| `Stabilizer-24mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/Stabilizer-24mm-mini-3D.stp) |
+| `Stabilizer-25mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/Stabilizer-25mm-mini-3D.stp) |
+| `Stabilizer-101mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/Stabilizer-101mm-mini-3D.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

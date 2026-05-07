@@ -28,6 +28,19 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q60-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q60/Q60-Bottom-Case.stp) |
+| `Q60-Plate-File-20220923-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q60/Q60-Plate-File-20220923-Model.pdf) |
+| `Q60-Plate-File-20220923.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q60/Q60-Plate-File-20220923.dxf) |
+| `Q60-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q60/Q60-Top-Case.stp) |
+| `Q60-US-Full-Model-20220921.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q60/Q60-US-Full-Model-20220921.stp) |
+| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q60/Stabilizer-2.25u.stp) |
+| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q60/Stabilizer-6.25u.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

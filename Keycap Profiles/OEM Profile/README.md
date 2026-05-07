@@ -84,3 +84,9 @@ The image below shows the kind of keycap 3D file layout reference that can be st
 If you want to browse current OEM profile keycap sets from Keychron, this collection page may be useful:
 
 - [OEM Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=OEM+Profile)
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `oem_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/OEM%20Profile/oem_profile_20260410.stp) |

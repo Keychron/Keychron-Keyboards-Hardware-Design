@@ -29,6 +29,27 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `K7_Pro_UK_Aluminum_Top_Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/K7_Pro_UK_Aluminum_Top_Case.stp) |
+| `K7_Pro_UK_Bottom_Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/K7_Pro_UK_Bottom_Case.stp) |
+| `K7_Pro_UK_Full_Model-20260421.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/K7_Pro_UK_Full_Model-20260421.stp) |
+| `K7_Pro-UK_Aluminum_Plate-20230422.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/K7_Pro-UK_Aluminum_Plate-20230422.dwg) |
+| `K7-Pro-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/K7-Pro-Keycap.stp) |
+| `K7-Pro-UK-PCB-20220204.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/K7-Pro-UK-PCB-20220204.dwg) |
+| `K7-Pro-US-Aluminum-Plate-20240924.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/K7-Pro-US-Aluminum-Plate-20240924.dwg) |
+| `K7-Pro-US-Aluminum-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/K7-Pro-US-Aluminum-Plate.pdf) |
+| `K7-Pro-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/K7-Pro-US-Bottom-Case.stp) |
+| `K7-Pro-US-Full-Model-20231226.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/K7-Pro-US-Full-Model-20231226.stp) |
+| `K7-Pro-US-PCB-20220204.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/K7-Pro-US-PCB-20220204.dwg) |
+| `K7-Pro-US-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/K7-Pro-US-Top-Case.stp) |
+| `Stabilizer-24mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/Stabilizer-24mm-mini-3D.stp) |
+| `Stabilizer-25mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/Stabilizer-25mm-mini-3D.stp) |
+| `Stabilizer-101mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K7%20Pro/Stabilizer-101mm-mini-3D.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

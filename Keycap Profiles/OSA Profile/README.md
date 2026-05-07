@@ -93,3 +93,9 @@ The image below shows the kind of keycap 3D file layout reference that can be st
 If you want to browse current OSA profile keycap sets from Keychron, this collection page may be useful:
 
 - [OSA Profile keycaps](https://www.keychron.com/collections/all-keycaps?sort_by=manual&filter.p.m.convx.keycap_profile=OSA+Profile)
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `osa_profile_20260410.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/OSA%20Profile/osa_profile_20260410.stp) |

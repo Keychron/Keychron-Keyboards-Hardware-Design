@@ -40,6 +40,23 @@ These variants are grouped in this directory when related design files are share
 | `stabilizer` | Stabilizer housing and wire specifications |
 | `keycap` | Keycap 3D models for the K HE series |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `K2-HE-Special-Edition-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-Bottom-Case.stp) |
+| `K2-HE-Special-Edition-US-OSA-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-OSA-Keycap.stp) |
+| `K2-HE-Special-Edition-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-Plate.dwg) |
+| `K2-HE-Special-Edition-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-Plate.pdf) |
+| `K2-HE-Special-Edition-US-Stabilizer.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Special-Edition-US-Stabilizer.stp) |
+| `K2-HE-Standard-Version-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Bottom-Case.stp) |
+| `K2-HE-Standard-Version-US-Cherry-Profile-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Cherry-Profile-Keycap.stp) |
+| `K2-HE-Standard-Version-US-Full-Model-20250109.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Full-Model-20250109.stp) |
+| `K2-HE-Standard-Version-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Plate.dwg) |
+| `K2-HE-Standard-Version-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-Standard-Version-US-Plate.pdf) |
+| `K2-HE-US-Special-Edition-Full-Model-20250213.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K2%20HE/K2-HE-US-Special-Edition-Full-Model-20250213.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

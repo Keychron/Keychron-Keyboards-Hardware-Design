@@ -27,6 +27,13 @@
 |---|---|
 | `G1-20240226.stp` | Complete 3D model containing shell, buttons, and all components |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `G1-20240226.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/G1/G1-20240226.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

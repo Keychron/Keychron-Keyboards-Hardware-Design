@@ -29,6 +29,19 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `K2-Pro-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-Bottom-Case.stp) |
+| `K2-Pro-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-Keycap.stp) |
+| `K2-Pro-US-Full-Model.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-US-Full-Model.stp) |
+| `K2-Pro-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-US-Plate.dwg) |
+| `K2-Pro-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/K2-Pro-US-Plate.pdf) |
+| `Stabilizer-2U.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/Stabilizer-2U.stp) |
+| `Stabilizer-6.25U.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K2%20Pro/Stabilizer-6.25U.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

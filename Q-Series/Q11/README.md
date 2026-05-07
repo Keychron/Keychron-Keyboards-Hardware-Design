@@ -32,6 +32,21 @@
 | `Stabilizer-2.25u.stp` | 2.25u stabilizer model |
 | `Stabilizer-6.25u.stp` | 6.25u stabilizer model |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q11-Bottom-Case-left.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q11/Q11-Bottom-Case-left.stp) |
+| `Q11-Bottom-Case-right.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q11/Q11-Bottom-Case-right.stp) |
+| `Q11-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q11/Q11-Knob.stp) |
+| `Q11-OSA-Keycap-20221212.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q11/Q11-OSA-Keycap-20221212.stp) |
+| `Q11-Top-Case-left.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q11/Q11-Top-Case-left.stp) |
+| `Q11-Top-Case-right.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q11/Q11-Top-Case-right.stp) |
+| `Q11-UK-Full-Model-20230302.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q11/Q11-UK-Full-Model-20230302.stp) |
+| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q11/Stabilizer-2.25u.stp) |
+| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q11/Stabilizer-6.25u.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

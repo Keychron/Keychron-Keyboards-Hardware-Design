@@ -28,6 +28,24 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q8-ANSI-ISO-Plate-File.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-ANSI-ISO-Plate-File.dxf) |
+| `Q8-ANSI-Plate-File-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-ANSI-Plate-File-Model.pdf) |
+| `Q8-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-Bottom-Case.stp) |
+| `Q8-ISO-Plate-File-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-ISO-Plate-File-Model.pdf) |
+| `Q8-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-Knob.stp) |
+| `Q8-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-Top-Case.stp) |
+| `Q8-UK-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-UK-Bottom-Case.stp) |
+| `Q8-UK-Full-Model-20220729.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-UK-Full-Model-20220729.stp) |
+| `Q8-UK-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-UK-Top-Case.stp) |
+| `Q8-US-Full-Model-20220729.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Q8-US-Full-Model-20220729.stp) |
+| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Stabilizer-2.25u.stp) |
+| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q8/Stabilizer-6.25u.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

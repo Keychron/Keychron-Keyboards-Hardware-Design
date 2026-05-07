@@ -30,6 +30,20 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q10-Pro-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-Bottom-Case.stp) |
+| `Q10-Pro-ISO-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-ISO-Plate-File.pdf) |
+| `Q10-Pro-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-Knob.stp) |
+| `Q10-Pro-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-Top-Case.stp) |
+| `Q10-Pro-UK-Full-Model-20230805.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-UK-Full-Model-20230805.stp) |
+| `Q10-Pro-US-Full-Model-20230805.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-US-Full-Model-20230805.stp) |
+| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Stabilizer-2.25u.stp) |
+| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Stabilizer-6.25u.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

@@ -30,6 +30,21 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q14-Pro-ANSI-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q14%20Pro/Q14-Pro-ANSI-Plate-File.pdf) |
+| `Q14-Pro-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q14%20Pro/Q14-Pro-Bottom-Case.stp) |
+| `Q14-Pro-ISO-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q14%20Pro/Q14-Pro-ISO-Plate-File.pdf) |
+| `Q14-Pro-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q14%20Pro/Q14-Pro-Knob.stp) |
+| `Q14-Pro-Plate-File.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q14%20Pro/Q14-Pro-Plate-File.dxf) |
+| `Q14-Pro-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q14%20Pro/Q14-Pro-Top-Case.stp) |
+| `Q14-Pro-US-Full-Model-20230613.stp.zip` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q14%20Pro/Q14-Pro-US-Full-Model-20230613.stp.zip) |
+| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q14%20Pro/Stabilizer-2.25u.stp) |
+| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q14%20Pro/Stabilizer-6.25u.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

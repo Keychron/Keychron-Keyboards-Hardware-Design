@@ -41,6 +41,19 @@ The Q0 Plus is a 27-key gasket-mounted aluminum numpad designed for productivity
 - SolidWorks
 - Rhino
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q0-Plus-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q0%20Plus/Q0-Plus-Bottom-Case.stp) |
+| `Q0-Plus-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q0%20Plus/Q0-Plus-Knob.stp) |
+| `Q0-Plus-Plate.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q0%20Plus/Q0-Plus-Plate.dxf) |
+| `Q0-Plus-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q0%20Plus/Q0-Plus-Plate.pdf) |
+| `Q0-Plus-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q0%20Plus/Q0-Plus-Top-Case.stp) |
+| `Q0-Plus-US-Full-Model-20230105.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q0%20Plus/Q0-Plus-US-Full-Model-20230105.stp) |
+| `Stabilizer-Q0-Plus.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q0%20Plus/Stabilizer-Q0-Plus.stp) |
+
 ## Links
 
 - [Firmware Source (Q0 Plus)](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q0_plus)

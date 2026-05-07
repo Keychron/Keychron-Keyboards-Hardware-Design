@@ -30,6 +30,25 @@
 | Firmware | QMK |
 | Knob | Yes |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `V3_8K_Bottom_Case-20260110.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3_8K_Bottom_Case-20260110.stp) |
+| `V3_8K_JIS_Full_Model-20260110.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3_8K_JIS_Full_Model-20260110.stp) |
+| `V3_8K_JIS_PCB-20260110.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3_8K_JIS_PCB-20260110.dwg) |
+| `V3_8K_Top_Case-20260110.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3_8K_Top_Case-20260110.stp) |
+| `V3_8K_UK_Full_Model-20260110.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3_8K_UK_Full_Model-20260110.stp) |
+| `V3_8K_US_Full_Model-20260110.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3_8K_US_Full_Model-20260110.stp) |
+| `V3_8K_US_PCB-20260110.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3_8K_US_PCB-20260110.dwg) |
+| `V3-8K_JIS_Plate-20260110.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3-8K_JIS_Plate-20260110.dwg) |
+| `V3-8K_JIS_Plate-20260110.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3-8K_JIS_Plate-20260110.dxf) |
+| `V3-8K_JIS_Plate-20260110.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3-8K_JIS_Plate-20260110.pdf) |
+| `V3-8K_US_Plate-20260110.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3-8K_US_Plate-20260110.dwg) |
+| `V3-8K_US_Plate-20260110.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3-8K_US_Plate-20260110.dxf) |
+| `V3-8K_US_Plate-20260110.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-8K-Series/V3%208K/V3-8K_US_Plate-20260110.pdf) |
+
 ## Links
 
 - [Series Overview](../README.md)

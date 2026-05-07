@@ -29,6 +29,23 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Stabilizer-2u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V6%20Max/Stabilizer-2u.stp) |
+| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V6%20Max/Stabilizer-6.25u.stp) |
+| `V6-Max-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V6%20Max/V6-Max-Bottom-Case.stp) |
+| `V6-Max-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V6%20Max/V6-Max-Knob.stp) |
+| `V6-Max-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V6%20Max/V6-Max-Top-Case.stp) |
+| `V6-Max-UK-Full-Model-20240622.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V6%20Max/V6-Max-UK-Full-Model-20240622.stp) |
+| `V6-Max-UK-Knob-Version-Plate-Model.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V6%20Max/V6-Max-UK-Knob-Version-Plate-Model.dwg) |
+| `V6-Max-UK-Knob-Version-Plate-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V6%20Max/V6-Max-UK-Knob-Version-Plate-Model.pdf) |
+| `V6-Max-US-Full-Model-20240621.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V6%20Max/V6-Max-US-Full-Model-20240621.stp) |
+| `V6-Max-US-Knob-Version-Plate-Model.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V6%20Max/V6-Max-US-Knob-Version-Plate-Model.dwg) |
+| `V6-Max-US-Knob-Version-Plate-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V6%20Max/V6-Max-US-Knob-Version-Plate-Model.pdf) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

@@ -21,6 +21,19 @@
 | Knob | Yes, dual knobs |
 | Firmware | QMK |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q15_Max_US_Bottom_Case-20240415.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q15%20Max/Q15_Max_US_Bottom_Case-20240415.stp) |
+| `Q15_Max_US_Full_Model-20240415.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q15%20Max/Q15_Max_US_Full_Model-20240415.stp) |
+| `Q15-Max_US_Top_Case_20240415.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q15%20Max/Q15-Max_US_Top_Case_20240415.stp) |
+| `Q15-Max-US-PCB-20240415.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q15%20Max/Q15-Max-US-PCB-20240415.dwg) |
+| `Q15-Max-US-Plate-20240415.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q15%20Max/Q15-Max-US-Plate-20240415.dwg) |
+| `Q15-Max-US-Plate-20240415.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q15%20Max/Q15-Max-US-Plate-20240415.dxf) |
+| `Q15-Max-US-Plate-20240415.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q15%20Max/Q15-Max-US-Plate-20240415.pdf) |
+
 ## Links
 
 - [Series Overview](../README.md)

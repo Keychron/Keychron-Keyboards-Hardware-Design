@@ -27,6 +27,13 @@
 |---|---|
 | `M2-mini-20230811.stp` | Complete 3D model containing shell, buttons, and all components |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `M2-mini-20230811.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/M2%20Mini/M2-mini-20230811.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

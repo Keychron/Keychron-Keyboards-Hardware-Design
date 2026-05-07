@@ -21,6 +21,17 @@
 | Knob | Yes |
 | Firmware | QMK |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `Q13_Max_US_KSA_Full_Model_20260421.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13_Max_US_KSA_Full_Model_20260421.stp) |
+| `Q13_Pro-Q13_Max_US_Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13_Pro-Q13_Max_US_Plate.dwg) |
+| `Q13-Ma-Aluminum-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13-Ma-Aluminum-Bottom-Case.stp) |
+| `Q13-Ma-Aluminum-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13-Ma-Aluminum-Top-Case.stp) |
+| `Q13-Max-US-PCB-20240606.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13-Max-US-PCB-20240606.dwg) |
+
 ## Links
 
 - [Series Overview](../README.md)

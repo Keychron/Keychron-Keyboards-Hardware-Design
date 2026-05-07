@@ -27,6 +27,13 @@
 |---|---|
 | `M6-20230925.stp` | Complete 3D model containing shell, buttons, and all components |
 
+
+## Downloads
+
+| File | Download |
+|---|---|
+| `M6-20230925.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/M6/M6-20230925.stp) |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |
