@@ -29,10 +29,10 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `K6-HE-US-Cherry-Standard-Version-Full- Model-20250321.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-US-Cherry-Standard-Version-Full-%20Model-20250321.stp) |
-| `K6-HE-US-OSA-Special- Edition-Full-Model-20250321.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-US-OSA-Special-%20Edition-Full-Model-20250321.stp) |
+| `K6-HE-US-Cherry-Standard-Version-Full- Model-20250321.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-US-Cherry-Standard-Version-Full-%20Model-20250321.stp |
+| `K6-HE-US-OSA-Special- Edition-Full-Model-20250321.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-US-OSA-Special-%20Edition-Full-Model-20250321.stp |
 
 ## Links
 

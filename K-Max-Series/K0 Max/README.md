@@ -34,16 +34,16 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `K0-Max-Stabilizer-24mm-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-Stabilizer-24mm-3D.stp) |
-| `K0-Max-US-Aluminum-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-Aluminum-Plate.dwg) |
-| `K0-Max-US-Aluminum-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-Aluminum-Plate.pdf) |
-| `K0-Max-US-Aluminum-Plate.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-Aluminum-Plate.stp) |
-| `K0-Max-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-Bottom-Case.stp) |
-| `K0-Max-US-Full-Model-20251031.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-Full-Model-20251031.stp) |
-| `K0-Max-US-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-Knob.stp) |
-| `K0-Max-US-LSA-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-LSA-Keycap.stp) |
+| `K0-Max-Stabilizer-24mm-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-Stabilizer-24mm-3D.stp |
+| `K0-Max-US-Aluminum-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-Aluminum-Plate.dwg |
+| `K0-Max-US-Aluminum-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-Aluminum-Plate.pdf |
+| `K0-Max-US-Aluminum-Plate.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-Aluminum-Plate.stp |
+| `K0-Max-US-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-Bottom-Case.stp |
+| `K0-Max-US-Full-Model-20251031.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-Full-Model-20251031.stp |
+| `K0-Max-US-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-Knob.stp |
+| `K0-Max-US-LSA-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K0%20Max/K0-Max-US-LSA-Keycap.stp |
 
 ## Opening the Files
 

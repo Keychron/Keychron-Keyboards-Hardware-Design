@@ -26,15 +26,15 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q0_Max_Aluminum_Bottom_Case-20240104.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0_Max_Aluminum_Bottom_Case-20240104.stp) |
-| `Q0_Max_Aluminum_Top_Case-20240104.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0_Max_Aluminum_Top_Case-20240104.stp) |
-| `Q0_Max_Plate-20240104.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0_Max_Plate-20240104.dwg) |
-| `Q0_Max_Plate-20240104.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0_Max_Plate-20240104.dxf) |
-| `Q0_Max_Plate-20240104.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0_Max_Plate-20240104.pdf) |
-| `Q0-Max-Full-Model-20240104.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0-Max-Full-Model-20240104.stp) |
-| `Q0-Max-PCB-20240104.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0-Max-PCB-20240104.dwg) |
+| `Q0_Max_Aluminum_Bottom_Case-20240104.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0_Max_Aluminum_Bottom_Case-20240104.stp |
+| `Q0_Max_Aluminum_Top_Case-20240104.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0_Max_Aluminum_Top_Case-20240104.stp |
+| `Q0_Max_Plate-20240104.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0_Max_Plate-20240104.dwg |
+| `Q0_Max_Plate-20240104.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0_Max_Plate-20240104.dxf |
+| `Q0_Max_Plate-20240104.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0_Max_Plate-20240104.pdf |
+| `Q0-Max-Full-Model-20240104.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0-Max-Full-Model-20240104.stp |
+| `Q0-Max-PCB-20240104.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q0%20Max/Q0-Max-PCB-20240104.dwg |
 
 ## Links
 

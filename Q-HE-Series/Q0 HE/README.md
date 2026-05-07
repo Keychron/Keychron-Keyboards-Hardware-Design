@@ -35,17 +35,17 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q0_HE_Bottom_Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Bottom_Case.stp) |
-| `Q0_HE_Full_Model_20260411.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Full_Model_20260411.stp) |
-| `Q0_HE_Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Knob.stp) |
-| `Q0_HE_OSA_Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_OSA_Keycap.stp) |
-| `Q0_HE_Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Plate.dwg) |
-| `Q0_HE_Plate.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Plate.dxf) |
-| `Q0_HE_Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Plate.pdf) |
-| `Q0_HE_Top_Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Top_Case.stp) |
-| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Stabilizer-2.25u.stp) |
+| `Q0_HE_Bottom_Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Bottom_Case.stp |
+| `Q0_HE_Full_Model_20260411.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Full_Model_20260411.stp |
+| `Q0_HE_Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Knob.stp |
+| `Q0_HE_OSA_Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_OSA_Keycap.stp |
+| `Q0_HE_Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Plate.dwg |
+| `Q0_HE_Plate.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Plate.dxf |
+| `Q0_HE_Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Plate.pdf |
+| `Q0_HE_Top_Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Q0_HE_Top_Case.stp |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q0%20HE/Stabilizer-2.25u.stp |
 
 ## Opening the Files
 

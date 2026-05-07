@@ -34,24 +34,24 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `k15-Max-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/k15-Max-Bottom-Case.stp) |
-| `K15-Max-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-Keycap.stp) |
-| `K15-Max-Knob-Version-Aluminum-US-Plate-20240625.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-Knob-Version-Aluminum-US-Plate-20240625.dwg) |
-| `K15-Max-Knob-Version-Aluminum-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-Knob-Version-Aluminum-US-Plate.pdf) |
-| `K15-Max-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-Knob.stp) |
-| `K15-Max-UK-Aluminum-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-UK-Aluminum-Plate.pdf) |
-| `K15-Max-UK-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-UK-Bottom-Case.stp) |
-| `K15-Max-UK-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-UK-Keycap.stp) |
-| `K15-Max-UK-Knob-Version-Aluminum-Plate-20240625.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-UK-Knob-Version-Aluminum-Plate-20240625.dwg) |
-| `K15-Max-UK-Knob-Version-Full-Model.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-UK-Knob-Version-Full-Model.stp) |
-| `K15-Max-UK-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-UK-Top-Case.stp) |
-| `k15-Max-US-Knob-Version-Full-Model-20241113.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/k15-Max-US-Knob-Version-Full-Model-20241113.stp) |
-| `k15-Max-US-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/k15-Max-US-Top-Case.stp) |
-| `Stabilizer-24mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/Stabilizer-24mm-mini-3D.stp) |
-| `Stabilizer-25mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/Stabilizer-25mm-mini-3D.stp) |
-| `Stabilizer-101mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/Stabilizer-101mm-mini-3D.stp) |
+| `k15-Max-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/k15-Max-Bottom-Case.stp |
+| `K15-Max-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-Keycap.stp |
+| `K15-Max-Knob-Version-Aluminum-US-Plate-20240625.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-Knob-Version-Aluminum-US-Plate-20240625.dwg |
+| `K15-Max-Knob-Version-Aluminum-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-Knob-Version-Aluminum-US-Plate.pdf |
+| `K15-Max-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-Knob.stp |
+| `K15-Max-UK-Aluminum-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-UK-Aluminum-Plate.pdf |
+| `K15-Max-UK-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-UK-Bottom-Case.stp |
+| `K15-Max-UK-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-UK-Keycap.stp |
+| `K15-Max-UK-Knob-Version-Aluminum-Plate-20240625.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-UK-Knob-Version-Aluminum-Plate-20240625.dwg |
+| `K15-Max-UK-Knob-Version-Full-Model.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-UK-Knob-Version-Full-Model.stp |
+| `K15-Max-UK-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/K15-Max-UK-Top-Case.stp |
+| `k15-Max-US-Knob-Version-Full-Model-20241113.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/k15-Max-US-Knob-Version-Full-Model-20241113.stp |
+| `k15-Max-US-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/k15-Max-US-Top-Case.stp |
+| `Stabilizer-24mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/Stabilizer-24mm-mini-3D.stp |
+| `Stabilizer-25mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/Stabilizer-25mm-mini-3D.stp |
+| `Stabilizer-101mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K15%20Max/Stabilizer-101mm-mini-3D.stp |
 
 ## Opening the Files
 

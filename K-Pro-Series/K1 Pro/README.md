@@ -34,17 +34,17 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `K1-Pro-Keycaps-87k-keys.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/K1-Pro-Keycaps-87k-keys.stp) |
-| `K1-Pro-US-Aluminum-Plate-20230204.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/K1-Pro-US-Aluminum-Plate-20230204.dwg) |
-| `K1-Pro-US-Aluminum-Plate-20230204.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/K1-Pro-US-Aluminum-Plate-20230204.pdf) |
-| `K1-Pro-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/K1-Pro-US-Bottom-Case.stp) |
-| `K1-Pro-US-Full-Model.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/K1-Pro-US-Full-Model.stp) |
-| `K1-Pro-US-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/K1-Pro-US-Top-Case.stp) |
-| `Stabilizer-24mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/Stabilizer-24mm-mini-3D.stp) |
-| `Stabilizer-25mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/Stabilizer-25mm-mini-3D.stp) |
-| `Stabilizer-101mm-mini-3D.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/Stabilizer-101mm-mini-3D.stp) |
+| `K1-Pro-Keycaps-87k-keys.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/K1-Pro-Keycaps-87k-keys.stp |
+| `K1-Pro-US-Aluminum-Plate-20230204.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/K1-Pro-US-Aluminum-Plate-20230204.dwg |
+| `K1-Pro-US-Aluminum-Plate-20230204.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/K1-Pro-US-Aluminum-Plate-20230204.pdf |
+| `K1-Pro-US-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/K1-Pro-US-Bottom-Case.stp |
+| `K1-Pro-US-Full-Model.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/K1-Pro-US-Full-Model.stp |
+| `K1-Pro-US-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/K1-Pro-US-Top-Case.stp |
+| `Stabilizer-24mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/Stabilizer-24mm-mini-3D.stp |
+| `Stabilizer-25mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/Stabilizer-25mm-mini-3D.stp |
+| `Stabilizer-101mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K1%20Pro/Stabilizer-101mm-mini-3D.stp |
 
 ## Opening the Files
 

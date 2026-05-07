@@ -35,16 +35,16 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q10-Pro-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-Bottom-Case.stp) |
-| `Q10-Pro-ISO-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-ISO-Plate-File.pdf) |
-| `Q10-Pro-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-Knob.stp) |
-| `Q10-Pro-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-Top-Case.stp) |
-| `Q10-Pro-UK-Full-Model-20230805.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-UK-Full-Model-20230805.stp) |
-| `Q10-Pro-US-Full-Model-20230805.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-US-Full-Model-20230805.stp) |
-| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Stabilizer-2.25u.stp) |
-| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Stabilizer-6.25u.stp) |
+| `Q10-Pro-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-Bottom-Case.stp |
+| `Q10-Pro-ISO-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-ISO-Plate-File.pdf |
+| `Q10-Pro-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-Knob.stp |
+| `Q10-Pro-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-Top-Case.stp |
+| `Q10-Pro-UK-Full-Model-20230805.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-UK-Full-Model-20230805.stp |
+| `Q10-Pro-US-Full-Model-20230805.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Q10-Pro-US-Full-Model-20230805.stp |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Stabilizer-2.25u.stp |
+| `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q10%20Pro/Stabilizer-6.25u.stp |
 
 ## Opening the Files
 

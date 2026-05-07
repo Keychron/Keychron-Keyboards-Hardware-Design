@@ -26,13 +26,13 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q13_Max_US_KSA_Full_Model_20260421.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13_Max_US_KSA_Full_Model_20260421.stp) |
-| `Q13_Pro-Q13_Max_US_Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13_Pro-Q13_Max_US_Plate.dwg) |
-| `Q13-Ma-Aluminum-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13-Ma-Aluminum-Bottom-Case.stp) |
-| `Q13-Ma-Aluminum-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13-Ma-Aluminum-Top-Case.stp) |
-| `Q13-Max-US-PCB-20240606.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13-Max-US-PCB-20240606.dwg) |
+| `Q13_Max_US_KSA_Full_Model_20260421.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13_Max_US_KSA_Full_Model_20260421.stp |
+| `Q13_Pro-Q13_Max_US_Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13_Pro-Q13_Max_US_Plate.dwg |
+| `Q13-Ma-Aluminum-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13-Ma-Aluminum-Bottom-Case.stp |
+| `Q13-Ma-Aluminum-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13-Ma-Aluminum-Top-Case.stp |
+| `Q13-Max-US-PCB-20240606.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q13%20Max/Q13-Max-US-PCB-20240606.dwg |
 
 ## Links
 

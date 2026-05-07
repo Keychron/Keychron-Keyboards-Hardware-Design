@@ -26,15 +26,15 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q14_Max_Aluminum_Bottom_Case-20250818.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14_Max_Aluminum_Bottom_Case-20250818.stp) |
-| `Q14_Max_US_Aluminum_Top_Case-20250818.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14_Max_US_Aluminum_Top_Case-20250818.stp) |
-| `Q14_Max_US_Full_Model-20250818.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14_Max_US_Full_Model-20250818.stp) |
-| `Q14-Max-US-PC-Plate-20250818.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14-Max-US-PC-Plate-20250818.dwg) |
-| `Q14-Max-US-PC-Plate-20250818.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14-Max-US-PC-Plate-20250818.dxf) |
-| `Q14-Max-US-PC-Plate-20250818.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14-Max-US-PC-Plate-20250818.pdf) |
-| `Q14-Max-US-PCB_20250818.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14-Max-US-PCB_20250818.dwg) |
+| `Q14_Max_Aluminum_Bottom_Case-20250818.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14_Max_Aluminum_Bottom_Case-20250818.stp |
+| `Q14_Max_US_Aluminum_Top_Case-20250818.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14_Max_US_Aluminum_Top_Case-20250818.stp |
+| `Q14_Max_US_Full_Model-20250818.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14_Max_US_Full_Model-20250818.stp |
+| `Q14-Max-US-PC-Plate-20250818.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14-Max-US-PC-Plate-20250818.dwg |
+| `Q14-Max-US-PC-Plate-20250818.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14-Max-US-PC-Plate-20250818.dxf |
+| `Q14-Max-US-PC-Plate-20250818.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14-Max-US-PC-Plate-20250818.pdf |
+| `Q14-Max-US-PCB_20250818.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q14%20Max/Q14-Max-US-PCB_20250818.dwg |
 
 ## Links
 

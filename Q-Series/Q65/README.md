@@ -33,14 +33,14 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q65-ANSI-Plate-20221118-Model.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-ANSI-Plate-20221118-Model.pdf) |
-| `Q65-ANSI-Plate-20221118.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-ANSI-Plate-20221118.dxf) |
-| `Q65-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-Bottom-Case.stp) |
-| `Q65-Full-Model-20220801.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-Full-Model-20220801.stp) |
-| `Q65-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-Knob.stp) |
-| `Q65-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-Top-Case.stp) |
+| `Q65-ANSI-Plate-20221118-Model.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-ANSI-Plate-20221118-Model.pdf |
+| `Q65-ANSI-Plate-20221118.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-ANSI-Plate-20221118.dxf |
+| `Q65-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-Bottom-Case.stp |
+| `Q65-Full-Model-20220801.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-Full-Model-20220801.stp |
+| `Q65-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-Knob.stp |
+| `Q65-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q65/Q65-Top-Case.stp |
 
 ## Opening the Files
 

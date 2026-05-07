@@ -36,15 +36,15 @@ CAD files for this model have not been added to this repository yet. This folder
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `K10X_US_Cherry_Full_Model_20241207.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X_US_Cherry_Full_Model_20241207.stp) |
-| `K10X-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X-Bottom-Case.stp) |
-| `K10X-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X-Top-Case.stp) |
-| `K10X-UK-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X-UK-Plate.dwg) |
-| `K10X-UK-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X-UK-Plate.pdf) |
-| `K10X-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X-US-Plate.dwg) |
-| `K10X-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X-US-Plate.pdf) |
+| `K10X_US_Cherry_Full_Model_20241207.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X_US_Cherry_Full_Model_20241207.stp |
+| `K10X-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X-Bottom-Case.stp |
+| `K10X-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X-Top-Case.stp |
+| `K10X-UK-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X-UK-Plate.dwg |
+| `K10X-UK-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X-UK-Plate.pdf |
+| `K10X-US-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X-US-Plate.dwg |
+| `K10X-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K10%20QMK/K10X-US-Plate.pdf |
 
 ## Links
 

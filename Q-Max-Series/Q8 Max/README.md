@@ -26,15 +26,15 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q8_Max_Aluminum_Bottom_Case-20240125.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8_Max_Aluminum_Bottom_Case-20240125.stp) |
-| `Q8_Max_US_Full_Model-20240125.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8_Max_US_Full_Model-20240125.stp) |
-| `Q8_Max_US_PCB-20240125.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8_Max_US_PCB-20240125.dwg) |
-| `Q8_Max_US_Top_Case-20240125.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8_Max_US_Top_Case-20240125.stp) |
-| `Q8-Max-US-PC-Plate-20240125.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8-Max-US-PC-Plate-20240125.dwg) |
-| `Q8-Max-US-PC-Plate-20240125.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8-Max-US-PC-Plate-20240125.dxf) |
-| `Q8-Max-US-PC-Plate-20240125.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8-Max-US-PC-Plate-20240125.pdf) |
+| `Q8_Max_Aluminum_Bottom_Case-20240125.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8_Max_Aluminum_Bottom_Case-20240125.stp |
+| `Q8_Max_US_Full_Model-20240125.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8_Max_US_Full_Model-20240125.stp |
+| `Q8_Max_US_PCB-20240125.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8_Max_US_PCB-20240125.dwg |
+| `Q8_Max_US_Top_Case-20240125.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8_Max_US_Top_Case-20240125.stp |
+| `Q8-Max-US-PC-Plate-20240125.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8-Max-US-PC-Plate-20240125.dwg |
+| `Q8-Max-US-PC-Plate-20240125.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8-Max-US-PC-Plate-20240125.dxf |
+| `Q8-Max-US-PC-Plate-20240125.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q8%20Max/Q8-Max-US-PC-Plate-20240125.pdf |
 
 ## Links
 

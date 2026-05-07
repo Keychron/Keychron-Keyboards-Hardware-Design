@@ -33,17 +33,17 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q2-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-Bottom-Case.stp) |
-| `Q2-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-Knob.stp) |
-| `Q2-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-Plate-File.pdf) |
-| `Q2-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-Top-Case.stp) |
-| `Q2-UK-Plate-File-20220322.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-UK-Plate-File-20220322.dwg) |
-| `Q2-US-Full-Model-20220111.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-US-Full-Model-20220111.stp) |
-| `Q2-US-Plate-File-20220322.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-US-Plate-File-20220322.dwg) |
-| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Stabilizer-2.25u.stp) |
-| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Stabilizer-6.25u.stp) |
+| `Q2-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-Bottom-Case.stp |
+| `Q2-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-Knob.stp |
+| `Q2-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-Plate-File.pdf |
+| `Q2-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-Top-Case.stp |
+| `Q2-UK-Plate-File-20220322.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-UK-Plate-File-20220322.dwg |
+| `Q2-US-Full-Model-20220111.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-US-Full-Model-20220111.stp |
+| `Q2-US-Plate-File-20220322.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Q2-US-Plate-File-20220322.dwg |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Stabilizer-2.25u.stp |
+| `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q2/Stabilizer-6.25u.stp |
 
 ## Opening the Files
 

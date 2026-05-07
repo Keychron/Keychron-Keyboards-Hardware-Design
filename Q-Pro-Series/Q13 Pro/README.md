@@ -35,17 +35,17 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `Q13-Pro-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-Bottom-Case.stp) |
-| `Q13-Pro-ISO-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-ISO-Plate-File.pdf) |
-| `Q13-Pro-ISO-Plate-File.png` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-ISO-Plate-File.png) |
-| `Q13-Pro-Knob.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-Knob.stp) |
-| `Q13-Pro-Top-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-Top-Case.stp) |
-| `Q13-Pro-US-Full-Model.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-US-Full-Model.stp) |
-| `Q13-Pro-US-Plate-File.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-US-Plate-File.pdf) |
-| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Stabilizer-2.25u.stp) |
-| `Stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Stabilizer-6.25u.stp) |
+| `Q13-Pro-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-Bottom-Case.stp |
+| `Q13-Pro-ISO-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-ISO-Plate-File.pdf |
+| `Q13-Pro-ISO-Plate-File.png` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-ISO-Plate-File.png |
+| `Q13-Pro-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-Knob.stp |
+| `Q13-Pro-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-Top-Case.stp |
+| `Q13-Pro-US-Full-Model.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-US-Full-Model.stp |
+| `Q13-Pro-US-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Q13-Pro-US-Plate-File.pdf |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Stabilizer-2.25u.stp |
+| `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Pro-Series/Q13%20Pro/Stabilizer-6.25u.stp |
 
 ## Opening the Files
 

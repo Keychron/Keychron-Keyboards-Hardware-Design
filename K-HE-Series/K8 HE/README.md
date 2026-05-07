@@ -44,22 +44,22 @@
 
 > **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
 
-| File | Download |
+| File | Download Link |
 |---|---|
-| `K8_HE_Standard_Version_US_Cherry_Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8_HE_Standard_Version_US_Cherry_Keycap.stp) |
-| `K8_HE_Standard_Version_US_Full_Model_20260411.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8_HE_Standard_Version_US_Full_Model_20260411.stp) |
-| `K8-HE-Special-Edition-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Special-Edition-US-Bottom-Case.stp) |
-| `K8-HE-Special-Edition-US-Full-Model-20260411.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Special-Edition-US-Full-Model-20260411.stp) |
-| `K8-HE-Special-Edition-US-OSA-Keycap.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Special-Edition-US-OSA-Keycap.stp) |
-| `K8-HE-Special-Edition-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Special-Edition-US-Plate.dwg) |
-| `K8-HE-Special-Edition-US-Plate.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Special-Edition-US-Plate.dxf) |
-| `K8-HE-Special-Edition-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Special-Edition-US-Plate.pdf) |
-| `K8-HE-Standard-Version-US-Bottom-Case.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Standard-Version-US-Bottom-Case.stp) |
-| `K8-HE-Standard-Version-US-Plate.dwg` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Standard-Version-US-Plate.dwg) |
-| `K8-HE-Standard-Version-US-Plate.dxf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Standard-Version-US-Plate.dxf) |
-| `K8-HE-Standard-Version-US-Plate.pdf` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Standard-Version-US-Plate.pdf) |
-| `Stabilizer-2.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/Stabilizer-2.25u.stp) |
-| `stabilizer-6.25u.stp` | [Download](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/stabilizer-6.25u.stp) |
+| `K8_HE_Standard_Version_US_Cherry_Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8_HE_Standard_Version_US_Cherry_Keycap.stp |
+| `K8_HE_Standard_Version_US_Full_Model_20260411.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8_HE_Standard_Version_US_Full_Model_20260411.stp |
+| `K8-HE-Special-Edition-US-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Special-Edition-US-Bottom-Case.stp |
+| `K8-HE-Special-Edition-US-Full-Model-20260411.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Special-Edition-US-Full-Model-20260411.stp |
+| `K8-HE-Special-Edition-US-OSA-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Special-Edition-US-OSA-Keycap.stp |
+| `K8-HE-Special-Edition-US-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Special-Edition-US-Plate.dwg |
+| `K8-HE-Special-Edition-US-Plate.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Special-Edition-US-Plate.dxf |
+| `K8-HE-Special-Edition-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Special-Edition-US-Plate.pdf |
+| `K8-HE-Standard-Version-US-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Standard-Version-US-Bottom-Case.stp |
+| `K8-HE-Standard-Version-US-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Standard-Version-US-Plate.dwg |
+| `K8-HE-Standard-Version-US-Plate.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Standard-Version-US-Plate.dxf |
+| `K8-HE-Standard-Version-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/K8-HE-Standard-Version-US-Plate.pdf |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/Stabilizer-2.25u.stp |
+| `stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K8%20HE/stabilizer-6.25u.stp |
 
 ## Opening the Files
 
