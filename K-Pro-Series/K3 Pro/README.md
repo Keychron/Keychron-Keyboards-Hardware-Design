@@ -43,6 +43,7 @@
 | `K3-Pro-UK-PCB-20240530.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3-Pro-UK-PCB-20240530.dwg |
 | `K3-Pro-US-Aluminum-Plate-20241113.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3-Pro-US-Aluminum-Plate-20241113.dwg |
 | `K3-Pro-US-Aluminum-Plate-20241113.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3-Pro-US-Aluminum-Plate-20241113.pdf |
+| `K3-Pro-US-PCB-20240530.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3-Pro-US-PCB-20240530.dwg |
 | `K3_Pro_UK_Bottom_Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3_Pro_UK_Bottom_Case.stp |
 | `K3_Pro_UK_Top_Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/K3_Pro_UK_Top_Case.stp |
 | `k3-Pro-US-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K3%20Pro/k3-Pro-US-Bottom-Case.stp |
