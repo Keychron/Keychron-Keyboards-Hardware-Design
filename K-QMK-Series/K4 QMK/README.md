@@ -18,18 +18,25 @@
 | Hot-swap | Yes |
 | Firmware | QMK / Keychron Launcher |
 
-## Repository Status
+## Included Files
 
-CAD files for this model have not been added to this repository yet. This folder is prepared so related hardware design files can be dropped in later.
-
-## Planned File Types
-
-| File Type | Purpose |
+| File | Description |
 |---|---|
-| `stp` / `step` | Case and assembly 3D models |
-| `dwg` | 2D plate and mechanical drawings |
-| `dxf` | Manufacturing-ready 2D geometry when available |
-| `pdf` | Reference drawings and dimension sheets |
+| `K4X-US-Aluminum-Plate_20260430.dwg` | US aluminum plate 2D CAD drawing |
+| `K4X-US-Bottom-Case_20260430.stp` | US bottom case 3D CAD model |
+| `K4X-US-PCB_20260430.dwg` | US PCB 2D CAD drawing |
+| `K4X_US_Cherry_Full_Model_20260420.stp` | US full keyboard 3D CAD model with Cherry profile keycaps |
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `K4X-US-Aluminum-Plate_20260430.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K4%20QMK/K4X-US-Aluminum-Plate_20260430.dwg |
+| `K4X-US-Bottom-Case_20260430.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K4%20QMK/K4X-US-Bottom-Case_20260430.stp |
+| `K4X-US-PCB_20260430.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K4%20QMK/K4X-US-PCB_20260430.dwg |
+| `K4X_US_Cherry_Full_Model_20260420.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K4%20QMK/K4X_US_Cherry_Full_Model_20260420.stp |
 
 ## Links
 
