@@ -6,18 +6,33 @@
 
 ![V3 Ultra 8K](https://www.keychron.com/cdn/shop/files/V3-Ultra-8K-Iconic-Features.jpg?crop=center&height=1200&v=1768913955&width=1200)
 
-## Current Repository Status
+## Included Files
 
-- This folder is ready for future hardware design uploads for the V3 Ultra 8K.
-- No local `stp`, `dwg`, `dxf`, `pdf`, or related CAD assets are included yet.
-
-## Expected File Types
-
-| File Type | Typical Use |
+| File | Description |
 |---|---|
-| `stp` | Case, plate, or full assembly 3D CAD |
-| `dwg` / `dxf` | Plate drawings and 2D manufacturing references |
-| `pdf` | Reference drawings and quick-view documents |
+| `V3-Ultra-8K-US-Bottom-Case_20250904.stp` | US bottom case 3D CAD model |
+| `V3-Ultra-8K-US-Full-Model_20250904.stp` | US full keyboard 3D CAD model |
+| `V3-Ultra-8K-US-PC-Plate_20250904.dwg` | US PC plate 2D CAD drawing |
+| `V3-Ultra-8K-US-PC-Plate_20250904.dxf` | US PC plate DXF drawing |
+| `V3-Ultra-8K-US-PC-Plate_20250904.pdf` | US PC plate reference drawing |
+| `V3-Ultra-8K-US-PCB-20250904.dwg` | US PCB 2D CAD drawing |
+| `V3-Ultra-8K-US-Top-Case_20250904.stp` | US top case 3D CAD model |
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `V3-Ultra-8K-US-Bottom-Case_20250904.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Ultra-8K-Series/V3%20Ultra%208K/V3-Ultra-8K-US-Bottom-Case_20250904.stp |
+| `V3-Ultra-8K-US-Full-Model_20250904.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Ultra-8K-Series/V3%20Ultra%208K/V3-Ultra-8K-US-Full-Model_20250904.stp |
+| `V3-Ultra-8K-US-PC-Plate_20250904.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Ultra-8K-Series/V3%20Ultra%208K/V3-Ultra-8K-US-PC-Plate_20250904.dwg |
+| `V3-Ultra-8K-US-PC-Plate_20250904.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Ultra-8K-Series/V3%20Ultra%208K/V3-Ultra-8K-US-PC-Plate_20250904.dxf |
+| `V3-Ultra-8K-US-PC-Plate_20250904.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Ultra-8K-Series/V3%20Ultra%208K/V3-Ultra-8K-US-PC-Plate_20250904.pdf |
+| `V3-Ultra-8K-US-PCB-20250904.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Ultra-8K-Series/V3%20Ultra%208K/V3-Ultra-8K-US-PCB-20250904.dwg |
+| `V3-Ultra-8K-US-Top-Case_20250904.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Ultra-8K-Series/V3%20Ultra%208K/V3-Ultra-8K-US-Top-Case_20250904.stp |
+
+
 
 ## Product Snapshot
 

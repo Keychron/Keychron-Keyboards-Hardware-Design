@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-05-18:** Added V3 Ultra 8K files.
 - **2026-05-14:** Added K4 QMK files.
 - **2026-05-08:** Added BM25 and more K3 Pro files.
 - **2026-05-07:** Moved the download links for the files to the "Downloads section" of the "Readme file" within the corresponding product model folder. ** Added more K3 Pro files.
