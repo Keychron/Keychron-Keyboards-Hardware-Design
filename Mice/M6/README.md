@@ -26,6 +26,8 @@
 | File | Description |
 |---|---|
 | `M6-20230925.stp` | Complete 3D model containing shell, buttons, and all components |
+| `M6_3311_Metal_Scroll_Wheel_20260526.stp` | Metal scroll wheel 3D model for the 3311 version |
+| `M6_3395_3950_Metal_Scroll_Wheel_20240812.stp` | Metal scroll wheel 3D model for the 3395 / 3950 versions |
 
 
 ## Downloads
@@ -35,6 +37,8 @@
 | File | Download Link |
 |---|---|
 | `M6-20230925.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/M6/M6-20230925.stp |
+| `M6_3311_Metal_Scroll_Wheel_20260526.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/M6/M6_3311_Metal_Scroll_Wheel_20260526.stp |
+| `M6_3395_3950_Metal_Scroll_Wheel_20240812.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Mice/M6/M6_3395_3950_Metal_Scroll_Wheel_20240812.stp |
 
 ## Opening the Files
 
