@@ -29,6 +29,7 @@
 |---|---|
 | `K8-Bottom-Case.stp` | Bottom case 3D CAD model |
 | `K8-US-Full-Model- 20260427.stp` | US full keyboard 3D CAD model |
+| `K8_key-cap_us_20260527.stp` | US keycap 3D CAD model |
 | `K8-US-Plate.dwg` | US plate 2D CAD drawing |
 | `K8-US-Plate.pdf` | US plate reference drawing |
 | `K8-US-Plate.stp` | US plate 3D CAD model |
@@ -42,6 +43,7 @@
 |---|---|
 | `K8-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-Bottom-Case.stp |
 | `K8-US-Full-Model- 20260427.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Full-Model-%2020260427.stp |
+| `K8_key-cap_us_20260527.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8_key-cap_us_20260527.stp |
 | `K8-US-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Plate.dwg |
 | `K8-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Plate.pdf |
 | `K8-US-Plate.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Series/K8/K8-US-Plate.stp |
