@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-05-29:** Added Nape Pro files.
 - **2026-05-27:** Added more M6 files.
 - **2026-05-26:** Added J7 files.
 - **2026-05-19:** Added K3 files.
