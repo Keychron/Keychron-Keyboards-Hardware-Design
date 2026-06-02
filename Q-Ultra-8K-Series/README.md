@@ -12,6 +12,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [Q3 Ultra 8K](./Q3%20Ultra%208k/README.md) | TKL | 80% | Yes | ZMK |
 | [Q5 Ultra 8K](./Q5%20Ultra%208k/README.md) | 96% | Compact | Yes | ZMK |
 | [Q6 Ultra 8K](./Q6%20Ultra%208k/README.md) | Full-size | 100% | Yes | ZMK |
+| [Q11 Ultra 8K](./Q11%20Ultra%208k/README.md) | Split | 75% | Yes | ZMK |
 | [Q13 Ultra 8K](./Q13%20Ultra%208k/README.md) | 96% Alice | Alice | Yes | ZMK |
 
 ## Repository Contents
@@ -22,15 +23,17 @@ This series folder currently includes model folders for:
 - [Q3 Ultra 8K](./Q3%20Ultra%208k/README.md)
 - [Q5 Ultra 8K](./Q5%20Ultra%208k/README.md)
 - [Q6 Ultra 8K](./Q6%20Ultra%208k/README.md)
+- [Q11 Ultra 8K](./Q11%20Ultra%208k/README.md)
 - [Q13 Ultra 8K](./Q13%20Ultra%208k/README.md)
 
-At the moment, only the Q6 Ultra 8K folder includes published plate files in this repository. The other model folders are ready for future `stp`, `dwg`, `dxf`, `pdf`, or related hardware uploads.
+At the moment, the Q6 Ultra 8K folder includes published plate files, and the Q11 Ultra 8K folder includes published case, plate, PCB, and full-model files. The other model folders are ready for future `stp`, `dwg`, `dxf`, `pdf`, or related hardware uploads.
 
 ## Download Files
 
 | File | Description | Format |
 |---|---|---|
 | **Plate** | Published switch mounting plate drawings | DWG / PDF |
+| **Case / Full model / PCB** | Published enclosure, full assembly, and PCB references | STP / DWG / DXF / PDF |
 | **Future CAD assets** | Placeholder folders ready for case, plate, or full-model releases | STP / DWG / DXF / PDF |
 
 ## Opening the Files
@@ -50,6 +53,7 @@ Q-Ultra-8K-Series/
 ├── Q3 Ultra 8k/
 ├── Q5 Ultra 8k/
 ├── Q6 Ultra 8k/
+├── Q11 Ultra 8k/
 ├── Q13 Ultra 8k/
 └── README.md
 ```
