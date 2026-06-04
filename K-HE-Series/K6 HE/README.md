@@ -22,7 +22,20 @@
 
 ## Included Files
 
-> **Note:** Design files for this model have not been uploaded yet. Check back for updates or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
+| File | Description |
+|---|---|
+| `K6-HE-US-Cherry-Standard-Version-Full- Model-20250321.stp` | Complete assembled Standard Version US full model with Cherry-profile keycaps |
+| `K6-HE-US-OSA-Special- Edition-Full-Model-20250321.stp` | Complete assembled Special Edition US full model with OSA keycaps |
+| `K6-HE-Special-Edition-US-Bottom-Case-20260604.stp` | Special Edition US bottom case 3D CAD model |
+| `K6-HE-Special-Edition-US-OSA-Keycap-20260604.stp` | Special Edition US OSA keycap 3D CAD model |
+| `K6-HE-Special-Edition-US-PCB-20250311.dwg` | Special Edition US PCB 2D CAD drawing |
+| `K6-HE-Special-Edition-US-Plate-20260604.dwg` | Special Edition US plate 2D CAD drawing |
+| `K6-HE-Special-Edition-US-Plate-20260604.pdf` | Special Edition US plate reference drawing |
+| `K6-HE-Standard-Version-US-Bottom-Case.stp` | Standard Version US bottom case 3D CAD model |
+| `K6-HE-Standard-Version-US-Plate-20260604.dwg` | Standard Version US plate 2D CAD drawing |
+| `K6-HE-Standard-Version-US-Plate-20260604.pdf` | Standard Version US plate reference drawing |
+| `K6-HE-US-Standard-Version-Cherry-Profile-Keycap-20260604.stp` | Standard Version US Cherry-profile keycap 3D CAD model |
+| `K6-HE-US-Standard-Version-PCB-20250311.dwg` | Standard Version US PCB 2D CAD drawing |
 
 
 ## Downloads
@@ -33,8 +46,34 @@
 |---|---|
 | `K6-HE-US-Cherry-Standard-Version-Full- Model-20250321.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-US-Cherry-Standard-Version-Full-%20Model-20250321.stp |
 | `K6-HE-US-OSA-Special- Edition-Full-Model-20250321.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-US-OSA-Special-%20Edition-Full-Model-20250321.stp |
+| `K6-HE-Special-Edition-US-Bottom-Case-20260604.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-Special-Edition-US-Bottom-Case-20260604.stp |
+| `K6-HE-Special-Edition-US-OSA-Keycap-20260604.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-Special-Edition-US-OSA-Keycap-20260604.stp |
+| `K6-HE-Special-Edition-US-PCB-20250311.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-Special-Edition-US-PCB-20250311.dwg |
+| `K6-HE-Special-Edition-US-Plate-20260604.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-Special-Edition-US-Plate-20260604.dwg |
+| `K6-HE-Special-Edition-US-Plate-20260604.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-Special-Edition-US-Plate-20260604.pdf |
+| `K6-HE-Standard-Version-US-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-Standard-Version-US-Bottom-Case.stp |
+| `K6-HE-Standard-Version-US-Plate-20260604.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-Standard-Version-US-Plate-20260604.dwg |
+| `K6-HE-Standard-Version-US-Plate-20260604.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-Standard-Version-US-Plate-20260604.pdf |
+| `K6-HE-US-Standard-Version-Cherry-Profile-Keycap-20260604.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-US-Standard-Version-Cherry-Profile-Keycap-20260604.stp |
+| `K6-HE-US-Standard-Version-PCB-20250311.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-HE-Series/K6%20HE/K6-HE-US-Standard-Version-PCB-20250311.dwg |
+
+## Opening the Files
+
+| Format | Free Software | Commercial Software |
+|---|---|---|
+| `.stp` | FreeCAD, Onshape | Fusion 360, SolidWorks |
+| `.dwg` | LibreCAD (limited), QCAD | AutoCAD, DraftSight |
+| `.pdf` | Any PDF viewer | - |
 
 ## Links
 
 - [Firmware Source (K6 HE)](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/k6_he)
-- [Series Overview](../README.md)
+- [Series Overview](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/blob/main/K-HE-Series/README.md)
+
+## License
+
+This project is **source-available**. Personal and educational use is allowed, and commercial use is allowed for original compatible accessories within the limits of the license.
+
+**You may not use these files to copy, manufacture, sell, or distribute Keychron keyboards or mice, or substantially similar products, and you may not use Keychron trademarks as your own branding.**
+
+See the [LICENSE](../../LICENSE) for full terms.
