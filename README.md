@@ -15,7 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
-- **2026-06-04:** Added V2 files.
+- **2026-06-04:** Added V2 and more K6 HE files.
 - **2026-06-02:** Added Q11 Ultra 8K files.
 - **2026-05-26:** Added J7 files.
 - **2026-05-19:** Added K3 files.
