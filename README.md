@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-07-10:** Added K3 HE files.
 - **2026-07-09:** Added J2 files.
 - **2026-06-24:** Update links in Q0 Plus files.
 - **2026-06-17:** Added K9 Max files.
