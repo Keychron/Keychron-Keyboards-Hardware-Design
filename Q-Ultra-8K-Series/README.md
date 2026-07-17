@@ -26,7 +26,7 @@ This series folder currently includes model folders for:
 - [Q11 Ultra 8K](./Q11%20Ultra%208k/README.md)
 - [Q13 Ultra 8K](./Q13%20Ultra%208k/README.md)
 
-At the moment, the Q6 Ultra 8K folder includes published plate files, and the Q11 Ultra 8K folder includes published case, plate, PCB, and full-model files. The other model folders are ready for future `stp`, `dwg`, `dxf`, `pdf`, or related hardware uploads.
+At the moment, the Q3 Ultra 8K folder includes published case, plate, PCB, and full-model files, the Q6 Ultra 8K folder includes published plate files, and the Q11 Ultra 8K folder includes published case, plate, PCB, and full-model files. The other model folders are ready for future `stp`, `dwg`, `dxf`, `pdf`, or related hardware uploads.
 
 ## Download Files
 
