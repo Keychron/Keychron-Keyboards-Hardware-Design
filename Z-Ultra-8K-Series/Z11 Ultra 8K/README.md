@@ -23,14 +23,14 @@
 
 | File | Download Link |
 |---|---|
-| `Z11_Ultra_8K_US_Full_Model-20260616.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K/Z11_Ultra_8K_US_Full_Model-20260616.stp |
-| `Z11_Ultra_8K_US_Left Bottom Case_Aluminum-20260616.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K/Z11_Ultra_8K_US_Left%20Bottom%20Case_Aluminum-20260616.stp |
-| `Z11_Ultra_8K_US_Left Top Case_Aluminum-20260616.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K/Z11_Ultra_8K_US_Left%20Top%20Case_Aluminum-20260616.stp |
-| `Z11_Ultra_8K_US_PCB-20250902.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K/Z11_Ultra_8K_US_PCB-20250902.dwg |
-| `Z11_Ultra_8K_US_Right Bottom Case_Aluminum-20260616.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K/Z11_Ultra_8K_US_Right%20Bottom%20Case_Aluminum-20260616.stp |
-| `Z11_Ultra_8K_US_Right Top Case_Aluminum-20260616.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K/Z11_Ultra_8K_US_Right%20Top%20Case_Aluminum-20260616.stp |
-| `Z11_Ultra_US_Plate_Of_Left and Right Case-20260616.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K/Z11_Ultra_US_Plate_Of_Left%20and%20Right%20Case-20260616.dwg |
-| `Z11_Ultra_US_Plate_Of_Left and Right Case-20260616.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K/Z11_Ultra_US_Plate_Of_Left%20and%20Right%20Case-20260616.pdf |
+| `Z11_Ultra_8K_US_Full_Model-20260616.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K%20/Z11_Ultra_8K_US_Full_Model-20260616.stp |
+| `Z11_Ultra_8K_US_Left Bottom Case_Aluminum-20260616.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K%20/Z11_Ultra_8K_US_Left%20Bottom%20Case_Aluminum-20260616.stp |
+| `Z11_Ultra_8K_US_Left Top Case_Aluminum-20260616.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K%20/Z11_Ultra_8K_US_Left%20Top%20Case_Aluminum-20260616.stp |
+| `Z11_Ultra_8K_US_PCB-20250902.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K%20/Z11_Ultra_8K_US_PCB-20250902.dwg |
+| `Z11_Ultra_8K_US_Right Bottom Case_Aluminum-20260616.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K%20/Z11_Ultra_8K_US_Right%20Bottom%20Case_Aluminum-20260616.stp |
+| `Z11_Ultra_8K_US_Right Top Case_Aluminum-20260616.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K%20/Z11_Ultra_8K_US_Right%20Top%20Case_Aluminum-20260616.stp |
+| `Z11_Ultra_US_Plate_Of_Left and Right Case-20260616.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K%20/Z11_Ultra_US_Plate_Of_Left%20and%20Right%20Case-20260616.dwg |
+| `Z11_Ultra_US_Plate_Of_Left and Right Case-20260616.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Z-Ultra-8K-Series/Z11%20Ultra%208K%20/Z11_Ultra_US_Plate_Of_Left%20and%20Right%20Case-20260616.pdf |
 
 ## Opening the Files
 
