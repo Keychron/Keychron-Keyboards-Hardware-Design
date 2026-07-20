@@ -15,7 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
-- **2026-07-17:** Added Q3 Ultra 8K files.
+- **2026-07-17:** Added more Q3 Ultra 8K and more Q6 Ultra 8K files.
 - **2026-07-16:** Added K3 Ultra 8K files.
 - **2026-07-10:** Added K3 HE files.
 - **2026-07-09:** Added J2 files.
