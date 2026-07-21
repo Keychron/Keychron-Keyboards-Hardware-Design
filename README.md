@@ -15,7 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
-- **2026-07-20:** Update links in Z11 Ultra 8K Plus files.
+- **2026-07-20:** Update links in Z11 Ultra 8K files.
 - **2026-07-17:** Added more Q3 Ultra 8K and more Q6 Ultra 8K files.
 - **2026-07-16:** Added K3 Ultra 8K files.
 - **2026-07-10:** Added K3 HE files.
