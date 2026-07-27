@@ -19,6 +19,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [M7](./M7/README.md) | Wireless Ergonomic | Work / Gaming |
 | [G1](./G1/README.md) | Wireless Gaming | Gaming |
 | [G2](./G2/README.md) | Wireless Gaming | Gaming |
+| [BM24](./BM24/README.md) | Wireless Office | Productivity |
 
 ## Current Product Lineup
 
@@ -59,6 +60,7 @@ If there is a mouse model or variant you would like to see added to this reposit
 
 ```
 Mice/
+├── BM24/
 ├── M1/
 ├── M2/
 ├── M2 Mini/
