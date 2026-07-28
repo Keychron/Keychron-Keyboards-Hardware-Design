@@ -19,11 +19,12 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [M7](./M7/README.md) | Wireless Ergonomic | Work / Gaming |
 | [G1](./G1/README.md) | Wireless Gaming | Gaming |
 | [G2](./G2/README.md) | Wireless Gaming | Gaming |
+| [G6 HE](./G6%20HE/README.md) | Wireless Competitive Gaming | Gaming |
 | [BM24](./BM24/README.md) | Wireless Office | Productivity |
 
 ## Current Product Lineup
 
-As of April 9, 2026, the Keychron mice collection includes the following mouse products:
+As of July 28, 2026, the Keychron mice collection includes the following mouse products:
 
 - [Keychron M1 Wireless Mouse](https://www.keychron.com/collections/keychron-m-series-mice/products/keychron-m1-wireless-mouse)
 - [Keychron M2 Wireless Mouse](https://www.keychron.com/products/keychron-m2-wireless-mouse)
@@ -37,6 +38,7 @@ As of April 9, 2026, the Keychron mice collection includes the following mouse p
 - [Keychron M7 Wireless Mouse](https://www.keychron.com/products/keychron-m7-wireless-mouse)
 - [Lemokey G1 Wireless Mouse](https://www.keychron.com/products/lemokey-g1-wireless-mouse)
 - [Lemokey G2 Wireless Mouse](https://www.keychron.com/products/lemokey-g2-wireless-mouse)
+- [Keychron G6 HE](https://keychron.kr/news/g6-he-brief/)
 - [Keychron BM22 Wireless Mouse](https://www.keychron.com/products/keychron-bm22-wireless-mouse)
 - [Keychron BM24 Wireless Mouse](https://www.keychron.com/products/keychron-bm24-wireless-mouse)
 - [Keychron BM25 Wireless Mouse](https://www.keychron.com/products/keychron-bm25-wireless-mouse)
@@ -49,12 +51,17 @@ If there is a mouse model or variant you would like to see added to this reposit
 |---|---|---|
 | **Shell / Body** | 3D CAD model of the mouse shell — top shell, bottom shell, and side buttons | STEP |
 | **Full Model** | Complete assembled 3D model | STEP |
+| **PTFE Files** | 2D CAD drawing and reference sheet for PTFE parts | DWG, PDF |
+| **Receiver Parts** | 3D printable Turbo Link receiver parts | STL |
 
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |
 |---|---|---|
 | `.stp` | FreeCAD, Onshape (browser) | Fusion 360, SolidWorks |
+| `.dwg` | LibreCAD (limited), QCAD | AutoCAD, DraftSight |
+| `.pdf` | Any PDF viewer | - |
+| `.stl` | FreeCAD, MeshLab, PrusaSlicer | Fusion 360, SolidWorks |
 
 ## Directory Structure
 
@@ -72,6 +79,7 @@ Mice/
 ├── M7/
 ├── G1/
 ├── G2/
+├── G6 HE/
 └── README.md
 ```
 
