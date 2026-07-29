@@ -21,10 +21,12 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [G2](./G2/README.md) | Wireless Gaming | Gaming |
 | [G6 HE](./G6%20HE/README.md) | Wireless Competitive Gaming | Gaming |
 | [BM24](./BM24/README.md) | Wireless Office | Productivity |
+| [BM25](./BM25/README.md) | Wireless Office | Productivity |
+| [BM27](./BM27/README.md) | Wireless Ergonomic Office | Productivity |
 
 ## Current Product Lineup
 
-As of July 28, 2026, the Keychron mice collection includes the following mouse products:
+As of July 29, 2026, the Keychron mice collection includes the following mouse products:
 
 - [Keychron M1 Wireless Mouse](https://www.keychron.com/collections/keychron-m-series-mice/products/keychron-m1-wireless-mouse)
 - [Keychron M2 Wireless Mouse](https://www.keychron.com/products/keychron-m2-wireless-mouse)
@@ -42,6 +44,7 @@ As of July 28, 2026, the Keychron mice collection includes the following mouse p
 - [Keychron BM22 Wireless Mouse](https://www.keychron.com/products/keychron-bm22-wireless-mouse)
 - [Keychron BM24 Wireless Mouse](https://www.keychron.com/products/keychron-bm24-wireless-mouse)
 - [Keychron BM25 Wireless Mouse](https://www.keychron.com/products/keychron-bm25-wireless-mouse)
+- [Keychron BM27 Wireless Ergonomic Mouse](https://www.keychron.com/products/keychron-bm27-wireless-ergonomic-mouse)
 
 If there is a mouse model or variant you would like to see added to this repository, please contact Keychron or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
 
@@ -68,6 +71,8 @@ If there is a mouse model or variant you would like to see added to this reposit
 ```
 Mice/
 ├── BM24/
+├── BM25/
+├── BM27/
 ├── M1/
 ├── M2/
 ├── M2 Mini/
