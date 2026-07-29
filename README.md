@@ -15,7 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
-- **2026-07-29:** Added BM27 files.
+- **2026-07-29:** Added G3 and BM27 files.
 - **2026-07-28:** Added G6 HE mouse files.
 - **2026-07-27:** Added BM24 files.
 - **2026-07-20:** Update links in Z11 Ultra 8K files.
@@ -112,9 +112,9 @@ If you're new, begin with one of these paths:
 | **V Ultra 8K Series** | Keyboard | V0 Ultra 8K, V1 Ultra 8K, V3 Ultra 8K, V5 Ultra 8K, V6 Ultra 8K, V10 Ultra 8K | README/model pages prepared for future CAD uploads |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **P HE Series** | Hall Effect | P1 HE, P2 HE, P3 HE | Published files for P1 HE; README/model pages prepared for P2 HE and P3 HE |
-| **Mouse Series** | Mouse | M1–M7, G1, G2, G6 HE, BM24, BM25, BM27 | Shell, Full Model, PTFE Files, Receiver Parts |
+| **Mouse Series** | Mouse | M1–M7, G1, G2, G3, G6 HE, BM24, BM25, BM27 | Shell, Full Model, PTFE Files, Receiver Parts |
 
-**136 device models. 739+ design files. Source-available. Accessory-friendly.**
+**137 device models. 741+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
@@ -156,6 +156,7 @@ P-HE-Series/
 L-Series/
   L1/                   — Aluminum keyboard files with plate, case, knob, and stabilizers
 Mice/
+  G3/                   — Ultra-light wireless gaming mouse files with product page reference
   BM27/                 — Vertical ergonomic wireless mouse files with product page reference
   M1/                   — Shell and full model
 Keycap Profiles/
