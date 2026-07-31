@@ -22,13 +22,14 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [G3](./G3/README.md) | Wireless Ultra-light Gaming | Gaming |
 | [G5](./G5/README.md) | Wireless Ultra-light Gaming | Gaming |
 | [G6 HE](./G6%20HE/README.md) | Wireless Competitive Gaming | Gaming |
+| [BM22](./BM22/README.md) | Wireless Office | Productivity |
 | [BM24](./BM24/README.md) | Wireless Office | Productivity |
 | [BM25](./BM25/README.md) | Wireless Office | Productivity |
 | [BM27](./BM27/README.md) | Wireless Ergonomic Office | Productivity |
 
 ## Current Product Lineup
 
-As of July 30, 2026, the Keychron mice collection includes the following mouse products:
+As of July 31, 2026, the Keychron mice collection includes the following mouse products:
 
 - [Keychron M1 Wireless Mouse](https://www.keychron.com/collections/keychron-m-series-mice/products/keychron-m1-wireless-mouse)
 - [Keychron M2 Wireless Mouse](https://www.keychron.com/products/keychron-m2-wireless-mouse)
@@ -74,6 +75,7 @@ If there is a mouse model or variant you would like to see added to this reposit
 
 ```
 Mice/
+├── BM22/
 ├── BM24/
 ├── BM25/
 ├── BM27/

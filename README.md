@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-07-31:** Added BM22 files.
 - **2026-07-30:** Added G5 files.
 - **2026-07-29:** Added G3 and BM27 files.
 - **2026-07-28:** Added G6 HE mouse files.
@@ -64,7 +65,7 @@ If you're new, begin with one of these paths:
   Explore C Pro 8K, Q, Q Pro, Q HE, Q Max, Q Ultra 8K, K Pro, K Max, K Ultra 8K, K HE, K QMK, V Max, and P HE models.
 
 - **Browse mouse files**  
-  Explore shell and full-model files for M and G series mice.
+  Explore shell and full-model files for M, G, and BM series mice.
 
 - **Open the files in CAD software**  
   Read the [File Format Guide](docs/file-format-guide.md) for STEP, DWG, DXF, and PDF compatibility.
@@ -113,7 +114,7 @@ If you're new, begin with one of these paths:
 | **V Ultra 8K Series** | Keyboard | V0 Ultra 8K, V1 Ultra 8K, V3 Ultra 8K, V5 Ultra 8K, V6 Ultra 8K, V10 Ultra 8K | README/model pages prepared for future CAD uploads |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **P HE Series** | Hall Effect | P1 HE, P2 HE, P3 HE | Published files for P1 HE; README/model pages prepared for P2 HE and P3 HE |
-| **Mouse Series** | Mouse | M1–M7, G1, G2, G3, G5, G6 HE, BM24, BM25, BM27 | Shell, Full Model, PTFE Files, Receiver Parts |
+| **Mouse Series** | Mouse | M1–M7, G1, G2, G3, G5, G6 HE, BM22, BM24, BM25, BM27 | Shell, Full Model, PTFE Files, Receiver Parts |
 
 **138 device models. 742+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
@@ -157,6 +158,7 @@ P-HE-Series/
 L-Series/
   L1/                   — Aluminum keyboard files with plate, case, knob, and stabilizers
 Mice/
+  BM22/                 — Lightweight wireless mouse files with product page reference
   G3/                   — Ultra-light wireless gaming mouse files with product page reference
   G5/                   — Ultra-light wireless gaming mouse files with product page reference
   BM27/                 — Vertical ergonomic wireless mouse files with product page reference
