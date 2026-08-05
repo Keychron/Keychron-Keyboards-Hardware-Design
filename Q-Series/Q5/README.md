@@ -4,7 +4,7 @@
 
 **Product page:** [Keychron Q5](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard)
 
-![Q5](https://i.imgur.com/hgBjdtTh.jpg)
+![Keychron Q5](https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/q5hero11-1655192229482.jpg?v=1655192231)
 
 ## Specifications
 
@@ -45,6 +45,16 @@
 | `Q5-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-Knob.stp |
 | `Q5-Non-Knob-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-Non-Knob-Plate-File.pdf |
 | `Q5-Plate-File-20220616.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5-Plate-File-20220616.dxf |
+| `Q5_UK_Aluminum_Bottom_Case-20220520.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5_UK_Aluminum_Bottom_Case-20220520.stp |
+| `Q5_UK_Aluminum_Top_Case-20220520.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5_UK_Aluminum_Top_Case-20220520.stp |
+| `Q5_UK_Aluminum_Top_Case_Knob_Version-20220520.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5_UK_Aluminum_Top_Case_Knob_Version-20220520.stp |
+| `Q5_UK_Full-Model-20220520.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5_UK_Full-Model-20220520.stp |
+| `Q5_UK_Full-Model_Knob_Version-20220520.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5_UK_Full-Model_Knob_Version-20220520.stp |
+| `Q5_UK_PCB_Knob&Standard_Version-20220520.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5_UK_PCB_Knob%26Standard_Version-20220520.dwg |
+| `Q5_UK_Plate-20220520.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5_UK_Plate-20220520.pdf |
+| `Q5_UK_Plate_Knob&Standard_Version-20220520.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5_UK_Plate_Knob%26Standard_Version-20220520.dwg |
+| `Q5_UK_Plate_Knob&Standard_Version-20220520.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5_UK_Plate_Knob%26Standard_Version-20220520.dxf |
+| `Q5_UK_Plate_Knob_Version-20220520.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Q5_UK_Plate_Knob_Version-20220520.pdf |
 | `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Stabilizer-2.25u.stp |
 | `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q5/Stabilizer-6.25u.stp |
 
