@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-08-05:** Added more Q5 files.
 - **2026-07-31:** Added BM22 files.
 - **2026-07-30:** Added G5 files.
 - **2026-07-29:** Added G3 and BM27 files.
