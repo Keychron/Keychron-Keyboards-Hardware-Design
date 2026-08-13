@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-08-13:** Added B1 Pro files.
 - **2026-08-13:** Added K2 Ultra 8K files.
 - **2026-08-12:** Added J5 files.
 - **2026-08-05:** Added more Q5 files.
@@ -65,7 +66,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 If you're new, begin with one of these paths:
 
 - **Browse keyboard files**  
-  Explore C Pro 8K, J, Q, Q Pro, Q HE, Q Max, Q Ultra 8K, K Pro, K Max, K Ultra 8K, K HE, K QMK, V Max, and P HE models.
+  Explore B Pro, C Pro 8K, J, Q, Q Pro, Q HE, Q Max, Q Ultra 8K, K Pro, K Max, K Ultra 8K, K HE, K QMK, V Max, and P HE models.
 
 - **Browse mouse files**  
   Explore shell and full-model files for M, G, and BM series mice.
@@ -100,6 +101,7 @@ If you're new, begin with one of these paths:
 
 | Series | Type | Models | Components |
 |---|---|---|---|
+| **B Pro Series** | Keyboard | B1 Pro, B6 Pro | Case, PCB, Full Model |
 | **C Pro 8K Series** | Keyboard | C1 Pro 8K, C2 Pro 8K, C3 Pro 8K | Case, Plate, Full Model, Stabilizer |
 | **J Series** | Keyboard | J2, J5, J7 | Plate, PCB, Bottom Case, Full Model |
 | **Q Series** | Keyboard | Q0 Plus, Q1–Q12, Q60, Q65 | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
@@ -120,12 +122,15 @@ If you're new, begin with one of these paths:
 | **P HE Series** | Hall Effect | P1 HE, P2 HE, P3 HE | Published files for P1 HE; README/model pages prepared for P2 HE and P3 HE |
 | **Mouse Series** | Mouse | M1–M7, M2 Mini, M3 Mini, G1, G2, G3, G4, G5, G6 HE, BM22, BM24, BM25, BM27, Nape Pro (20 models) | Shell, Full Model, PTFE Files, Receiver Parts |
 
-**160 device models. 753+ design files. Source-available. Accessory-friendly.**
+**161 device models. 757+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
 
 ```
+B-Pro-Series/
+  B1 Pro/               — Ultra-slim 75% wireless keyboard files with UK case, PCB, full model, and product page reference
+  B6 Pro/               — Ultra-slim full-size wireless keyboard files with case, full model, and product page reference
 C-Pro-8K-Series/
   C3 Pro 8K/            — Wired C Pro 8K hardware files, with C1 Pro 8K and C2 Pro 8K also present
 J-Series/
