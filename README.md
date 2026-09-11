@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-09-11:** Added K5 Ultra 8K files.
 - **2026-09-02:** Added C1 files.
 - **2026-08-26:** Added Q1 HE 8K files.
 - **2026-08-13:** Added B2 Pro files.
@@ -116,7 +117,7 @@ If you're new, begin with one of these paths:
 | **Q Ultra 8K Series** | Keyboard | Q1 Ultra 8K, Q3 Ultra 8K, Q5 Ultra 8K, Q6 Ultra 8K, Q11 Ultra 8K, Q13 Ultra 8K | Published files for Q3, Q6, and Q11 Ultra 8K; README/model pages prepared for the others |
 | **K Pro Series** | Keyboard | K1 Pro–K17 Pro (16 models) | Case, Plate, Full Model, Stabilizer |
 | **K Max Series** | Keyboard | K0 Max, K1 Max, K2 Max, K3 Max, K4 Max, K5 Max, K7 Max, K8 Max, K9 Max, K10 Max, K11 Max, K13 Max, K15 Max, K17 Max | Case, Plate, Full Model, Stabilizer, Keycap on selected models; README/model pages prepared for K4 Max and K9 Max |
-| **K Ultra 8K Series** | Keyboard | K2 Ultra 8K, K3 Ultra 8K | Plate, PCB, Bottom Case, Full Model, Metal Strip |
+| **K Ultra 8K Series** | Keyboard | K2 Ultra 8K, K3 Ultra 8K, K5 Ultra 8K | Plate, PCB, Bottom Case, Full Model, Metal Strip |
 | **K HE Series** | Hall Effect | K2 HE, K4 HE, K6 HE, K8 HE, K10 HE | Published models include case, plate, full model, stabilizer, and selected keycap files; K6 HE is currently folder-only |
 | **K QMK Series** | Keyboard | K1 QMK, K2 QMK, K3 QMK, K4 QMK, K5 QMK, K8 QMK, K10 QMK | Published CAD files for K2 QMK; README/model pages prepared for the others |
 | **L Series** | Keyboard | L1, L3 | Case, Plate, Knob, Full Model, Stabilizer |
@@ -126,7 +127,7 @@ If you're new, begin with one of these paths:
 | **P HE Series** | Hall Effect | P1 HE, P2 HE, P3 HE | Published files for P1 HE; README/model pages prepared for P2 HE and P3 HE |
 | **Mouse Series** | Mouse | M1–M7, M2 Mini, M3 Mini, G1, G2, G3, G4, G5, G6 HE, BM22, BM24, BM25, BM27, Nape Pro (20 models) | Shell, Full Model, PTFE Files, Receiver Parts |
 
-**163 device models. 768+ design files. Source-available. Accessory-friendly.**
+**164 device models. 778+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
@@ -162,6 +163,7 @@ K-Max-Series/
 K-Ultra-8K-Series/
   K2 Ultra 8K/          — 75% wireless keyboard files with plate, PCB, bottom case, full model, metal strip, and product page reference
   K3 Ultra 8K/          — Ultra-slim 75% wireless keyboard files with plate, PCB, bottom case, full model, and product page reference
+  K5 Ultra 8K/          — Ultra-slim full-size wireless keyboard files with UK/US plate, PCB, bottom case, full model, and product page reference
 K-HE-Series/
   K2 HE/                — Example model folder with Cherry and OSA keycap STEP files
 K-QMK-Series/
