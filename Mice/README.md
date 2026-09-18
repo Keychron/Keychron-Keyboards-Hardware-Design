@@ -22,6 +22,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [G3](./G3/README.md) | Wireless Ultra-light Gaming | Gaming |
 | [G5](./G5/README.md) | Wireless Ultra-light Gaming | Gaming |
 | [G6 HE](./G6%20HE/README.md) | Wireless Competitive Gaming | Gaming |
+| [G9 HE](./G9%20HE/README.md) | Wireless Competitive Gaming | Gaming |
 | [BM22](./BM22/README.md) | Wireless Office | Productivity |
 | [BM24](./BM24/README.md) | Wireless Office | Productivity |
 | [BM25](./BM25/README.md) | Wireless Office | Productivity |
@@ -29,7 +30,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 
 ## Current Product Lineup
 
-As of July 31, 2026, the Keychron mice collection includes the following mouse products:
+As of September 18, 2026, the Keychron mice collection includes the following mouse products:
 
 - [Keychron M1 Wireless Mouse](https://www.keychron.com/collections/keychron-m-series-mice/products/keychron-m1-wireless-mouse)
 - [Keychron M2 Wireless Mouse](https://www.keychron.com/products/keychron-m2-wireless-mouse)
@@ -46,6 +47,7 @@ As of July 31, 2026, the Keychron mice collection includes the following mouse p
 - [Keychron G3 Ultra Light Wireless Mouse](https://www.keychron.com/products/keychron-g3-ultra-light-wireless-mouse)
 - [Keychron G5 Ultra Light Wireless Mouse](https://www.keychron.com/collections/mice-collection/products/keychron-g5-ultra-light-wireless-mouse)
 - [Keychron G6 HE](https://keychron.kr/news/g6-he-brief/)
+- [Keychron G9 HE](./G9%20HE/README.md)
 - [Keychron BM22 Wireless Mouse](https://www.keychron.com/products/keychron-bm22-wireless-mouse)
 - [Keychron BM24 Wireless Mouse](https://www.keychron.com/products/keychron-bm24-wireless-mouse)
 - [Keychron BM25 Wireless Mouse](https://www.keychron.com/products/keychron-bm25-wireless-mouse)
@@ -93,6 +95,7 @@ Mice/
 ├── G3/
 ├── G5/
 ├── G6 HE/
+├── G9 HE/
 └── README.md
 ```
 

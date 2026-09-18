@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-09-18:** Added G9 HE mouse files.
 - **2026-09-11:** Added K5 Ultra 8K files.
 - **2026-09-03:** Added more Nape Pro files.
 - **2026-09-02:** Added C1 files.
@@ -126,9 +127,9 @@ If you're new, begin with one of these paths:
 | **V Ultra 8K Series** | Keyboard | V0 Ultra 8K, V1 Ultra 8K, V3 Ultra 8K, V5 Ultra 8K, V6 Ultra 8K, V10 Ultra 8K | README/model pages prepared for future CAD uploads |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **P HE Series** | Hall Effect | P1 HE, P2 HE, P3 HE | Published files for P1 HE; README/model pages prepared for P2 HE and P3 HE |
-| **Mouse Series** | Mouse | M1–M7, M2 Mini, M3 Mini, G1, G2, G3, G4, G5, G6 HE, BM22, BM24, BM25, BM27, Nape Pro (20 models) | Shell, Full Model, PTFE Files, Receiver Parts |
+| **Mouse Series** | Mouse | M1–M7, M2 Mini, M3 Mini, G1, G2, G3, G4, G5, G6 HE, G9 HE, BM22, BM24, BM25, BM27, Nape Pro (21 models) | Shell, Full Model, PTFE Files, Receiver Parts |
 
-**164 device models. 778+ design files. Source-available. Accessory-friendly.**
+**165 device models. 783+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
@@ -183,6 +184,7 @@ Mice/
   BM22/                 — Lightweight wireless mouse files with product page reference
   G3/                   — Ultra-light wireless gaming mouse files with product page reference
   G5/                   — Ultra-light wireless gaming mouse files with product page reference
+  G9 HE/                — Ultra-light tri-mode competitive gaming mouse files with Turbo Link 8K receiver parts
   BM27/                 — Vertical ergonomic wireless mouse files with product page reference
   M1/                   — Shell and full model
 Keycap Profiles/
