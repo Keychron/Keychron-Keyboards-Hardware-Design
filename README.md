@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-10-12:** Added [Paw Key files](Special-Series/Paw%20Key/README.md#downloads).
 - **2026-10-10:** Added J11 Ultra 8K files.
 - **2026-10-10:** Added J6 Ultra 8K files.
 - **2026-10-10:** Added J9 Ultra 8K files.
@@ -137,10 +138,19 @@ If you're new, begin with one of these paths:
 | **V Ultra 8K Series** | Keyboard | V0 Ultra 8K, V1 Ultra 8K, V3 Ultra 8K, V5 Ultra 8K, V6 Ultra 8K, V10 Ultra 8K | README/model pages prepared for future CAD uploads |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **P HE Series** | Hall Effect | P1 HE, P2 HE, P3 HE | Published files for P1 HE; README/model pages prepared for P2 HE and P3 HE |
+| **[Special Series](Special-Series/README.md)** | Programmable Key | [Paw Key](Special-Series/Paw%20Key/README.md) | 3D CAD Model |
 | **Mouse Series** | Mouse | M1–M7, M2 Mini, M3 Mini, G1, G2, G3, G4, G5, G6 HE, G9 HE, BM22, BM24, BM25, BM27, Nape Pro (21 models) | Shell, Full Model, PTFE Files, Receiver Parts |
 
-**170 device models. 790+ design files. Source-available. Accessory-friendly.**
+**171 device models. 790+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
+
+## Paw Key
+
+[Keychron Big Kitty Paw Key hardware files](Special-Series/Paw%20Key/README.md) are now available in the Special Series.
+
+![Keychron Big Kitty Paw Key](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Big-Kitty-Paw-Key-1_8dad18f7-05b4-4f71-aca1-800e5e88b7ae.jpg?v=1755828007)
+
+[Download Paw Key 3D CAD model (.stp)](http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Special-Series/Paw%20Key/paw%20luncher-20250805.stp)
 
 ## Directory Structure
 
@@ -198,6 +208,8 @@ L-Series/
   L1/                   — Aluminum keyboard files with plate, case, knob, and stabilizers
 Orca-Series/
   Orca/                 — Orca Echo split ergonomic keyboard files, product image, highlights, and server download links
+Special-Series/
+  Paw Key/              — Big Kitty Paw Key product image and server-hosted STEP download
 Mice/
   BM22/                 — Lightweight wireless mouse files with product page reference
   G3/                   — Ultra-light wireless gaming mouse files with product page reference
