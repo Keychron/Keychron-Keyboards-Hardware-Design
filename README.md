@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-10-12:** Moved [Orca Echo](Special-Series/Orca/README.md) into [Special Series](Special-Series/README.md).
 - **2026-10-12:** Added [Paw Key files](Special-Series/Paw%20Key/README.md#downloads).
 - **2026-10-10:** Added J11 Ultra 8K files.
 - **2026-10-10:** Added J6 Ultra 8K files.
@@ -80,7 +81,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 If you're new, begin with one of these paths:
 
 - **Browse keyboard files**  
-  Explore B Pro, C, C Pro 8K, J, J Ultra, J HE 8K, Orca, Q, Q Pro, Q HE, Q Max, Q Ultra 8K, K Pro, K Max, K Ultra 8K, K HE, K QMK, V Max, and P HE models.
+  Explore B Pro, C, C Pro 8K, J, J Ultra, J HE 8K, Special Series, Q, Q Pro, Q HE, Q Max, Q Ultra 8K, K Pro, K Max, K Ultra 8K, K HE, K QMK, V Max, and P HE models.
 
 - **Browse mouse files**  
   Explore shell and full-model files for M, G, and BM series mice.
@@ -133,12 +134,11 @@ If you're new, begin with one of these paths:
 | **K HE Series** | Hall Effect | K2 HE, K4 HE, K6 HE, K8 HE, K10 HE | Published models include case, plate, full model, stabilizer, and selected keycap files; K6 HE is currently folder-only |
 | **K QMK Series** | Keyboard | K1 QMK, K2 QMK, K3 QMK, K4 QMK, K5 QMK, K8 QMK, K10 QMK | Published CAD files for K2 QMK; README/model pages prepared for the others |
 | **L Series** | Keyboard | L1, L3 | Case, Plate, Knob, Full Model, Stabilizer |
-| **Orca Series** | Split Keyboard | Orca Echo | Top Case, Bottom Case, PCB, Plate, Full Model |
 | **V 8K Series** | Keyboard | V1 8K, V3 8K, V5 8K, V6 8K | README/model pages prepared for future CAD uploads |
 | **V Ultra 8K Series** | Keyboard | V0 Ultra 8K, V1 Ultra 8K, V3 Ultra 8K, V5 Ultra 8K, V6 Ultra 8K, V10 Ultra 8K | README/model pages prepared for future CAD uploads |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **P HE Series** | Hall Effect | P1 HE, P2 HE, P3 HE | Published files for P1 HE; README/model pages prepared for P2 HE and P3 HE |
-| **[Special Series](Special-Series/README.md)** | Programmable Key | [Paw Key](Special-Series/Paw%20Key/README.md) | 3D CAD Model |
+| **[Special Series](Special-Series/README.md)** | Programmable Key / Split Keyboard | [Paw Key](Special-Series/Paw%20Key/README.md), [Orca Echo](Special-Series/Orca/README.md) | 3D CAD Model, Top Case, Bottom Case, PCB, Plate |
 | **Mouse Series** | Mouse | M1–M7, M2 Mini, M3 Mini, G1, G2, G3, G4, G5, G6 HE, G9 HE, BM22, BM24, BM25, BM27, Nape Pro (21 models) | Shell, Full Model, PTFE Files, Receiver Parts |
 
 **171 device models. 790+ design files. Source-available. Accessory-friendly.**
@@ -206,9 +206,8 @@ P-HE-Series/
   P1 HE/                — Lemokey Hall Effect keyboard files, with P2 HE and P3 HE model pages also present
 L-Series/
   L1/                   — Aluminum keyboard files with plate, case, knob, and stabilizers
-Orca-Series/
-  Orca/                 — Orca Echo split ergonomic keyboard files, product image, highlights, and server download links
 Special-Series/
+  Orca/                 — Orca Echo split ergonomic keyboard files, product image, highlights, and server download links
   Paw Key/              — Big Kitty Paw Key product image and server-hosted STEP download
 Mice/
   BM22/                 — Lightweight wireless mouse files with product page reference
