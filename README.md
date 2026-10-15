@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-10-15:** Added V4 QMK files.
 - **2026-10-12:** Moved [Orca Echo](Special-Series/Orca/README.md) into [Special Series](Special-Series/README.md).
 - **2026-10-12:** Added [Paw Key files](Special-Series/Paw%20Key/README.md#downloads).
 - **2026-10-10:** Added J11 Ultra 8K files.
@@ -134,6 +135,7 @@ If you're new, begin with one of these paths:
 | **K HE Series** | Hall Effect | K2 HE, K4 HE, K6 HE, K8 HE, K10 HE | Published models include case, plate, full model, stabilizer, and selected keycap files; K6 HE is currently folder-only |
 | **K QMK Series** | Keyboard | K1 QMK, K2 QMK, K3 QMK, K4 QMK, K5 QMK, K8 QMK, K10 QMK | Published CAD files for K2 QMK; README/model pages prepared for the others |
 | **L Series** | Keyboard | L1, L3 | Case, Plate, Knob, Full Model, Stabilizer |
+| **V QMK Series** | Keyboard | V2, V3, [V4](V-QMK-Series/V4/README.md) | Case, Plate, PCB, Full Model |
 | **V 8K Series** | Keyboard | V1 8K, V3 8K, V5 8K, V6 8K | README/model pages prepared for future CAD uploads |
 | **V Ultra 8K Series** | Keyboard | V0 Ultra 8K, V1 Ultra 8K, V3 Ultra 8K, V5 Ultra 8K, V6 Ultra 8K, V10 Ultra 8K | README/model pages prepared for future CAD uploads |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
@@ -196,6 +198,8 @@ K-HE-Series/
   K2 HE/                — Example model folder with Cherry and OSA keycap STEP files
 K-QMK-Series/
   K1 QMK/               — README and product page reference, with K2, K3, K4, K5, K8, and K10 QMK model folders also present
+V-QMK-Series/
+  V4/                   — 60% wired QMK keyboard files with US plate, PCB, top case, bottom case, full model, and product image reference
 V-Max-Series/
   V1 Max/               — Tri-mode keyboard hardware files across V1–V10 Max
 V-Ultra-8K-Series/
