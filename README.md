@@ -129,6 +129,7 @@ If you're new, begin with one of these paths:
 | **Q HE 8K Series** | Hall Effect | Q1 HE 8K, Q2 HE 8K, Q3 HE 8K, Q5 HE 8K, Q6 HE 8K, Q16 HE 8K | Published files for Q1 HE 8K and Q3 HE 8K; README/model pages prepared for the remaining Q HE 8K models |
 | **Q Max Series** | Keyboard | Q0 Max, Q1 Max, Q2 Max, Q3 Max, Q5 Max, Q6 Max, Q8 Max, Q10 Max, Q12 Max, Q13 Max, Q14 Max, Q15 Max | Published CAD files for Q6 Max; README/model pages prepared for the others |
 | **Q Ultra 8K Series** | Keyboard | Q1 Ultra 8K, Q3 Ultra 8K, Q5 Ultra 8K, Q6 Ultra 8K, Q11 Ultra 8K, Q13 Ultra 8K | Published files for Q3, Q6, and Q11 Ultra 8K; README/model pages prepared for the others |
+| **[K SE Series](K-SE-Series/README.md)** | Keyboard | [K1 SE](K-SE-Series/K1-SE/README.md) | Aluminum Top Case, Bottom Case, PCB, Full Model |
 | **K Pro Series** | Keyboard | K1 Pro–K17 Pro (16 models) | Case, Plate, Full Model, Stabilizer |
 | **K Max Series** | Keyboard | K0 Max, K1 Max, K2 Max, K3 Max, K4 Max, K5 Max, K7 Max, K8 Max, K9 Max, K10 Max, K11 Max, K13 Max, K15 Max, K17 Max | Case, Plate, Full Model, Stabilizer, Keycap on selected models; README/model pages prepared for K4 Max and K9 Max |
 | **K Ultra 8K Series** | Keyboard | K2 Ultra 8K, K3 Ultra 8K, K5 Ultra 8K | Plate, PCB, Bottom Case, Full Model, Metal Strip |
@@ -185,6 +186,8 @@ Q-Max-Series/
   Q0 Max/               — README and product page reference, with Q1, Q2, Q3, Q5, Q6, Q8, Q10, Q12, Q13, Q14, and Q15 Max model folders also present
 Q-Ultra-8K-Series/
   Q3 Ultra 8K/          — Full-metal TKL wireless keyboard files with case, plate, PCB, full model, and product page reference
+K-SE-Series/
+  K1-SE/                — Ultra-slim TKL US keyboard files with aluminum top case, bottom case, PCB, full model, and product image reference
 K-Pro-Series/
   K1 Pro/               — Low-profile and standard K Pro models through K17 Pro
   K8 Pro/               — Example model folder with `K8-Pro-Keycap.stp`
