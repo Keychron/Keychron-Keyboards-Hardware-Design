@@ -45,6 +45,12 @@
 | `Stabilizer-24mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K1%20Max/Stabilizer-24mm-mini-3D.stp |
 | `Stabilizer-25mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K1%20Max/Stabilizer-25mm-mini-3D.stp |
 | `Stabilizer-101mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K1%20Max/Stabilizer-101mm-mini-3D.stp |
+| `K1_Max_UK_Aluminum_Plate-20230612.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K1%20Max/K1_Max_UK_Aluminum_Plate-20230612.dwg |
+| `K1_Max_UK_Aluminum_Plate-20230612.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K1%20Max/K1_Max_UK_Aluminum_Plate-20230612.pdf |
+| `K1_Max_UK_Aluminum_Top_Case-20261112.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K1%20Max/K1_Max_UK_Aluminum_Top_Case-20261112.stp |
+| `K1_Max_UK_Bottom_Case-20261112.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K1%20Max/K1_Max_UK_Bottom_Case-20261112.stp |
+| `K1_Max_UK_Full-Model-20261112.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K1%20Max/K1_Max_UK_Full-Model-20261112.stp |
+| `K1_Max_UK_PCB-20250414.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K1%20Max/K1_Max_UK_PCB-20250414.dwg |
 
 ## Opening the Files
 
