@@ -15,6 +15,8 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-11-12:** Added more K1 Max files.
+- **2026-11-10:** Added K1 SE files.
 - **2026-10-15:** Added V4 QMK files.
 - **2026-10-12:** Moved [Orca Echo](Special-Series/Orca/README.md) into [Special Series](Special-Series/README.md).
 - **2026-10-12:** Added [Paw Key files](Special-Series/Paw%20Key/README.md#downloads).
