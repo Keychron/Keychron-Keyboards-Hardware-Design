@@ -6,6 +6,14 @@ Keycap profiles define the shape, height, and sculpting of the keys on a mechani
 
 LSA stands for "Low-profile Spherical Angled" — a name that describes the three defining traits of the profile in a single abbreviation. It represents Keychron's effort to bring sculpted ergonomic design into the low-profile form factor, where most competing options are flat and unsculpted.
 
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `LSA-key-V2-20221110.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Keycap%20Profiles/LSA%20Profile/LSA-key-V2-20221110.stp |
+
 ### What is LSA Profile?
 
 LSA is a low-profile sculpted keycap profile designed exclusively for Keychron's low-profile mechanical keyboards. It combines a spherical top surface with angled row sculpting at an ultra-compact height, delivering ergonomic shaping in a form factor that sits dramatically closer to the desk than standard profiles.
