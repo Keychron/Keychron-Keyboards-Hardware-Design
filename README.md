@@ -15,6 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
+- **2026-11-23:** Added LSA Profile files.
 - **2026-11-12:** Added more K1 Max files.
 - **2026-11-10:** Added K1 SE files.
 - **2026-10-15:** Added V4 QMK files.
